@@ -39,6 +39,7 @@
   #library(tidyverse)
 }
 
+# FGC.rds can download from https://zenodo.org/record/6523440/files/FGC.rds?download=1
 FGC <- readRDS(file = "./FGC.rds")
 
 gonadalSomaticMakerGenes <- c("WT1", "COL3A1", "COL1A1", "VCAN", "FOXL2",
