@@ -192,3 +192,4 @@ if [[ $STEPS =~ '7' ]];then
 		done < R1.txt
 		echo -e "\033[32m======Denovo DONE ======\033[0m"
 fi
+
