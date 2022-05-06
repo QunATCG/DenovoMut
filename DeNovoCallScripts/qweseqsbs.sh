@@ -36,7 +36,7 @@ if [ -z $1 ] || [ -z $2 ] ;then
 		echo -e "\033[32m  STEP4: Mark Duplicate\033[0m"
 		echo -e "\033[32m  STEP5: RBQS\033[0m"
 		echo -e "\033[32m  STEP6: Varient calling\033[0m"
-		echo -e "\033[32m  STEP7: Denovo\033[0m"
+		echo -e "\033[32m  STEP7: Mutation\033[0m"
 		echo -e "\033[32m  SAMPLE_DIR: raw samples(paired & *fastq.gz) path \033[0m"
 		#echo -e "\033[32m  GENOME_TAG: hg19/hg38 \033[0m"
 		exit
