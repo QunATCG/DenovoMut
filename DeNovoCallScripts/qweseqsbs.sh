@@ -6,9 +6,9 @@
 # mode: step by step
 
 #################### before #####################
-# ref = hg19									#
-# sequence layout = paire						#
-# conda install -c bioconda bwa, fastp, gatk4...#
+# ref = hg19					
+# sequence layout = paire		
+# conda install -c bioconda bwa, fastp, gatk4...
 #################################################
 
 #################### input ######################
