@@ -14,3 +14,6 @@ These sanger sequencing data can be visualized by Chromas software (http://techn
 - T4_C347Y_denovo_1: proband of trio3
 - T4_C347Y_denovo_2: mother of trio3
 - T4_C347Y_denovo_3: father of trio3
+
+## Sporadic cases
+other files were sporadic cases sanger sequencing data
