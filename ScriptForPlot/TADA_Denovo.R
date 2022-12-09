@@ -3,7 +3,7 @@ setwd("/Users/liqun/Desktop/Qun/4_TADA_Denovo/Code/")
 source("./src/TADA.v.1.2.R")
 tada.file = "Denovogene_Mut_TADA.txt"
 tada.data=read.table(tada.file,header=T)
-n.family = 549
+n.family = 473
 n = data.frame(dn=n.family, ca=NA, cn=NA)
 sample.counts <- list(cls1=n, cls2=n)
 
