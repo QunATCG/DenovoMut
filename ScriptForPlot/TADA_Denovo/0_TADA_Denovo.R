@@ -3,7 +3,7 @@ setwd("/Users/liqun/Desktop/T4Data/7_TADA/")
 source("./src/TADA.v.1.2.R")
 tada.file = "Denovogene_Mut_TADA.txt"
 tada.data=read.table(tada.file,header=T)
-n.family = 549 - 76
+n.family = 473
 n = data.frame(dn=n.family, ca=NA, cn=NA)
 sample.counts <- list(cls1=n, cls2=n)
 
@@ -19,12 +19,7 @@ tada.counts=list(cls1=cls1.counts,cls2=cls2.counts)
 mu=data.frame(cls1=tada.data$mut.cls1,cls2=tada.data$mut.cls2)
 denovo.only=data.frame(cls1=TRUE,cls2=TRUE)
 
-###############
-# lambda=2.0 # the burden
-# 501/17226 refseq Hg19 genes = 0.02908394
-# pi=0.02908394
-# gamma.mean.dn=(lambda-1)/pi+1
-###############
+
 # risk genes
 pi=419/17226
 
@@ -39,7 +34,7 @@ cls1_λ.dn_lof = (61*23)/(7*123)
 # cls2-gamma.mean.dn-mis
 # num(mis-case) = 294
 # num(mis-control) = 39
-cls2_λ.dn_mis = (294*23)/(29*123)
+cls2_λ.dn_mis = (294*23)/(39*123)
 
 cls1_gamma.mean.dn_lof= 1+((cls1_λ.dn_lof-1)/pi)
 cls2_gamma.mean.dn_mis= 1+((cls2_λ.dn_mis-1)/pi)
@@ -55,14 +50,4 @@ re.TADA.null=do.call(cbind.data.frame, TADAnull(tada.counts=tada.counts, sample.
 re.TADA$pval=bayesFactor.pvalue(re.TADA$BF.total,re.TADA.null$BFnull.total)
 hist(re.TADA$pval)
 
-write.table(re.TADA,"re.TADA.20221125.txt",sep = "\t")
-
-library(qqman)
-pdf("qqman20211209.pdf",width = 5.416667, height = 3.125000)
-data = read.table("manhattan.plot.20211209.txt",header = T)
-colnames(data) = c("SNP","CHR","BF1","BF2","BFTotal","Q","P","BP")
-data = data[!duplicated(data$SNP),]
-manhattan(data, genomewideline = -log10(0.05/nrow(data)), annotatePval = 0.05/nrow(data), suggestiveline = F)
-abline(h = -log10(0.05), col = "red")
-# qq(data$P)
-dev.off()
+write.table(re.TADA,"re.TADA.txt",sep = "\t")
