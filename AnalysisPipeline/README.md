@@ -1,4 +1,4 @@
-# Analysis
+# Analysis bioinformatics pipeline
 - **DeNovoCallScripts**: https://github.com/QunATCG/DenovoMut/tree/main/DeNovoCallScripts
 - **Estimate risk genes**: https://github.com/QunATCG/DenovoMut/blob/main/ScriptForPlot/estimatePlot.R
 - **Denovolyzer**: https://denovolyzer.org/
