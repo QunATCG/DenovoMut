@@ -6,3 +6,5 @@
 - **ProteinStructure**: Protein structure predicted by AlphaFold2.
 - **ScriptForPlot**: Scripts for plot.
 - **sangerSequencing**: Raw sanger sequencing data.
+
+Contact: liqun95@163.com
