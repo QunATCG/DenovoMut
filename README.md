@@ -1,4 +1,4 @@
-# Calling of *de novo* mutations for female infertility with oocyte and embryo defects
+# Calling for *de novo* mutations
 ## Scripts and Supplementary Information
 - **DeNovoCallScripts**: Calling *de novo* mtations pipeline.
 - **ExpressionFile**: Single cell expression data (female fetal germ cell, follicle, maturation oocyte and early embryo).
