@@ -4,4 +4,4 @@
 - **Denovolyzer**: https://denovolyzer.org/
 - **Single Cell**: https://github.com/QunATCG/DenovoMut/tree/main/ScriptForPlot/SingleCellProcess
 - **TADA denovo**: https://github.com/QunATCG/DenovoMut/tree/main/ScriptForPlot/TADA_Denovo
-- **Statistics**: All statistics test methods were writen in manuscript.
+- **Statistics**: All statistical methods are listed in the article
