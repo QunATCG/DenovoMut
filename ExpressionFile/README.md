@@ -1,5 +1,5 @@
 Processed **single cell data** (FGC.rds) can download from https://zenodo.org/record/6523440/files/FGC.rds?download=1 <br/>
-Single cell pipeline: https://github.com/QunATCG/DenovoMut/tree/main/ScriptForPlot/SingleCellProcess
+**Single cell pipeline**: https://github.com/QunATCG/DenovoMut/tree/main/ScriptForPlot/SingleCellProcess
 
 - **0_FGCExpMean.txt**: human female fetal germ cell <br/>
 Li L, Dong J, Yan L, Yong J, Liu X, Hu Y, Fan X, Wu X, Guo H, Wang X, et al: **Single-Cell RNA-Seq  Analysis Maps  Development of Human Germline Cells and Gonadal Niche Interactions**. *Cell Stem Cell* 2017, 20:858-873.e854. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28457750/)
