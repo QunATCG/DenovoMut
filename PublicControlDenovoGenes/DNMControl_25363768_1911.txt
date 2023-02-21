@@ -1,0 +1,2289 @@
+familyId	location	variant	vcfVariant	inChild	fromParent	effectGene	effectType	familyDescription	CSHL	YALE	UW	IossifovWE2012	EichlerWE2012	StateWE2012	EichlerTG2012
+12111	1:1225729	sub(G->A)	1:1225729:G:A	sF		SCNN1D	missense	pMsF			strong:valid				
+11138	1:1230203	sub(G->A)	1:1230203:G:A	sM		ACAP3	intron	pMsM	strong						
+14253	1:1246368	sub(G->C)	1:1246368:G:C	sF		PUSL1	missense	pMsF	strong						
+11057	1:1558774	sub(G->A)	1:1558774:G:A	sM		MIB2	missense	pMsM		strong:valid				yes	
+13985	1:1886352	sub(C->T)	1:1886352:C:T	pMsM		KIAA1751	3'UTR	pMsM		strong					
+12976	1:3679713	sub(C->T)	1:3679713:C:T	sM		CCDC27	synonymous	pMsM	strong			yes			
+14435	1:3732035	sub(G->A)	1:3732035:G:A	sM		CEP104	synonymous	pMsM	strong						
+14290	1:5987744	sub(C->T)	1:5987744:C:T	sF		NPHP4	missense	pMsF	strong						
+12299	1:6653606	sub(C->T)	1:6653606:C:T	sF		KLHL21	missense	pMsF		strong					
+14338	1:6653683	del(2)	1:6653682:TCC:T	sF		KLHL21	frame-shift	pMsF	weak:valid						
+14201	1:8421838	sub(C->A)	1:8421838:C:A	sF		RERE	missense	pMsF			not called:valid				
+11696	1:10166514	sub(G->A)	1:10166514:G:A	sM		UBE4B	missense	pMsM			not called:valid				
+14354	1:10707934	sub(C->T)	1:10707934:C:T	sM		CASZ1	missense	pMsM	strong						
+14616	1:11115912	sub(C->G)	1:11115912:C:G	sM		SRM	missense	pFsM			not called:valid				
+14188	1:12017998	del(1)	1:12017997:TG:T	sM		PLOD1	frame-shift	pMsM		strong:valid					
+11033	1:15892567	sub(C->T)	1:15892567:C:T	sF		DNAJC16	intron	pMsF	strong						
+14309	1:16525646	sub(G->A)	1:16525646:G:A	sF		ARHGEF19	synonymous	pMsF	strong						
+13730	1:17953942	sub(G->A)	1:17953942:G:A	sM		ARHGEF10L	missense	pFsM		strong:valid				yes	
+14064	1:17964465	sub(G->A)	1:17964465:G:A	sF		ARHGEF10L	synonymous	pFsF			not called:valid				
+13709	1:19439345	sub(C->T)	1:19439345:C:T	sF		UBR4	missense	pMsF	strong						
+13058	1:19453084	sub(G->A)	1:19453084:G:A	sM		UBR4	synonymous	pMsM			not called:valid				
+11330	1:19638385	sub(G->A)	1:19638385:G:A	sF		AKR7A2	synonymous	pMsF		strong					
+12324	1:20009872	sub(G->C)	1:20009872:G:C	sF		TMCO4	synonymous	pMsF			not called:valid				
+11800	1:22816653	sub(T->C)	1:22816653:T:C	sM		ZBTB40	missense	pMsM	strong						
+11483	1:22973931	sub(C->T)	1:22973931:C:T	sM		C1QC	synonymous	pMsM	strong						
+11152	1:23760755	sub(A->G)	1:23760755:A:G	sF		ASAP3	missense	pMsF		strong					
+14261	1:24189638	sub(G->A)	1:24189638:G:A	sF		FUCA1	synonymous	pMsF			not called:valid				
+13962	1:24460746	sub(G->A)	1:24460746:G:A	sF		IL22RA1	synonymous	pMsF		strong					
+14403	1:24507340	del(3)	1:24507339:GCCT:G	sF		IFNLR1	no-frame-shift	pMsF		strong					
+11440	1:24976570	sub(C->T)	1:24976570:C:T	sF		SRRM1	missense	pFsF	strong						
+13925	1:26135190	sub(G->T)	1:26135190:G:T	sF		SEPN1	missense	pMsF			strong:valid				
+13737	1:26299052	sub(G->C)	1:26299052:G:C	sF		PAFAH2	missense	pMsF		strong:valid					
+11512	1:26360172	sub(T->G)	1:26360172:T:G	sF		EXTL1	intron	pMsF			strong				
+12246	1:27190426	sub(G->A)	1:27190426:G:A	sF		SFN	synonymous	pMsF			not called:valid				
+11489	1:27440652	sub(C->T)	1:27440652:C:T	sM		SLC9A1	missense	pMsM	strong						
+14149	1:27939528	sub(C->T)	1:27939528:C:T	sM		FGR	missense	pMsM	strong						
+12568	1:27995052	sub(G->A)	1:27995052:G:A	sF		IFI6	intron	pMsF		strong					
+12524	1:28282221	sub(G->A)	1:28282221:G:A	sF	dad	SMPDL3B	synonymous	pFsF		strong:valid				yes	
+12926	1:28601365	sub(G->A)	1:28601365:G:A	sM		SESN2	synonymous	pMsM	strong			yes			
+12867	1:28975196	sub(A->G)	1:28975196:A:G	sM		RNU11	non-coding	pFsM	strong			yes			
+12597	1:28975218	sub(G->A)	1:28975218:G:A	sF	dad	RNU11	non-coding	pMsF	strong						
+14556	1:29587385	sub(C->A)	1:29587385:C:A	sF		PTPRU	missense	pMsF			not called:valid				
+13390	1:32207262	sub(G->A)	1:32207262:G:A	pMsF		BAI2	synonymous	pMsF		strong					
+11341	1:32566110	sub(G->A)	1:32566110:G:A	sF		TMEM39B	missense	pMsF	strong						
+14043	1:33795807	sub(G->A)	1:33795807:G:A	sM		PHC2	synonymous	pMsM	strong						
+13258	1:34329929	sub(C->T)	1:34329929:C:T	sF		HMGB4	missense	pMsF	strong			yes			
+11356	1:35365700	sub(G->A)	1:35365700:G:A	sM		DLGAP3	missense	pFsM		strong:valid				yes	
+11595	1:35477530	sub(T->C)	1:35477530:T:C	sF		ZMYM6	missense	pMsF	strong						
+11419	1:35900589	sub(C->T)	1:35900589:C:T	sF		KIAA0319L	missense	pMsF	strong						
+13267	1:38047837	sub(C->T)	1:38047837:C:T	sF		GNL2	missense	pMsF		strong					
+11016	1:38280996	sub(G->T)	1:38280996:G:T	sF		MTF1	missense	pMsF	strong						
+13688	1:39384638	sub(C->T)	1:39384638:C:T	sM		RHBDL2	splice-site	pMsM		strong:valid					
+11522	1:39789893	sub(A->G)	1:39789893:A:G	sM		MACF1	missense	pMsM			not called:valid				
+13443	1:39919462	sub(C->T)	1:39919462:C:T	sF		MACF1	synonymous	pMsF	strong:valid			yes			
+14252	1:41494327	sub(C->T)	1:41494327:C:T	sF		SCMH1	missense	pMsF	strong						
+11525	1:43392758	sub(G->A)	1:43392758:G:A	sM		SLC2A1	missense	pMsM	strong						
+11382	1:43665169	sub(G->A)	1:43665169:G:A	sF		WDR65	missense	pMsF		strong					
+11420	1:44056718	sub(G->A)	1:44056718:G:A	sF		PTPRF	missense	pMsF	strong						
+14308	1:44072029	sub(G->A)	1:44072029:G:A	sM		PTPRF	missense	pMsM		strong					
+11642	1:44169774	sub(A->T)	1:44169774:A:T	sF		KDM4A	missense	pMsF		strong:valid					
+13720	1:45272266	sub(C->T)	1:45272266:C:T	sF		TCTEX1D4	synonymous	pMsF		not called:valid					
+13906	1:45276135	ins(G)	1:45276134:T:TG	sF		BTBD19	intron	pMsF	not called:valid						
+11076	1:45923384	del(3)	1:45923383:ACCT:A	sM		TESK2	no-frame-shift	pMsM	strong:valid						
+11284	1:45981331	sub(T->C)	1:45981331:T:C	sF		PRDX1	synonymous	pMsF		strong					
+13035	1:46739904	sub(C->T)	1:46739904:C:T	sF		RAD54L	intron	pFsF	strong			yes			
+13095	1:47075778	sub(T->A)	1:47075778:T:A	sF		MOB3C	missense	pMsF		strong:valid	not called:valid		yes		
+12860	1:47610399	sub(G->A)	1:47610399:G:A	sF		CYP4A22	missense	pMsF	strong			yes			
+11052	1:48697782	sub(G->A)	1:48697782:G:A	sM	dad	SLC5A9	missense	pMsM		strong:valid					
+12409	1:51210468	sub(C->A)	1:51210468:C:A	sF		FAF1	intron	pMsF	strong			yes			
+11472	1:53323026	sub(C->T)	1:53323026:C:T	sF		ZYG11A	missense	pFsF			not called:valid		yes		
+13330	1:53513562	sub(G->C)	1:53513562:G:C	sF		SCP2	missense	pMsF	strong			yes			
+12977	1:53975561	sub(A->C)	1:53975561:A:C	sM		GLIS1	missense	pFsM	strong			yes			
+13227	1:54059946	sub(C->T)	1:54059946:C:T	sF		GLIS1	synonymous	pMsF	strong			yes			
+11030	1:54269704	sub(T->C)	1:54269704:T:C	sF		NDC1	intron	pMsF		strong					
+14197	1:57284965	sub(G->A)	1:57284965:G:A	sM		C1orf168	5'UTR	pMsM		strong					
+11002	1:57489303	sub(T->G)	1:57489303:T:G	sM	dad	DAB1	missense	pFsM	strong						
+11544	1:59041944	sub(C->G)	1:59041944:C:G	sM		TACSTD2	synonymous	pMsM			not called:valid				
+13115	1:63876903	sub(G->A)	1:63876903:G:A	sM		ALG6	missense	pMsM		strong:valid					
+12955	1:65852630	sub(A->G)	1:65852630:A:G	sM		DNAJC6	intron	pMsM	strong						
+14156	1:67878948	sub(T->G)	1:67878948:T:G	sF		SERBP1	splice-site	pMsF			not called:valid				
+12854	1:68903958	sub(C->T)	1:68903958:C:T	sF		RPE65	missense	pMsF		strong					
+12899	1:71418630	sub(A->G)	1:71418630:A:G	sF		PTGER3	missense	pMsF	strong						
+12201	1:75055310	sub(C->T)	1:75055310:C:T	sM	mom	C1orf173	intron	pMsM	strong						
+11309	1:78024256	del(4)	1:78024255:GACTA:G	sF		AK5	intron	pMsF		strong					
+14385	1:79102731	sub(A->G)	1:79102731:A:G	sM		IFI44L	synonymous	pFsM			strong:valid				
+14662	1:79392717	sub(C->T)	1:79392717:C:T	sF		ELTD1	missense	pMsF			not called:valid				
+13829	1:86822196	sub(C->T)	1:86822196:C:T	sF		ODF2L	synonymous	pFsF	strong						
+14282	1:89521714	sub(C->T)	1:89521714:C:T	sF		GBP1	synonymous	pFsF	strong						
+13625	1:89615206	sub(C->T)	1:89615206:C:T	sM		GBP7	synonymous	pMsM		strong					
+13859	1:91403554	sub(C->A)	1:91403554:C:A	sF		ZNF644	missense	pMsF	strong						
+12637	1:91977407	sub(C->T)	1:91977407:C:T	sM		CDC7	missense	pMsM	strong			yes			
+13069	1:94049574	sub(C->A)	1:94049574:C:A	sM		BCAR3	splice-site	pMsM		strong:valid					
+13093	1:94495150	sub(G->C)	1:94495150:G:C	sF		ABCA4	missense	pMsF		strong:valid					
+11869	1:102270081	sub(T->C)	1:102270081:T:C	sF		OLFM3	missense	pMsF		strong:valid					
+13739	1:103352554	sub(C->A)	1:103352554:C:A	sM		COL11A1	missense	pFsM		weak:valid				yes	
+12804	1:110737204	sub(G->A)	1:110737204:G:A	sF		SLC6A17	missense	pMsF		strong					
+12187	1:110775598	sub(G->A)	1:110775598:G:A	sF		KCNC4	3'UTR	pMsF		strong					
+13934	1:110883029	sub(G->A)	1:110883029:G:A	sF		RBM15	synonymous	pMsF	strong						
+14361	1:113242329	sub(A->G)	1:113242329:A:G	sF		MOV10	missense	pMsF			not called:valid				
+14486	1:114137092	sub(T->G)	1:114137092:T:G	sM		MAGI3	intron	pMsM		strong					
+11411	1:114454397	sub(C->T)	1:114454397:C:T	sF		DCLRE1B	missense	pMsF		strong:valid				yes	
+12575	1:114483466	sub(G->C)	1:114483466:G:C	sM		HIPK1	missense	pMsM			not called:valid		yes		
+12628	1:115282447	sub(G->C)	1:115282447:G:C	sF		CSDE1	missense	pMsF	strong			yes			
+11395	1:117554164	sub(G->T)	1:117554164:G:T	sM		CD101	intron	pMsM		strong					
+13720	1:118166169	sub(C->T)	1:118166169:C:T	sF		FAM46C	nonsense	pMsF		weak:valid					
+12657	1:120298147	sub(A->G)	1:120298147:A:G	sF		HMGCS2	missense	pFsF		strong:valid				yes	
+12588	1:144814711	sub(C->T)	1:144814711:C:T	sM		NBPF9,NBPF8	nonsense	pMsM	strong			yes			
+12723	1:144946680	sub(C->T)	1:144946680:C:T	sF		PDE4DIP	missense	pMsF	strong			yes			
+13309	1:145533403	sub(C->T)	1:145533403:C:T	sM		ITGA10,LOC100288142,NBPF10	intron	pMsM	strong			yes			
+14351	1:149398981	sub(C->G)	1:149398981:C:G	sF			intergenic	pMsF	strong						
+12271	1:149895599	sub(C->T)	1:149895599:C:T	sM		SF3B4	synonymous	pMsM		strong					
+14339	1:150469124	sub(A->C)	1:150469124:A:C	sF		TARS2	intron	pMsF	strong						
+11169	1:150484919	sub(G->A)	1:150484919:G:A	sF		ECM1	missense	pMsF			not called:valid				
+12403	1:150531421	sub(G->A)	1:150531421:G:A	sF		ADAMTSL4	intron	pMsF		strong					
+13813	1:150531794	sub(G->A)	1:150531794:G:A	sM		ADAMTSL4	missense	pFsM	strong						
+13099	1:150923868	sub(T->C)	1:150923868:T:C	sM		SETDB1	synonymous	pMsM	strong			yes			
+11268	1:150941485	sub(G->A)	1:150941485:G:A	sF	mom	CERS2	nonsense	pMsF	strong:valid						
+12891	1:151019108	sub(C->T)	1:151019108:C:T	sF		BNIPL	intron	pMsF	strong			yes			
+13802	1:151337466	sub(G->A)	1:151337466:G:A	sF		SELENBP1	missense	pMsF			not called:valid				
+11999	1:151397495	sub(C->T)	1:151397495:C:T	sF		POGZ	missense	pFsF		strong:valid					
+11622	1:151496789	sub(G->A)	1:151496789:G:A	sF		CGN	synonymous	pMsF		strong:valid				yes	
+13515	1:151687160	sub(G->C)	1:151687160:G:C	sM		CELF3	intron	pMsM	strong			yes			
+13028	1:152127798	sub(C->T)	1:152127798:C:T	sF		RPTN	missense	pMsF	strong						
+12550	1:152975717	sub(G->C)	1:152975717:G:C	sF	dad	SPRR3	missense	pFsF	strong			yes			
+12617	1:153617559	sub(G->A)	1:153617559:G:A	sM		CHTOP	synonymous	pFsM			not called:valid				
+14008	1:154145498	ins(CA)	1:154145497:C:CCA	sM		TPM3	intron	pMsM		strong					
+11429	1:154407519	sub(C->T)	1:154407519:C:T	sM		IL6R	missense	pMsM		strong:valid				yes	
+13727	1:154920144	sub(C->T)	1:154920144:C:T	sF		PBXIP1	missense	pMsF	strong						
+12951	1:154991093	sub(G->A)	1:154991093:G:A	sM		DCST2	missense	pMsM	strong			yes			
+13498	1:156244414	sub(C->T)	1:156244414:C:T	sF		SMG5	missense	pMsF		strong:valid					
+14328	1:156256064	sub(C->T)	1:156256064:C:T	sM		TMEM79	synonymous	pMsM		strong					
+14570	1:156446863	sub(G->A)	1:156446863:G:A	sF		MEF2D	missense	pMsF			not called:valid				
+11284	1:156450725	sub(G->A)	1:156450725:G:A	sF	dad	MEF2D	synonymous	pMsF		strong					
+14523	1:156813261	del(1)	1:156813260:AG:A	sF		INSRR	frame-shift	pFsF	strong:valid	strong:valid	strong:valid				
+12091	1:156911203	sub(C->T)	1:156911203:C:T	sM		ARHGEF11	missense	pFsM		strong					
+12679	1:157665208	del(4)	1:157665207:CAGAG:C	sM		FCRL3	frame-shift	pMsM	strong:valid			yes			
+14537	1:158045967	sub(G->A)	1:158045967:G:A	sM		KIRREL	synonymous	pMsM			not called:valid				
+12360	1:158390015	sub(G->A)	1:158390015:G:A	sF	dad	OR10K2	synonymous	pMsF	strong			yes			
+11879	1:158585162	sub(C->T)	1:158585162:C:T	sM		SPTA1	missense	pFsM			not called:valid				
+11520	1:159827660	sub(A->G)	1:159827660:A:G	sM		VSIG8	missense	pMsM	strong						
+11047	1:160460440	sub(G->C)	1:160460440:G:C	sF		SLAMF6	missense	pMsF		strong:valid					
+12115	1:161192286	sub(T->C)	1:161192286:T:C	sM	dad	APOA2	missense	pMsM		strong:valid					
+11730	1:163131737	sub(C->T)	1:163131737:C:T	sF		RGS5	missense	pMsF	strong						
+14252	1:165218728	del(1)	1:165218727:CT:C	sF		LMX1A	frame-shift	pMsF	strong:valid						
+11085	1:166818303	sub(G->A)	1:166818303:G:A	sF		POGK	missense	pMsF		strong:valid				yes	
+14433	1:166818913	sub(C->T)	1:166818913:C:T	sM		POGK	missense	pMsM	strong						
+11490	1:169582192	sub(C->T)	1:169582192:C:T	sF		SELP	nonsense	pMsF		strong:valid				yes	
+14437	1:169807109	sub(G->A)	1:169807109:G:A	sM		C1orf112	intron	pMsM	strong						
+11190	1:173873176	sub(C->G)	1:173873176:C:G	sF		SERPINC1	missense	pMsF			not called:valid		yes		
+11939	1:173930964	del(3)	1:173930963:ACTG:A	sM		RC3H1	no-frame-shift	pMsM		strong					
+13097	1:175067644	sub(C->T)	1:175067644:C:T	sF		TNN	synonymous	pMsF	strong			yes			
+13237	1:175087806	sub(G->A)	1:175087806:G:A	sF	dad	TNN	synonymous	pMsF		strong:valid					
+12967	1:178866831	sub(G->A)	1:178866831:G:A	sM		RALGPS2	synonymous	pMsM	strong						
+14538	1:179013336	sub(G->A)	1:179013336:G:A	sM		FAM20B	synonymous	pMsM			not called:valid				
+12316	1:179311252	sub(C->A)	1:179311252:C:A	sM		SOAT1	missense	pMsM			not called:valid				
+13589	1:179604943	sub(A->G)	1:179604943:A:G	sM		TDRD5	missense	pMsM	strong:valid			yes			
+13621	1:179609037	sub(G->A)	1:179609037:G:A	sM		TDRD5	synonymous	pFsM		strong:valid				yes	
+11673	1:181706696	sub(G->A)	1:181706696:G:A	sM		CACNA1E	missense	pMsM	strong						
+14582	1:181767871	sub(G->A)	1:181767871:G:A	sF		CACNA1E	synonymous	pFsF			not called:valid				
+14440	1:182025606	sub(G->A)	1:182025606:G:A	sM		ZNF648	missense	pMsM	strong						
+12007	1:182442891	sub(C->T)	1:182442891:C:T	sM		RGSL1	synonymous	pFsM		strong					
+14303	1:183184672	sub(C->T)	1:183184672:C:T	sM		LAMC2	missense	pMsM			not called:valid				
+12958	1:183201737	sub(C->G)	1:183201737:C:G	sM		LAMC2	intron	pMsM		not called:valid					
+14343	1:183520216	sub(C->T)	1:183520216:C:T	sF		SMG7	missense	pMsF		strong					
+11045	1:186077583	sub(T->G)	1:186077583:T:G	sM		HMCN1	intron	pFsM		strong					
+12175	1:186337133	sub(A->G)	1:186337133:A:G	sF		TPR	intron	pMsF		strong					
+11090	1:196251455	sub(G->A)	1:196251455:G:A	sM		KCNT2	missense	pMsM		strong:valid					
+13735	1:196397281	sub(A->G)	1:196397281:A:G	sF		KCNT2	missense	pMsF			not called:valid				
+13168	1:200567527	sub(A->G)	1:200567527:A:G	sF		KIF14	missense	pFsF	strong			yes			
+11797	1:200578018	sub(A->G)	1:200578018:A:G	sF		KIF14	synonymous	pMsF		strong:valid				yes	
+11178	1:200811145	sub(G->A)	1:200811145:G:A	sM		CAMSAP2	synonymous	pMsM			not called:valid				
+11577	1:200971340	sub(G->A)	1:200971340:G:A	sF		KIF21B	missense	pMsF			not called:valid				
+14036	1:201193951	sub(A->G)	1:201193951:A:G	sF		IGFN1	missense	pMsF	strong						
+12483	1:201869027	sub(C->T)	1:201869027:C:T	sM	dad	LMOD1	missense	pMsM		strong					
+14256	1:202531930	sub(T->G)	1:202531930:T:G	sF		PPP1R12B	synonymous	pMsF		strong:valid					
+12369	1:202710688	sub(G->A)	1:202710688:G:A	sF		KDM5B	missense	pMsF			not called:valid				
+11178	1:202711785	ins(A)	1:202711784:T:TA	sM		KDM5B	frame-shift	pMsM			strong:valid				
+11003	1:202715044	sub(G->C)	1:202715044:G:C	sF	dad	KDM5B	nonsense	pMsF		strong:valid					
+14203	1:202746219	sub(A->G)	1:202746219:A:G	sM		KDM5B	missense	pMsM			not called:valid				
+11376	1:202894182	sub(A->G)	1:202894182:A:G	sF		KLHL12	synonymous	pMsF	strong						
+13133	1:203152803	sub(C->T)	1:203152803:C:T	sF	dad	CHI3L1	missense	pMsF	strong			yes			
+14203	1:203452982	sub(A->G)	1:203452982:A:G	sM		PRELP	missense	pMsM			not called:valid				
+11200	1:203468764	sub(T->C)	1:203468764:T:C	sF		OPTC	intron	pMsF	strong						
+12664	1:203696505	sub(C->T)	1:203696505:C:T	sM		ATP2B4	intron	pMsM	strong			yes			
+13160	1:204236680	sub(G->A)	1:204236680:G:A	sF		PLEKHA6	intron	pMsF	strong						
+14360	1:205241186	sub(G->C)	1:205241186:G:C	sF		TMCC2	synonymous	pFsF		strong					
+14058	1:207195295	sub(C->T)	1:207195295:C:T	sF		C1orf116	3'UTR	pMsF		strong					
+13133	1:210012388	sub(T->A)	1:210012388:T:A	sF		DIEXF	missense	pMsF	strong			yes			
+12645	1:211093245	sub(A->G)	1:211093245:A:G	sM		KCNH1	missense	pMsM	strong			yes			
+11433	1:212532095	sub(G->A)	1:212532095:G:A	sF		PPP2R5A	missense	pMsF		strong:valid				yes	
+14054	1:212960974	del(2)	1:212960973:CAA:C	sM		NSL1	frame-shift	pMsM		strong					
+12821	1:214542900	sub(C->T)	1:214542900:C:T	sF	dad	PTPN14	synonymous	pMsF	strong			yes			
+11397	1:220330797	sub(C->G)	1:220330797:C:G	sF		RAB3GAP2	missense	pMsF		strong:valid					
+14005	1:220345992	sub(C->T)	1:220345992:C:T	sF		RAB3GAP2	synonymous	pMsF	strong						
+14572	1:222697001	sub(A->G)	1:222697001:A:G	sM		HHIPL2	missense	pMsM			strong:valid				
+12449	1:222903354	sub(C->T)	1:222903354:C:T	sM		BROX	intron	pMsM	strong			yes			
+13894	1:223164906	sub(A->G)	1:223164906:A:G	sF		DISP1	synonymous	pMsF	strong						
+14612	1:223176218	sub(C->T)	1:223176218:C:T	sF		DISP1	synonymous	pMsF			not called:valid				
+13176	1:224612338	sub(G->A)	1:224612338:G:A	sF		WDR26	synonymous	pFsF	strong			yes			
+14675	1:227076735	sub(G->T)	1:227076735:G:T	sF		PSEN2	missense	pMsF	strong						
+13898	1:227170416	sub(C->T)	1:227170416:C:T	sM		ADCK3	synonymous	pMsM	strong						
+11154	1:227216757	sub(G->A)	1:227216757:G:A	sF	mom	CDC42BPA	missense	pMsF		strong:valid					
+14328	1:228005101	sub(C->T)	1:228005101:C:T	sM		PRSS38	missense	pMsM		strong					
+14475	1:228295673	sub(A->T)	1:228295673:A:T	sM		MRPL55	intron	pMsM		strong					
+12096	1:228601547	sub(C->G)	1:228601547:C:G	sM		TRIM17	missense	pMsM	strong						
+14023	1:230991506	sub(G->C)	1:230991506:G:C	sM		C1orf198	intron	pMsM		strong					
+13204	1:231360146	sub(T->C)	1:231360146:T:C	sM		C1orf131	missense	pMsM		strong:valid					
+13993	1:231406633	sub(T->C)	1:231406633:T:C	sM		GNPAT	missense	pMsM	strong						
+14371	1:236706890	sub(C->A)	1:236706890:C:A	sF	dad	LGALS8	missense	pMsF	strong						
+11425	1:237935294	ins(T)	1:237935293:A:AT	sF		RYR2	intron	pMsF		strong	not called				
+11382	1:240964755	sub(C->T)	1:240964755:C:T	sF		RGS7	synonymous	pMsF		strong:valid				yes	
+14288	1:240976989	sub(C->T)	1:240976989:C:T	sF		RGS7	synonymous	pMsF	strong						
+11336	1:241519017	sub(G->T)	1:241519017:G:T	sF		RGS7	missense	pMsF		strong:valid				yes	
+13612	1:244552291	sub(C->T)	1:244552291:C:T	sF		C1orf100	nonsense	pMsF	strong:valid			yes			
+11561	1:244653698	sub(T->G)	1:244653698:T:G	sM		C1orf101	intron	pMsM		strong					
+13552	1:246921631	sub(C->T)	1:246921631:C:T	sM		SCCPDH	missense	pMsM	strong			yes			
+11475	1:247615262	sub(A->G)	1:247615262:A:G	sF		OR2B11	missense	pMsF		strong					
+13875	1:248058989	sub(C->T)	1:248058989:C:T	sM		OR2W3	missense	pMsM	strong						
+12020	1:248344242	sub(T->A)	1:248344242:T:A	sM		OR2M2	missense	pMsM		strong:valid				yes	
+12078	1:248637391	sub(C->T)	1:248637391:C:T	pMsF		OR2T3	missense	pMsF		strong					
+12836	1:249142541	sub(G->A)	1:249142541:G:A	sM		ZNF672	synonymous	pMsM	strong			yes			
+14615	1:249149951	sub(G->A)	1:249149951:G:A	sF		ZNF692	missense	pMsF			not called:valid				
+11309	2:1467477	sub(G->A)	2:1467477:G:A	sF		TPO	intron	pMsF		strong					
+13496	2:8822955	sub(T->A)	2:8822955:T:A	sM		ID2	intron	pMsM	strong			yes			
+12687	2:9621532	sub(C->T)	2:9621532:C:T	sM		IAH1	missense	pMsM		strong:valid					
+14385	2:10015988	sub(C->T)	2:10015988:C:T	sM		TAF1B	intron	pFsM			strong				
+12686	2:15761198	sub(G->A)	2:15761198:G:A	sF		DDX1	missense	pMsF	strong			yes			
+12838	2:16743297	ins(A)	2:16743296:T:TA	sF		FAM49A	frame-shift	pMsF	strong:valid			yes			
+12492	2:21230848	sub(A->G)	2:21230848:A:G	sM		APOB	synonymous	pMsM		strong					
+14384	2:24469704	sub(C->T)	2:24469704:C:T	sF		ITSN2	missense	pFsF			strong:valid				
+11436	2:25966875	sub(G->T)	2:25966875:G:T	sF		ASXL2	synonymous	pMsF	strong						
+12396	2:26696934	sub(C->T)	2:26696934:C:T	sF		OTOF	synonymous	pMsF	strong			yes			
+13287	2:27256972	sub(C->T)	2:27256972:C:T	sM		TMEM214	synonymous	pFsM		strong:valid					
+11580	2:27277573	sub(G->A)	2:27277573:G:A	sM		AGBL5	synonymous	pMsM			not called:valid		yes		
+12653	2:27277605	sub(G->A)	2:27277605:G:A	sF		AGBL5	missense	pMsF	strong			yes			
+12653	2:27277606	sub(A->G)	2:27277606:A:G	sF		AGBL5	synonymous	pMsF	strong			yes			
+13816	2:27440755	sub(C->T)	2:27440755:C:T	sM		CAD	synonymous	pMsM		strong					
+13023	2:27665798	sub(G->A)	2:27665798:G:A	sM		KRTCAP3	intron	pFsM		strong					
+14187	2:27669186	sub(G->A)	2:27669186:G:A	pMsM		IFT172	missense	pMsM		strong:valid					
+13853	2:29222115	sub(G->A)	2:29222115:G:A	sF	mom	FAM179A	missense	pMsF	strong						
+13866	2:29259606	sub(C->T)	2:29259606:C:T	sF		FAM179A	missense	pMsF	strong						
+14221	2:29416320	sub(C->T)	2:29416320:C:T	sM	mom	ALK	missense	pFsM	strong						
+13800	2:29754921	sub(C->T)	2:29754921:C:T	sF		ALK	missense	pMsF		strong:valid					
+14480	2:32314636	sub(C->G)	2:32314636:C:G	sF		SPAST	missense	pMsF	strong:valid	strong:valid	strong:valid				
+13805	2:32445535	sub(C->G)	2:32445535:C:G	sM		SLC30A6	missense	pMsM		strong:valid					
+13570	2:32475222	sub(G->A)	2:32475222:G:A	sM		NLRC4	synonymous	pMsM	strong						
+13932	2:32692733	sub(G->A)	2:32692733:G:A	sF		BIRC6	missense	pMsF	strong						
+11520	2:32693818	sub(G->T)	2:32693818:G:T	sM		BIRC6	missense	pMsM	strong						
+14633	2:32983503	sub(A->G)	2:32983503:A:G	sM		TTC27	missense	pMsM			strong:valid				
+12644	2:36704127	sub(G->A)	2:36704127:G:A	sM		CRIM1	missense	pMsM	strong:valid			yes			
+14501	2:37121152	sub(C->T)	2:37121152:C:T	sM		STRN	missense	pFsM			strong:valid				
+11089	2:37302699	sub(G->A)	2:37302699:G:A	sM		HEATR5B	missense	pMsM		weak:valid				yes	
+14147	2:38231278	sub(G->C)	2:38231278:G:C	sF		RMDN2	splice-site	pMsF		strong:valid					
+13564	2:38796397	sub(T->C)	2:38796397:T:C	sM		HNRNPLL	missense	pMsM	strong			yes			
+13389	2:39050305	sub(G->A)	2:39050305:G:A	sF	dad	DHX57	nonsense	pMsF	weak:valid						
+11247	2:40405541	sub(A->G)	2:40405541:A:G	sF		SLC8A1	missense	pMsF		strong:valid				yes	
+12676	2:45233411	sub(C->T)	2:45233411:C:T	sM		SIX2	synonymous	pMsM	strong			yes			
+13913	2:47205936	del(1)	2:47205935:CA:C	sF		TTC7A	frame-shift	pMsF	strong:valid						
+13913	2:47205937	sub(A->C)	2:47205937:A:C	sF		TTC7A	missense	pMsF	strong						
+12939	2:54152703	sub(G->T)	2:54152703:G:T	sM		PSME4	synonymous	pMsM	strong			yes			
+14252	2:54335773	sub(G->C)	2:54335773:G:C	sF			intergenic	pMsF	strong						
+12041	2:55436920	sub(T->G)	2:55436920:T:G	sM		CLHC1	missense	pMsM			weak:valid				
+13328	2:61441628	sub(G->C)	2:61441628:G:C	sM		USP34	missense	pMsM	strong			yes			
+13166	2:61561048	sub(C->T)	2:61561048:C:T	sM		USP34	missense	pMsM	strong			yes			
+14455	2:61709651	sub(G->C)	2:61709651:G:C	sM		XPO1	missense	pFsM	strong						
+14086	2:62449634	sub(G->C)	2:62449634:G:C	sF		B3GNT2	synonymous	pMsF	strong						
+14614	2:63719991	sub(C->T)	2:63719991:C:T	sF		WDPCP	synonymous	pMsF		strong					
+14570	2:64113658	sub(A->G)	2:64113658:A:G	sF		UGP2	missense	pMsF			strong:valid				
+13991	2:70504331	sub(C->G)	2:70504331:C:G	sF		PCYOX1	missense	pMsF	strong						
+14452	2:73372752	sub(G->A)	2:73372752:G:A	sM	dad		intergenic	pMsM	strong						
+14247	2:73961682	sub(A->T)	2:73961682:A:T	sM		TPRKB	missense	pMsM	strong						
+12161	2:74072001	del(2)	2:74072000:GAA:G	sF		STAMBP	frame-shift	pFsF			strong:valid				
+13559	2:74344885	sub(T->A)	2:74344885:T:A	sF			intergenic	pMsF		strong					
+11345	2:74718528	sub(G->A)	2:74718528:G:A	sM		TTC31	intron	pMsM		strong					
+14691	2:75116467	sub(C->T)	2:75116467:C:T	sM		HK2	missense	pFsM		strong:valid					
+11417	2:80136938	sub(C->T)	2:80136938:C:T	sM		CTNNA2	intron	pMsM	strong						
+12613	2:86338280	sub(G->C)	2:86338280:G:C	sM		PTCD3	missense	pMsM	strong						
+13887	2:86997143	sub(C->T)	2:86997143:C:T	sM		RMND5A	intron	pFsM		strong					
+13951	2:89246917	sub(T->C)	2:89246917:T:C	sF			intergenic	pMsF	strong						
+13061	2:90193297	sub(G->A)	2:90193297:G:A	sF			intergenic	pMsF	strong						
+11935	2:95847381	sub(C->T)	2:95847381:C:T	sM		ZNF2	missense	pMsM		strong					
+13505	2:96690211	sub(C->T)	2:96690211:C:T	sF		GPAT2	missense	pMsF	strong			yes			
+13912	2:96963411	sub(T->C)	2:96963411:T:C	sF		SNRNP200	synonymous	pFsF		strong:valid				yes	
+11241	2:96967339	sub(T->C)	2:96967339:T:C	sM		SNRNP200	missense	pMsM		not called:valid				yes	
+14178	2:96993597	sub(G->A)	2:96993597:G:A	sF	dad	ITPRIPL1	missense	pMsF	strong						
+11512	2:97020087	sub(T->G)	2:97020087:T:G	sF		NCAPH	missense	pMsF			strong:valid				
+13815	2:97508084	sub(C->T)	2:97508084:C:T	sF		ANKRD23	intron	pMsF			strong				
+14198	2:97751974	sub(C->T)	2:97751974:C:T	sF		FAHD2B	intron	pMsF		strong					
+14507	2:99198078	sub(C->T)	2:99198078:C:T	sF		INPP4A	synonymous	sF			strong:valid				
+11181	2:101126095	sub(A->T)	2:101126095:A:T	sF			intergenic	pMsF	strong						
+13336	2:101584905	sub(C->T)	2:101584905:C:T	sF		NPAS2	intron	pMsF	strong			yes			
+14338	2:102413844	sub(G->C)	2:102413844:G:C	sF		MAP4K4	intron	pMsF	strong						
+12154	2:110259141	sub(G->A)	2:110259141:G:A	sF		SH3RF3	missense	pMsF		strong:valid				yes	
+14117	2:111907687	del(1)	2:111907686:CG:C	sM		BCL2L11	frame-shift	pMsM	not called:valid						
+12901	2:112873709	sub(A->G)	2:112873709:A:G	sM		TMEM87B	missense	pMsM	strong						
+11356	2:120003136	sub(G->T)	2:120003136:G:T	sM		STEAP3	missense	pFsM		weak:valid				yes	
+14395	2:120373303	sub(C->T)	2:120373303:C:T	sF		PCDP1	intron	pFsF	strong						
+14132	2:120939520	sub(C->A)	2:120939520:C:A	sF			intergenic	pMsF	strong						
+13071	2:121742110	sub(A->T)	2:121742110:A:T	sF		GLI2	nonsense	pMsF			weak:valid				
+11349	2:127958789	sub(C->T)	2:127958789:C:T	sM		CYP27C1	missense	pMsM	strong						
+14337	2:128322961	sub(G->A)	2:128322961:G:A	sM		MYO7B	splice-site	pMsM			weak:valid				
+11226	2:128631269	del(2)	2:128631268:CTT:C	sM		AMMECR1L	intron	pMsM	strong						
+14219	2:131487138	sub(C->T)	2:131487138:C:T	sF		GPR148	synonymous	pMsF	strong						
+12653	2:134060646	sub(G->T)	2:134060646:G:T	sF		NCKAP5	missense	pMsF	strong			yes			
+14040	2:135676549	sub(A->G)	2:135676549:A:G	sF		CCNT2	missense	pMsF			strong:valid				
+12396	2:136473202	sub(G->A)	2:136473202:G:A	sF		R3HDM1	missense	pMsF	strong			yes			
+13966	2:136567088	sub(C->T)	2:136567088:C:T	sF		LCT	synonymous	pMsF		strong:valid					
+12579	2:141108351	sub(A->G)	2:141108351:A:G	sF		LRP1B	intron	pMsF	strong			yes			
+14646	2:149227283	sub(C->G)	2:149227283:C:G	sF		MBD5	missense	pMsF			not called:valid				
+13171	2:152544812	sub(C->T)	2:152544812:C:T	sF		NEB	synonymous	pFsF		strong:valid				yes	
+12602	2:152548841	sub(T->A)	2:152548841:T:A	sF		NEB	synonymous	pMsF			strong:valid				
+12299	2:157407264	sub(T->G)	2:157407264:T:G	sF		GPD2	intron	pMsF		strong					
+12741	2:158272559	sub(C->T)	2:158272559:C:T	sM		CYTIP	missense	pMsM			strong				
+14342	2:158971622	sub(G->A)	2:158971622:G:A	sM		UPP2	missense	pMsM		strong					
+12162	2:159481858	sub(G->C)	2:159481858:G:C	sF		PKP4	missense	pMsF		strong:valid				yes	
+14283	2:160231217	sub(A->C)	2:160231217:A:C	sF		BAZ2B	missense	pMsF			weak:valid				
+14011	2:160289731	sub(G->A)	2:160289731:G:A	sF		BAZ2B	synonymous	pFsF			strong:valid				
+14075	2:162728881	sub(T->C)	2:162728881:T:C	sM		SLC4A10	missense	pMsM		strong:valid					
+13579	2:162865076	sub(G->T)	2:162865076:G:T	sM		DPP4	nonsense	pMsM	weak:valid						
+13649	2:163005578	sub(G->A)	2:163005578:G:A	sF		GCG	intron	pMsF	strong						
+14342	2:163216675	del(4)	2:163216674:ATAAT:A	sM		GCA	intron	pMsM		strong					
+14090	2:165542467	sub(C->T)	2:165542467:C:T	sM		COBLL1	missense	pMsM		strong:valid					
+14595	2:165950891	sub(C->T)	2:165950891:C:T	sM		SCN3A	missense	pMsM	strong:valid	strong:valid	strong:valid				
+12642	2:166535661	del(3)	2:166535660:CGAT:C	sM		CSRNP3	no-frame-shift	pMsM	weak:valid						
+11597	2:166788316	sub(T->A)	2:166788316:T:A	sM		TTC21B	synonymous	pMsM		strong:valid					
+13891	2:166854654	sub(A->C)	2:166854654:A:C	sF		SCN1A	missense	pMsF	strong						
+13988	2:166903358	sub(G->C)	2:166903358:G:C	sM	dad	SCN1A	synonymous	pMsM	strong						
+12134	2:167145151	sub(C->T)	2:167145151:C:T	sM	mom	SCN9A	synonymous	pMsM			strong:valid				
+13670	2:168100145	sub(C->T)	2:168100145:C:T	sM		XIRP2	missense	pFsM	strong			yes			
+13584	2:169728081	sub(A->G)	2:169728081:A:G	pMsF		SPC25	intron	pMsF	strong			yes			
+11251	2:169780296	sub(G->A)	2:169780296:G:A	sM		ABCB11	missense	pMsM		strong					
+14560	2:170062840	sub(C->T)	2:170062840:C:T	sF		LRP2	missense	pMsF			strong:valid				
+12673	2:173882206	sub(G->A)	2:173882206:G:A	sM		RAPGEF4	missense	pMsM	strong						
+12675	2:173916447	sub(G->A)	2:173916447:G:A	sF		RAPGEF4	synonymous	pMsF	strong						
+13694	2:179393584	sub(C->T)	2:179393584:C:T	sF		TTN	missense	pMsF	strong						
+12255	2:179403477	sub(C->A)	2:179403477:C:A	sM		TTN	missense	pMsM	strong			yes			
+13497	2:179425091	sub(G->A)	2:179425091:G:A	sM		TTN	nonsense	pMsM		strong:valid					
+11458	2:179426692	sub(G->A)	2:179426692:G:A	sM		TTN	missense	pMsM		strong					
+13881	2:179428378	sub(A->C)	2:179428378:A:C	sF		TTN	missense	pMsF	strong						
+11051	2:179478975	sub(G->C)	2:179478975:G:C	sF		TTN	missense	pMsF	strong						
+13398	2:179570029	sub(G->C)	2:179570029:G:C	sF		TTN	missense	pMsF	strong			yes			
+12950	2:187495573	sub(T->C)	2:187495573:T:C	sM		ITGAV	synonymous	pMsM	strong			yes			
+11601	2:189599591	sub(G->A)	2:189599591:G:A	sF		DIRC1	synonymous	pMsF		strong					
+12184	2:190323551	sub(G->A)	2:190323551:G:A	sF	dad	WDR75	synonymous	pFsF	strong						
+14259	2:190531879	sub(C->T)	2:190531879:C:T	sM		ASNSD1	missense	pMsM		strong:valid					
+13256	2:192250616	sub(A->G)	2:192250616:A:G	sF		MYO1B	missense	pMsF	strong						
+14305	2:192711337	ins(G)	2:192711336:A:AG	sF		SDPR	frame-shift	pMsF		strong:valid					
+13954	2:196674474	sub(G->A)	2:196674474:G:A	sM		DNAH7	missense	pMsM		strong					
+13160	2:197641291	sub(G->T)	2:197641291:G:T	sF		GTF3C3	missense	pMsF	strong						
+13825	2:197866561	sub(T->C)	2:197866561:T:C	sF		ANKRD44	missense	pFsF		strong:valid				yes	
+12782	2:198273132	sub(T->C)	2:198273132:T:C	sF		SF3B1	missense	pMsF	strong			yes			
+14547	2:207171918	sub(T->C)	2:207171918:T:C	sM		ZDBF2	missense	pMsM			not called:valid				
+13589	2:207422202	sub(G->A)	2:207422202:G:A	sM		ADAM23	missense	pMsM	strong:valid			yes			
+14236	2:207823094	sub(A->T)	2:207823094:A:T	sF		CPO	missense	pMsF	strong						
+14478	2:207834058	sub(G->A)	2:207834058:G:A	sF		CPO	synonymous	pMsF	strong						
+12462	2:208615672	sub(C->T)	2:208615672:C:T	sF		CCNYL1	intron	pMsF	strong			yes			
+13850	2:210559290	sub(G->A)	2:210559290:G:A	sM		MAP2	missense	pFsM		strong:valid					
+11381	2:210962818	sub(A->C)	2:210962818:A:C	sM		KANSL1L	missense	pMsM	strong						
+14159	2:215807632	sub(A->G)	2:215807632:A:G	sF		ABCA12	intron	pMsF	strong						
+12994	2:215917234	sub(C->T)	2:215917234:C:T	sM		ABCA12	missense	pMsM		strong					
+11121	2:216246987	sub(A->G)	2:216246987:A:G	sF		FN1	synonymous	pMsF	strong						
+14245	2:216298143	sub(G->A)	2:216298143:G:A	sM		FN1	nonsense	pFsM	strong:valid						
+13335	2:216992345	sub(T->C)	2:216992345:T:C	sM		XRCC5	synonymous	pFsM			weak:valid		yes		
+14641	2:218713428	sub(G->A)	2:218713428:G:A	sF		TNS1	synonymous	pMsF			weak:valid				
+11984	2:219130141	sub(T->A)	2:219130141:T:A	sF		AAMP	missense	pMsF		strong:valid					
+11282	2:219894385	sub(C->G)	2:219894385:C:G	sM		CCDC108	missense	pMsM		strong:valid				yes	
+12367	2:220028163	sub(A->G)	2:220028163:A:G	sF		SLC23A3	missense	pMsF		strong:valid					
+11062	2:220338302	sub(C->T)	2:220338302:C:T	sF		SPEG	synonymous	pMsF	strong						
+13197	2:220371479	del(3)	2:220371478:CAAG:C	sF		GMPPA	no-frame-shift	pMsF	strong:valid			yes			
+11999	2:220502407	sub(C->T)	2:220502407:C:T	sF		SLC4A3	synonymous	pFsF		strong					
+13888	2:223781140	sub(A->G)	2:223781140:A:G	sM	dad	ACSL3	missense	pMsM	strong						
+13843	2:225672438	sub(G->A)	2:225672438:G:A	sF		DOCK10	missense	pFsF		strong:valid				yes	
+14650	2:225781495	del(1)	2:225781494:GT:G	sM		DOCK10	frame-shift	pMsM		strong					
+12596	2:227924239	sub(C->T)	2:227924239:C:T	sF		COL4A4	synonymous	pMsF	strong			yes			
+12091	2:228476258	sub(G->T)	2:228476258:G:T	sM	mom	C2orf83	missense	pFsM		strong:valid					
+14137	2:231101835	sub(C->A)	2:231101835:C:A	sM		SP140	missense	pMsM	strong						
+11966	2:231328889	sub(C->T)	2:231328889:C:T	sM		SP100	intron	pMsM		strong					
+14084	2:231740352	del(1)	2:231740351:TC:T	sF		ITM2C	frame-shift	pMsF		strong:valid					
+12275	2:234356957	sub(G->A)	2:234356957:G:A	sM		DGKD	missense	pMsM		strong:valid					
+11352	2:237308035	sub(T->G)	2:237308035:T:G	sF		IQCA1	intron	pMsF		strong					
+14501	2:238303503	sub(T->C)	2:238303503:T:C	sM		COL6A3	missense	pFsM			strong:valid				
+14181	2:239025605	sub(C->T)	2:239025605:C:T	sF	dad	ESPNL	missense	pMsF	strong						
+11372	2:239092759	sub(T->C)	2:239092759:T:C	sM		ILKAP	intron	pMsM		strong					
+14376	2:240969672	del(1)	2:240969671:AT:A	sF		OR6B2	frame-shift	pMsF	not called:valid						
+14376	2:240969673	del(1)	2:240969672:TG:T	sF		OR6B2	frame-shift	pMsF	strong:valid						
+12628	2:241405043	sub(C->T)	2:241405043:C:T	sF		GPC1	synonymous	pMsF	strong			yes			
+11946	2:241421602	sub(C->G)	2:241421602:C:G	sM		ANKMY1	synonymous	pMsM		strong					
+14373	2:241569630	sub(G->A)	2:241569630:G:A	sM	dad	GPR35	synonymous	pFsM	strong						
+14604	2:241658532	sub(C->T)	2:241658532:C:T	sM		KIF1A	missense	pMsM			strong:valid				
+12274	2:241973186	sub(G->A)	2:241973186:G:A	sF		SNED1	missense	pMsF		strong:valid					
+14143	2:242046783	sub(G->C)	2:242046783:G:C	sF		PASK	missense	pMsF		strong:valid					
+13879	2:242102789	sub(C->T)	2:242102789:C:T	sM		PPP1R7	synonymous	pMsM		strong					
+14329	2:242619679	sub(C->G)	2:242619679:C:G	sF		DTYMK	missense	pMsF	strong						
+11905	3:431032	sub(C->T)	3:431032:C:T	sF		CHL1	missense	pMsF		strong:valid				yes	
+12964	3:1363474	sub(A->G)	3:1363474:A:G	sM		CNTN6	missense	pMsM	strong			yes			
+13647	3:4712605	sub(C->T)	3:4712605:C:T	sM	dad	ITPR1	synonymous	pMsM	strong						
+12211	3:9424941	sub(T->C)	3:9424941:T:C	sF		THUMPD3	synonymous	pFsF	strong						
+13747	3:9477532	sub(A->G)	3:9477532:A:G	sM		SETD5	missense	pMsM		strong:valid					
+14623	3:9730364	sub(C->T)	3:9730364:C:T	sF		MTMR14	intron	pMsF			strong				
+11824	3:9960311	sub(A->T)	3:9960311:A:T	sM		IL17RC	intron	pMsM		strong					
+11014	3:10276192	sub(C->G)	3:10276192:C:G	sM		IRAK2	missense	pMsM		strong:valid				yes	
+14418	3:11885460	ins(TAAGTTACCTGGGT)	3:11885459:G:GTAAGTTACCTGGGT	sF		TAMM41	intron	pMsF		strong					
+12540	3:13413397	sub(C->T)	3:13413397:C:T	sF		NUP210	missense	pFsF			not called:valid				
+11679	3:13679290	sub(C->G)	3:13679290:C:G	sM		FBLN2	synonymous	pMsM	strong						
+13036	3:14513738	sub(C->T)	3:14513738:C:T	sF		SLC6A6	synonymous	pMsF	strong			yes			
+13513	3:14974184	sub(A->C)	3:14974184:A:C	sF		FGD5	missense	pMsF	strong			yes			
+14224	3:21606120	sub(G->A)	3:21606120:G:A	sM		ZNF385D	synonymous	pMsM			strong:valid				
+12859	3:23574204	del(6)	3:23574203:TTAAATC:T	sM		UBE2E2	intron	pMsM	strong:valid			yes			
+14608	3:25674262	del(6)	3:25674261:CCACATA:C	sF	dad	TOP2B	no-frame-shift	pMsF			strong				
+14327	3:27439847	sub(G->A)	3:27439847:G:A	sF		SLC4A7	intron	pMsF		strong					
+13311	3:35748540	sub(G->A)	3:35748540:G:A	sF		ARPP21	missense	pMsF		strong					
+14108	3:35833869	sub(C->T)	3:35833869:C:T	sF		ARPP21	intron	pMsF		strong					
+12869	3:37033009	sub(G->T)	3:37033009:G:T	sF		EPM2AIP1	nonsense	pFsF		strong					
+11062	3:38182709	sub(G->A)	3:38182709:G:A	sF		MYD88	missense	pMsF	strong						
+13304	3:38648263	sub(T->A)	3:38648263:T:A	sF		SCN5A	missense	pMsF	strong			yes			
+14208	3:38655264	sub(G->A)	3:38655264:G:A	sF		SCN5A	missense	pMsF		strong:valid					
+12905	3:39230145	sub(G->A)	3:39230145:G:A	sM		XIRP1	synonymous	pMsM			not called:valid				
+12741	3:39307946	sub(C->G)	3:39307946:C:G	sM		CX3CR1	missense	pMsM			strong:valid				
+13598	3:42242295	sub(G->A)	3:42242295:G:A	sM		TRAK1	intron	pFsM			strong				
+13714	3:43602722	sub(C->T)	3:43602722:C:T	sF		ANO10	missense	pMsF		strong:valid					
+12320	3:43759303	sub(G->T)	3:43759303:G:T	sF		ABHD5	missense	pMsF		strong:valid					
+11946	3:44611782	sub(C->A)	3:44611782:C:A	sM		ZKSCAN7	synonymous	pMsM		strong					
+12457	3:45730487	sub(A->C)	3:45730487:A:C	sM			intergenic	pMsM	strong						
+14058	3:45943151	sub(G->T)	3:45943151:G:T	sF		CCR9	missense	pMsF		strong:valid					
+14237	3:46491365	sub(C->G)	3:46491365:C:G	sM		LTF	missense	pMsM		strong:valid					
+11391	3:46945068	sub(C->T)	3:46945068:C:T	sM		PTH1R	synonymous	pMsM		strong:valid					
+13954	3:47047652	sub(C->T)	3:47047652:C:T	sM		NBEAL2	intron	pMsM		strong					
+14180	3:47100345	sub(C->T)	3:47100345:C:T	sF		SETD2	intron	pMsF	strong						
+11356	3:47887994	sub(G->A)	3:47887994:G:A	sM		DHX30	missense	pFsM		strong:valid				yes	
+14403	3:47917385	sub(C->T)	3:47917385:C:T	sF		MAP4	synonymous	pMsF		strong					
+11355	3:47957817	sub(C->T)	3:47957817:C:T	sF		MAP4	synonymous	pMsF			weak:valid				
+13600	3:48336165	sub(G->A)	3:48336165:G:A	sF		NME6	missense	pMsF	strong						
+13128	3:48462602	sub(T->C)	3:48462602:T:C	sM		PLXNB1	intron	pFsM		not called:valid					
+12892	3:48463099	sub(C->G)	3:48463099:C:G	sF		PLXNB1	missense	pMsF	strong			yes			
+12833	3:48659010	sub(G->T)	3:48659010:G:T	sF		TMEM89	synonymous	pMsF	strong			yes			
+12197	3:48675677	sub(T->C)	3:48675677:T:C	sF		CELSR3	intron	pMsF		strong					
+11180	3:49051816	sub(G->A)	3:49051816:G:A	sM		WDR6	synonymous	pFsM		not called:valid				yes	
+11102	3:49692945	sub(G->A)	3:49692945:G:A	sM		BSN	missense	pMsM	strong						
+13307	3:49751405	sub(A->G)	3:49751405:A:G	sM	dad	RNF123	missense	pMsM	strong			yes			
+11307	3:50223736	sub(C->T)	3:50223736:C:T	sM		SEMA3F	missense	pMsM			not called:valid		yes		
+11186	3:50378858	sub(C->G)	3:50378858:C:G	sM	dad	ZMYND10	missense	pMsM	strong						
+13760	3:50379869	sub(G->A)	3:50379869:G:A	sM		ZMYND10	missense	pMsM	strong						
+12289	3:52258314	sub(G->A)	3:52258314:G:A	sM		TLR9	synonymous	pMsM		strong					
+11986	3:52440386	sub(G->C)	3:52440386:G:C	sF		BAP1	synonymous	pMsF		strong					
+13006	3:52485412	sub(T->C)	3:52485412:T:C	sF		TNNC1	missense	pMsF	strong						
+11106	3:52643674	sub(G->A)	3:52643674:G:A	sM		PBRM1	missense	pMsM			not called:valid				
+13571	3:52727771	sub(A->G)	3:52727771:A:G	pMsM		GNL3	missense	pMsM			strong				
+12618	3:52771641	sub(C->T)	3:52771641:C:T	pMsM		NEK4	synonymous	pMsM	strong			yes			
+14282	3:52813031	sub(G->C)	3:52813031:G:C	sF		ITIH1	missense	pFsF	strong						
+12843	3:52829692	sub(T->G)	3:52829692:T:G	sF	dad	ITIH3	intron	pMsF	strong						
+11716	3:52874588	sub(G->A)	3:52874588:G:A	sM		TMEM110,TMEM110-MUSTN1	synonymous	pMsM		strong:valid				yes	
+13997	3:53844069	sub(G->A)	3:53844069:G:A	sM		CACNA1D	missense	pMsM		strong					
+14341	3:55108254	sub(T->C)	3:55108254:T:C	sF		CACNA2D3	3'UTR	pMsF			strong				
+14358	3:57069148	sub(G->A)	3:57069148:G:A	sF		ARHGEF3	synonymous	pMsF			strong:valid				
+14527	3:57357136	sub(C->T)	3:57357136:C:T	sM		DNAH12	missense	pMsM			strong:valid				
+11073	3:58095814	sub(C->T)	3:58095814:C:T	sF		FLNB	missense	pMsF			strong:valid				
+12834	3:62467506	sub(T->C)	3:62467506:T:C	sM		CADPS	missense	pMsM		strong:valid					
+13840	3:63542352	sub(G->C)	3:63542352:G:C	sM		SYNPR	missense	pFsM		strong					
+13040	3:65415282	sub(C->T)	3:65415282:C:T	sF		MAGI1	missense	pFsF	strong						
+12396	3:66313775	sub(G->A)	3:66313775:G:A	sF		SLC25A26	missense	pMsF	strong			yes			
+13875	3:69987111	sub(G->C)	3:69987111:G:C	sM		MITF	missense	pMsM	strong						
+11000	3:71733784	sub(G->A)	3:71733784:G:A	sF		EIF4E3	3'UTR	pMsF		not called:valid					
+12803	3:98235669	sub(T->C)	3:98235669:T:C	sM		CLDND1	missense	pMsM	strong			yes			
+14561	3:100084410	sub(A->G)	3:100084410:A:G	sM	dad	TOMM70A	noEnd	pMsM			strong:valid				
+11516	3:101060606	sub(C->T)	3:101060606:C:T	sM		SENP7	synonymous	pMsM	strong						
+12676	3:101390194	sub(T->C)	3:101390194:T:C	sM		ZBTB11	synonymous	pMsM	strong:valid			yes			
+14227	3:105266019	sub(G->A)	3:105266019:G:A	sM		ALCAM	synonymous	pMsM		strong:valid					
+12299	3:107910424	sub(G->A)	3:107910424:G:A	sF		IFT57	synonymous	pMsF		strong:valid					
+14283	3:111805385	sub(C->G)	3:111805385:C:G	sF		C3orf52	missense	pMsF			weak:valid				
+14239	3:112647684	sub(G->C)	3:112647684:G:C	sF		CD200R1	missense	pMsF		not called:valid					
+14506	3:112997521	sub(A->T)	3:112997521:A:T	sF		BOC	synonymous	pMsF			not called:valid				
+14154	3:113063433	sub(C->G)	3:113063433:C:G	sF		WDR52	missense	pMsF	strong						
+13621	3:113187080	sub(C->T)	3:113187080:C:T	sM		SPICE1	missense	pFsM		strong:valid				yes	
+13614	3:113652473	sub(G->A)	3:113652473:G:A	sF		GRAMD1C	missense	pMsF		strong:valid					
+14320	3:113724640	sub(G->C)	3:113724640:G:C	sM		KIAA1407	missense	pFsM	strong						
+11888	3:119165913	sub(T->C)	3:119165913:T:C	sM		TMEM39A	missense	pMsM		strong:valid					
+13237	3:119533869	sub(G->C)	3:119533869:G:C	sF		NR1I2	missense	pMsF		weak:valid					
+11721	3:119886113	sub(C->T)	3:119886113:C:T	sM		GPR156	synonymous	pMsM			not called:valid				
+14637	3:121413433	sub(C->A)	3:121413433:C:A	sF		GOLGB1	missense	pMsF			strong:valid				
+12540	3:121976036	sub(T->C)	3:121976036:T:C	sF		CASR	synonymous	pFsF			strong:valid				
+14681	3:122641182	sub(G->C)	3:122641182:G:C	sF		SEMA5B	missense	pMsF	strong						
+12891	3:124113004	sub(G->A)	3:124113004:G:A	sF		KALRN	intron	pMsF	strong			yes			
+14549	3:124141040	del(10)	3:124141039:ATATATGAGAG:A	sF		KALRN	intron	pMsF			strong				
+13298	3:124716599	sub(C->T)	3:124716599:C:T	sF		HEG1	missense	pMsF	strong						
+11339	3:126071150	sub(C->G)	3:126071150:C:G	sM		KLF15	missense	pFsM			not called:valid				
+13093	3:126730938	sub(C->A)	3:126730938:C:A	sF		PLXNA1	synonymous	pMsF		strong					
+12297	3:127294625	del(7)	3:127294624:TTGGGAAG:T	sM		TPRA1	frame-shift	pMsM		strong:valid					
+14118	3:127334731	sub(C->A)	3:127334731:C:A	sM		MCM2	synonymous	pMsM	strong						
+13823	3:128969525	sub(G->T)	3:128969525:G:T	sF		COPG1	missense	pMsF	strong						
+14007	3:129268117	del(1)	3:129268116:GC:G	sM		H1FOO	frame-shift	pMsM			strong:valid				
+12633	3:129303005	sub(C->A)	3:129303005:C:A	sF		PLXND1	missense	pMsF	strong:valid			yes			
+14366	3:130098341	del(9)	3:130098340:AAATTTAAGG:A	sF		COL6A5	no-frame-shift	pMsF		strong					
+11381	3:130447391	sub(C->T)	3:130447391:C:T	sM		PIK3R4	missense	pMsM	strong						
+11696	3:133896766	sub(T->A)	3:133896766:T:A	sM		RYK	intron	pMsM			strong				
+13748	3:134959990	sub(G->A)	3:134959990:G:A	pMsF		EPHB1	missense	pMsF		strong:valid					
+14211	3:136046531	sub(A->G)	3:136046531:A:G	sF		PCCB	missense	pMsF		strong:valid					
+13129	3:136699372	sub(C->G)	3:136699372:C:G	sF		IL20RB	synonymous	pMsF	strong			yes			
+13870	3:141328778	sub(A->G)	3:141328778:A:G	sF		RASA2	missense	pFsF		strong					
+12369	3:141884477	sub(T->C)	3:141884477:T:C	sF		GK5	missense	pMsF			strong:valid				
+12227	3:142151632	sub(A->G)	3:142151632:A:G	sM		XRN1	missense	pMsM		strong:valid					
+13799	3:142606587	del(1)	3:142606586:TC:T	sM		PCOLCE2	frame-shift	pFsM		strong:valid					
+12317	3:142840188	sub(C->G)	3:142840188:C:G	sF		CHST2	missense	pMsF		strong:valid				yes	
+13559	3:150916551	sub(C->A)	3:150916551:C:A	sF		GPR171	missense	pMsF		strong:valid					
+13559	3:150916559	sub(C->A)	3:150916559:C:A	sF		GPR171	missense	pMsF		strong:valid					
+11075	3:151083738	sub(A->C)	3:151083738:A:C	sM		MED12L	missense	pMsM		strong:valid				yes	
+11818	3:151176417	del(9)	3:151176416:CCTTGCCCCC:C	sF		IGSF10	no-frame-shift	pMsF	not called:valid						
+11818	3:151176420	del(9)	3:151176419:TGCCCCCAGG:T	sF		IGSF10	no-frame-shift	pMsF	strong:valid			yes			
+13316	3:151461977	sub(A->T)	3:151461977:A:T	sM		AADACL2	intron	pMsM	strong						
+13298	3:152165430	sub(C->T)	3:152165430:C:T	sF		MBNL1	missense	pMsF	strong						
+13925	3:155208647	sub(G->C)	3:155208647:G:C	sF		PLCH1	missense	pMsF			weak:valid				
+11810	3:157920952	sub(C->T)	3:157920952:C:T	sF		RSRC1	nonsense	pMsF		strong:valid				yes	
+14180	3:160148506	sub(T->C)	3:160148506:T:C	sF		SMC4	missense	pMsF	strong						
+12585	3:166958690	sub(G->T)	3:166958690:G:T	sF		ZBBX	missense	pMsF			strong:valid				
+14225	3:169587430	del(1)	3:169587429:GA:G	sM		LRRC31	frame-shift	pMsM	strong:valid						
+12528	3:169854333	sub(T->C)	3:169854333:T:C	sF		PHC3	missense	pMsF		strong:valid					
+14443	3:172064250	sub(C->G)	3:172064250:C:G	sF		FNDC3B	intron	pMsF		strong					
+14201	3:172504293	sub(G->A)	3:172504293:G:A	sF		ECT2	synonymous	pMsF			strong:valid				
+12723	3:180379659	sub(C->T)	3:180379659:C:T	sF		CCDC39	missense	pMsF	strong			yes			
+12578	3:183535206	sub(T->C)	3:183535206:T:C	sF		MAP6D1	missense	pMsF			strong:valid				
+13929	3:183955148	sub(C->T)	3:183955148:C:T	sM		VWA5B2	synonymous	pMsM		strong					
+13398	3:183958908	sub(G->A)	3:183958908:G:A	sF		VWA5B2	intron	pMsF	strong			yes			
+11265	3:184040619	sub(G->C)	3:184040619:G:C	sF		EIF4G1	missense	pMsF		strong:valid				yes	
+12523	3:184040629	sub(C->T)	3:184040629:C:T	sF		EIF4G1	synonymous	pMsF	strong			yes			
+11028	3:185330451	sub(G->A)	3:185330451:G:A	sM		SENP2	intron	pMsM		strong					
+11473	3:186006628	sub(C->A)	3:186006628:C:A	sF		DGKG	missense	pMsF			strong:valid				
+11268	3:188202397	sub(C->T)	3:188202397:C:T	sF		LPP	missense	pMsF	strong						
+12345	3:193016950	sub(C->A)	3:193016950:C:A	sF		ATP13A5	missense	pMsF		strong					
+12602	3:194151881	sub(T->C)	3:194151881:T:C	sF		ATP13A3	synonymous	pMsF			strong:valid				
+13077	3:194846199	del(21)	3:194846198:GGAGCTCACAAGGCCAGGATAT:G	sM		XXYLT1	intron	pMsM	strong						
+13072	3:195453256	sub(C->A)	3:195453256:C:A	sF		MUC20	synonymous	pFsF	strong			yes			
+12507	3:195475904	del(35)	3:195475903:ATCTGAAGTAAGCCTTCAGCGTGCTCACGTTCACTG:A	sF		MUC4	frame-shift	pMsF		strong:valid					
+13893	3:195508571	sub(T->C)	3:195508571:T:C	sF		MUC4	missense	pMsF		strong					
+13598	3:195513364	sub(C->T)	3:195513364:C:T	sM		MUC4	missense	pFsM			strong				
+13598	3:195515198	sub(C->G)	3:195515198:C:G	pFsM		MUC4	missense	pFsM			strong				
+14261	3:197544071	sub(G->A)	3:197544071:G:A	sF		LRCH3	synonymous	pMsF			strong:valid				
+14334	4:1719418	ins(CTGCTGGGCCCCT)	4:1719417:G:GCTGCTGGGCCCCT	sF		TMEM129	intron	pMsF	strong						
+11966	4:1807344	sub(G->A)	4:1807344:G:A	sM		FGFR3	missense	pMsM		strong:valid					
+12833	4:1987822	sub(C->T)	4:1987822:C:T	sF		NELFA	intron	pMsF	strong			yes			
+13131	4:2900265	sub(G->C)	4:2900265:G:C	sM		ADD1	intron	pMsM	strong			yes			
+11406	4:3009577	sub(G->A)	4:3009577:G:A	sM		GRK4	intron	pMsM			strong				
+14118	4:3029661	sub(C->T)	4:3029661:C:T	sM		GRK4	synonymous	pMsM	strong						
+12778	4:3230454	sub(C->T)	4:3230454:C:T	sF		HTT	missense	pMsF	strong			yes			
+12550	4:3768665	sub(A->G)	4:3768665:A:G	sF		ADRA2C	missense	pFsF	strong			yes			
+13287	4:4199650	sub(A->G)	4:4199650:A:G	sM	dad	OTOP1	missense	pFsM		strong:valid					
+11946	4:4322863	sub(C->T)	4:4322863:C:T	sM		ZBTB49	synonymous	pMsM		strong					
+12076	4:5664825	sub(A->T)	4:5664825:A:T	sM		EVC2	intron	pMsM	strong			yes			
+11554	4:6050571	sub(C->T)	4:6050571:C:T	sM		JAKMIP1	intron	pMsM			strong				
+13697	4:6064158	sub(G->A)	4:6064158:G:A	pMsF		JAKMIP1	nonsense	pMsF		strong:valid					
+14506	4:6114519	sub(T->C)	4:6114519:T:C	sF		JAKMIP1	missense	pMsF			strong:valid				
+14046	4:6826252	sub(T->C)	4:6826252:T:C	sM		KIAA0232	synonymous	pMsM		strong:valid					
+11076	4:6864953	sub(C->A)	4:6864953:C:A	sM		KIAA0232	synonymous	pMsM	strong						
+13152	4:7016219	sub(T->C)	4:7016219:T:C	sF		TBC1D14	synonymous	pMsF	strong			yes			
+13064	4:8412052	sub(C->T)	4:8412052:C:T	sM		ACOX3	missense	pMsM			strong:valid				
+12707	4:10522508	ins(T)	4:10522507:G:GT	sF		CLNK	intron	pMsF	strong						
+11353	4:15008927	sub(A->C)	4:15008927:A:C	sM		CPEB2	splice-site	pFsM		not called:valid					
+14207	4:17659988	sub(T->G)	4:17659988:T:G	sM		FAM184B	missense	pFsM		strong:valid					
+12864	4:24534561	sub(G->A)	4:24534561:G:A	sF	mom	DHX15	nonsense	pFsF	strong:valid			yes			
+11372	4:31144267	sub(G->T)	4:31144267:G:T	sM		PCDH7	missense	pMsM		strong:valid					
+13050	4:38046047	sub(T->G)	4:38046047:T:G	sM		TBC1D1	missense	pMsM	strong			yes			
+14532	4:38117541	sub(G->A)	4:38117541:G:A	sM		TBC1D1	missense	pMsM			strong:valid				
+13739	4:39217743	sub(G->A)	4:39217743:G:A	sM		WDR19	missense	pFsM		weak:valid				yes	
+12334	4:39900030	sub(G->T)	4:39900030:G:T	sM		PDS5A	nonsense	pMsM	strong:valid			yes			
+13538	4:40356093	sub(G->A)	4:40356093:G:A	sM		CHRNA9	synonymous	pMsM	strong			yes			
+14699	4:41748295	del(1)	4:41748294:CG:C	sF		PHOX2B	frame-shift	pMsF		strong:valid					
+13893	4:42448668	sub(G->A)	4:42448668:G:A	sF		ATP8A1	intron	pMsF		strong					
+13123	4:47939223	sub(T->A)	4:47939223:T:A	sM		CNGA1	missense	pMsM	strong			yes			
+14486	4:48523230	del(4)	4:48523229:TTAAC:T	sM		FRYL	splice-site	pMsM		strong:valid					
+13312	4:48542756	sub(C->T)	4:48542756:C:T	sF		FRYL	missense	pMsF	strong			yes			
+13885	4:48622691	sub(A->C)	4:48622691:A:C	sF		FRYL	nonsense	pMsF		strong:valid					
+12792	4:54324896	sub(G->C)	4:54324896:G:C	sF		FIP1L1	missense	pMsF	strong			yes			
+11018	4:57889615	sub(G->T)	4:57889615:G:T	sM		POLR2B	nonsense	pMsM	not called:valid						
+14348	4:68514853	sub(A->G)	4:68514853:A:G	sF		UBA6	missense	pMsF	strong						
+14189	4:69795679	sub(T->G)	4:69795679:T:G	sM		UGT2A3	missense	pMsM	strong						
+13679	4:69879815	sub(C->T)	4:69879815:C:T	sF		UGT2B10	missense	pMsF		strong					
+12113	4:70346405	sub(G->T)	4:70346405:G:T	sM		UGT2B4	missense	pMsM	strong:valid			yes			
+13568	4:70361241	sub(T->G)	4:70361241:T:G	sF		UGT2B4	missense	pMsF	strong			yes			
+11075	4:71024298	sub(C->T)	4:71024298:C:T	sM	mom	C4orf40	missense	pMsM		strong:valid				yes	
+12579	4:71509897	sub(G->T)	4:71509897:G:T	sF		ENAM	missense	pMsF	strong			yes			
+14361	4:72423497	sub(T->C)	4:72423497:T:C	sF		SLC4A4	synonymous	pMsF			strong:valid				
+12363	4:76804360	sub(A->T)	4:76804360:A:T	sM		PPEF2	intron	pMsM	strong			yes			
+13748	4:79847790	sub(G->A)	4:79847790:G:A	sF		PAQR3	missense	pMsF		strong					
+12775	4:83277730	sub(G->A)	4:83277730:G:A	sM		HNRNPD	synonymous	pMsM	strong			yes			
+11568	4:83839760	sub(C->A)	4:83839760:C:A	sF		THAP9	missense	pFsF			weak:valid				
+14172	4:84231950	sub(G->A)	4:84231950:G:A	sF		HPSE	missense	pMsF	strong						
+11573	4:85887769	sub(C->T)	4:85887769:C:T	sF			intergenic	pMsF		strong					
+14602	4:87684079	sub(T->C)	4:87684079:T:C	sF	dad	PTPN13	synonymous	pMsF			strong:valid				
+12528	4:87718120	sub(G->A)	4:87718120:G:A	pMsF		PTPN13	intron	pMsF		strong					
+13916	4:88537294	sub(T->C)	4:88537294:T:C	sF		DSPP	synonymous	pMsF	not called:valid	not called:valid	not called:valid				
+14001	4:88537387	sub(C->T)	4:88537387:C:T	sM		DSPP	synonymous	pMsM		strong					
+14041	4:89390426	sub(C->T)	4:89390426:C:T	sM		HERC5	intron	pFsM		strong					
+12957	4:89393527	del(1)	4:89393526:CT:C	sF		HERC5	intron	pFsF	strong						
+12229	4:98902404	sub(G->C)	4:98902404:G:C	sF		STPG2	synonymous	pMsF		strong					
+14160	4:100134922	sub(G->A)	4:100134922:G:A	sF		ADH6	intron	pMsF	strong						
+14363	4:100137360	sub(C->A)	4:100137360:C:A	sF		ADH6	missense	pMsF		strong					
+14602	4:106290837	sub(T->A)	4:106290837:T:A	pMsF		PPA2	3'UTR	pMsF			strong				
+11098	4:106317511	sub(T->A)	4:106317511:T:A	pMsF		PPA2	intron	pMsF		strong					
+14246	4:106858265	sub(T->C)	4:106858265:T:C	sM		NPNT	missense	pMsM	strong						
+14058	4:107151532	sub(G->A)	4:107151532:G:A	sF		TBCK	missense	pMsF		strong:valid					
+12361	4:110681734	sub(T->C)	4:110681734:T:C	sM		CFI	synonymous	pMsM	strong						
+11160	4:111430806	sub(T->C)	4:111430806:T:C	sM		ENPEP	intron	pFsM		strong					
+11879	4:113303646	sub(G->A)	4:113303646:G:A	sM		ALPK1	missense	pFsM			strong:valid				
+12834	4:118005909	sub(T->A)	4:118005909:T:A	sM		TRAM1L1	missense	pMsM		strong:valid					
+13889	4:120422317	sub(A->G)	4:120422317:A:G	sF		PDE5A	intron	pMsF	strong						
+14666	4:126411443	sub(G->A)	4:126411443:G:A	sM	mom	FAT4	missense	pMsM			strong:valid				
+12693	4:126411529	sub(C->T)	4:126411529:C:T	sF		FAT4	missense	pMsF	strong						
+14395	4:128938656	sub(C->T)	4:128938656:C:T	sF		C4orf29	synonymous	pFsF	strong						
+12832	4:135121559	sub(A->G)	4:135121559:A:G	sF		PABPC4L	synonymous	pFsF	strong			yes			
+14081	4:140454414	sub(C->T)	4:140454414:C:T	sF		SETD7	missense	pMsF	strong						
+12581	4:140640596	sub(C->T)	4:140640596:C:T	sM		MAML3	missense	pFsM			weak:valid		yes		
+14107	4:141294800	sub(G->A)	4:141294800:G:A	sM		SCOC	missense	pFsM	strong						
+13507	4:141302240	del(2)	4:141302239:CAA:C	sM		SCOC	frame-shift	pMsM	strong:valid			yes			
+14348	4:143008664	sub(T->C)	4:143008664:T:C	sF		INPP4B	intron	pMsF	strong						
+12424	4:143235911	sub(C->T)	4:143235911:C:T	sF	dad	INPP4B	missense	pMsF	strong:valid			yes			
+11494	4:146059471	del(1)	4:146059470:AG:A	sM		OTUD4	frame-shift	pMsM	strong						
+14155	4:148985666	sub(T->C)	4:148985666:T:C	sM		ARHGAP10	intron	pMsM		strong					
+11146	4:151793883	sub(C->T)	4:151793883:C:T	sM		LRBA	synonymous	pMsM		strong					
+13465	4:152567918	sub(A->G)	4:152567918:A:G	sF		FAM160A1	intron	pMsF	strong			yes			
+14564	4:155241851	sub(C->T)	4:155241851:C:T	sM		DCHS2	missense	pMsM			strong:valid				
+13466	4:156281413	sub(C->T)	4:156281413:C:T	sM		MAP9	synonymous	pMsM			not called:valid		yes		
+12415	4:159091467	sub(C->T)	4:159091467:C:T	sF		FAM198B	missense	pMsF	strong			yes			
+11399	4:160271355	ins(A)	4:160271354:C:CA	sM		RAPGEF2	frame-shift	pMsM		strong:valid					
+13092	4:166996084	sub(C->T)	4:166996084:C:T	sF		TLL1	missense	pMsF	strong			yes			
+13579	4:167921556	sub(G->C)	4:167921556:G:C	sM		SPOCK3	missense	pMsM	strong			yes			
+14373	4:167921570	sub(G->C)	4:167921570:G:C	sM		SPOCK3	missense	pFsM	strong						
+12662	4:174235090	sub(A->T)	4:174235090:A:T	sM		GALNT7	intron	pMsM		strong					
+14203	4:184129311	sub(T->C)	4:184129311:T:C	sM		WWC2	splice-site	pMsM			not called:valid				
+14285	4:184174953	sub(G->C)	4:184174953:G:C	sF		WWC2	missense	pMsF		strong					
+13375	4:185012498	sub(C->T)	4:185012498:C:T	sM		ENPP6	synonymous	pMsM			not called:valid				
+14092	4:185350213	sub(C->T)	4:185350213:C:T	sM		IRF2	synonymous	pMsM		weak:valid					
+14491	4:186272641	sub(T->C)	4:186272641:T:C	sM		SNX25	missense	pMsM	strong						
+14224	4:187517848	sub(G->A)	4:187517848:G:A	sM		FAT1	synonymous	pMsM			strong:valid				
+11234	5:174102	sub(C->T)	5:174102:C:T	sF		PLEKHG4B	missense	pMsF	strong						
+13855	5:240574	sub(C->T)	5:240574:C:T	sF		SDHA	nonsense	pMsF		strong					
+13221	5:479989	sub(C->T)	5:479989:C:T	pMsF		SLC9A3	missense	pMsF	strong						
+12631	5:840609	sub(C->A)	5:840609:C:A	sM		ZDHHC11	splice-site	pMsM	weak:valid						
+11935	5:1258787	sub(A->G)	5:1258787:A:G	sM		TERT	intron	pMsM		strong					
+14308	5:1344580	sub(G->A)	5:1344580:G:A	sM	dad	CLPTM1L	intron	pMsM		strong					
+11187	5:1394870	sub(G->A)	5:1394870:G:A	sF	dad	SLC6A3	missense	pMsF		weak:valid				yes	
+11395	5:1483642	sub(C->T)	5:1483642:C:T	sM		LPCAT1	intron	pMsM		strong					
+14015	5:7707862	sub(G->A)	5:7707862:G:A	sM		ADCY2	missense	pMsM	strong						
+12467	5:11018111	sub(C->T)	5:11018111:C:T	sF		CTNND2	missense	pMsF	strong			yes			
+14014	5:13841076	sub(C->T)	5:13841076:C:T	sF		DNAH5	missense	pFsF			strong:valid				
+11211	5:32052739	sub(C->T)	5:32052739:C:T	sF		PDZD2	missense	pMsF	strong						
+14040	5:32087698	sub(G->A)	5:32087698:G:A	sF		PDZD2	missense	pMsF			not called:valid				
+14307	5:33982500	sub(T->C)	5:33982500:T:C	sM		SLC45A2	missense	pMsM			strong:valid				
+14367	5:34757569	sub(A->G)	5:34757569:A:G	sF		RAI14	intron	pMsF	strong						
+13901	5:35003973	sub(A->G)	5:35003973:A:G	sM		AGXT2	intron	pMsM		strong					
+13496	5:37169475	sub(T->C)	5:37169475:T:C	pMsM		C5orf42	synonymous	pMsM	strong:valid			yes			
+13506	5:37177727	sub(T->C)	5:37177727:T:C	sF		C5orf42	missense	pMsF	strong			yes			
+11944	5:37187590	sub(G->A)	5:37187590:G:A	sF		C5orf42	missense	pMsF	strong						
+11296	5:37329315	sub(A->G)	5:37329315:A:G	sM		NUP155	missense	pMsM		weak:valid					
+13903	5:41048456	sub(G->C)	5:41048456:G:C	sM		MROH2B	missense	pMsM	strong						
+11563	5:54403678	sub(C->T)	5:54403678:C:T	sF		GZMA	missense	pMsF		strong					
+12686	5:55396075	sub(G->A)	5:55396075:G:A	sF	dad	ANKRD55	nonsense	pMsF	strong:valid			yes			
+11530	5:56527122	sub(C->T)	5:56527122:C:T	sF		GPBP1	missense	pMsF	strong						
+11892	5:60236428	sub(C->A)	5:60236428:C:A	sF		ERCC8	intron	pMsF		strong					
+13396	5:60768572	sub(C->T)	5:60768572:C:T	sF		ZSWIM6	synonymous	pMsF	strong			yes			
+11835	5:64966114	sub(G->A)	5:64966114:G:A	sM		SGTB	missense	pMsM		strong:valid					
+13694	5:65084149	sub(T->C)	5:65084149:T:C	sF		NLN	missense	pMsF	strong						
+13629	5:68710101	sub(C->T)	5:68710101:C:T	sF		RAD17	synonymous	pMsF			not called:valid		yes		
+14637	5:71494926	sub(C->T)	5:71494926:C:T	sF	dad	MAP1B	missense	pMsF			strong:valid				
+11935	5:71529948	sub(T->C)	5:71529948:T:C	sM		MRPS27	missense	pMsM		strong					
+14207	5:72469089	sub(C->T)	5:72469089:C:T	sM		TMEM174	missense	pFsM		strong:valid					
+11028	5:72744089	sub(C->T)	5:72744089:C:T	sM		FOXD1	synonymous	pMsM		strong:valid					
+14400	5:74647066	sub(A->T)	5:74647066:A:T	sM		HMGCR	missense	pMsM	strong						
+11665	5:74981033	sub(A->G)	5:74981033:A:G	sM		POC5	missense	pMsM			weak:valid				
+12324	5:75923263	sub(G->A)	5:75923263:G:A	sF	dad	IQGAP2	nonsense	pMsF			strong:valid				
+14517	5:77316626	sub(A->T)	5:77316626:A:T	sF		AP3B1	intron	pMsF			strong				
+11993	5:79354068	sub(C->G)	5:79354068:C:G	sM	dad	THBS4	missense	pMsM		strong:valid					
+13875	5:79855195	del(6)	5:79855194:CTCAAGA:C	sM		ANKRD34B	no-frame-shift	pMsM	strong:valid						
+14697	5:79855613	sub(C->T)	5:79855613:C:T	sF		ANKRD34B	missense	pMsF		strong:valid					
+14080	5:89705507	sub(A->G)	5:89705507:A:G	sF		CETN3	5'UTR	pMsF		strong					
+14247	5:102469370	sub(G->C)	5:102469370:G:C	sM		PPIP5K2	intron	pMsM	strong						
+11232	5:108698618	sub(C->T)	5:108698618:C:T	sM		PJA2	synonymous	pMsM		strong					
+11108	5:109051866	sub(G->A)	5:109051866:G:A	sM		MAN2A1	missense	pMsM		strong:valid				yes	
+11933	5:110809065	sub(G->A)	5:110809065:G:A	sM		CAMK4	missense	pMsM		strong:valid					
+14363	5:112389551	sub(G->A)	5:112389551:G:A	sF		MCC	synonymous	pMsF		strong					
+11800	5:112899550	sub(A->C)	5:112899550:A:C	sM	dad	YTHDC2	intron	pMsM	strong						
+12563	5:114620572	sub(G->C)	5:114620572:G:C	sM		CCDC112	missense	pMsM	strong			yes			
+11502	5:120021782	sub(A->C)	5:120021782:A:C	sM		PRR16	missense	pFsM		strong:valid					
+12334	5:122911452	del(1)	5:122911451:AG:A	sM		CSNK1G3	frame-shift	pMsM	strong:valid			yes			
+12671	5:122950084	sub(C->A)	5:122950084:C:A	sF		CSNK1G3	missense	pMsF	strong			yes			
+13616	5:126993226	sub(C->G)	5:126993226:C:G	sM		CTXN3	missense	pMsM	strong			yes			
+11336	5:127624259	del(1)	5:127624258:GA:G	sF		FBN2	intron	pMsF		strong					
+12394	5:127704864	del(9)	5:127704863:ACATGTGACT:A	sM		FBN2	intron	pMsM	strong			yes			
+13623	5:130799835	sub(A->G)	5:130799835:A:G	sM		RAPGEF6	synonymous	pMsM		strong					
+13418	5:130840410	sub(T->C)	5:130840410:T:C	sF		RAPGEF6	missense	pMsF	strong			yes			
+12462	5:132197445	sub(T->C)	5:132197445:T:C	sF		GDF9	missense	pMsF	strong:valid			yes			
+14658	5:132232691	sub(C->T)	5:132232691:C:T	sM		AFF4	missense	sM			strong:valid				
+11512	5:134050741	sub(C->G)	5:134050741:C:G	sF		SEC24A	missense	pMsF			strong:valid				
+13053	5:134782091	sub(G->A)	5:134782091:G:A	sM		C5orf20	synonymous	pMsM		not called:valid				yes	
+11354	5:134810184	sub(C->T)	5:134810184:C:T	sF			intergenic	pMsF	strong						
+14333	5:135489575	del(4)	5:135489574:TAAAA:T	sM		SMAD5	frame-shift	pMsM	strong:valid	weak:valid	strong:valid				
+14339	5:135583284	sub(C->T)	5:135583284:C:T	sF		TRPC7	synonymous	pMsF	strong						
+12837	5:137496675	sub(G->T)	5:137496675:G:T	sF		BRD8	missense	pMsF	strong			yes			
+13581	5:137781015	del(4)	5:137781014:GCCGC:G	sF		REEP2	frame-shift	pFsF	not called:valid						
+12921	5:138713071	sub(C->T)	5:138713071:C:T	sF		SLC23A1	intron	pMsF	strong			yes			
+14275	5:138714322	sub(C->T)	5:138714322:C:T	sF		SLC23A1	synonymous	pMsF	strong						
+11810	5:140594979	sub(C->G)	5:140594979:C:G	sF		PCDHB13	synonymous	pMsF		strong:valid				yes	
+12953	5:140802352	del(1)	5:140802351:AT:A	sM		PCDHGA11	frame-shift	pMsM	strong:valid			yes			
+13265	5:141009385	ins(C)	5:141009384:A:AC	sM		HDAC3	intron	pMsM			strong				
+12426	5:142281566	sub(G->A)	5:142281566:G:A	sF		ARHGAP26	missense	pMsF	strong:valid			yes			
+14179	5:142287334	sub(A->G)	5:142287334:A:G	sM		ARHGAP26	missense	pMsM	strong						
+14540	5:145890147	sub(G->A)	5:145890147:G:A	sF	dad	TCERG1	missense	pMsF			strong:valid				
+13942	5:150027515	sub(G->A)	5:150027515:G:A	sF		SYNPO	missense	pMsF	strong						
+11196	5:150029165	sub(C->T)	5:150029165:C:T	sM		SYNPO	missense	pMsM		not called:valid					
+14642	5:151173742	sub(A->G)	5:151173742:A:G	sM		G3BP1	missense	pFsM			strong:valid				
+12719	5:153085382	sub(G->A)	5:153085382:G:A	sF		GRIA1	synonymous	pMsF	strong:valid			yes			
+11937	5:153390810	sub(T->C)	5:153390810:T:C	sM		FAM114A2	synonymous	pMsM	strong						
+13954	5:156899539	sub(G->A)	5:156899539:G:A	sM		NIPAL4	synonymous	pMsM		strong					
+14081	5:160097541	sub(G->A)	5:160097541:G:A	sF	mom	ATP10B	synonymous	pMsF	strong						
+12241	5:161302675	sub(T->G)	5:161302675:T:G	sM		GABRA1	intron	pFsM		strong					
+11077	5:162869089	sub(C->A)	5:162869089:C:A	sM		CCNG1	synonymous	pMsM		strong:valid				yes	
+13540	5:167379809	sub(A->G)	5:167379809:A:G	sM		TENM2	missense	pMsM	strong			yes			
+11336	5:169025515	sub(C->T)	5:169025515:C:T	sF		SPDL1	synonymous	pMsF		strong:valid				yes	
+12572	5:169474499	sub(G->A)	5:169474499:G:A	sF		DOCK2	intron	pMsF	strong						
+12916	5:169474572	ins(A)	5:169474571:T:TA	sM		DOCK2	frame-shift	pMsM	strong:valid			yes			
+13555	5:171509349	sub(A->G)	5:171509349:A:G	sF		STK10	missense	pFsF	strong						
+14328	5:171639001	sub(G->A)	5:171639001:G:A	sM		UBTD2	missense	pMsM		strong					
+14044	5:172396450	sub(G->A)	5:172396450:G:A	sF		RPL26L1	missense	pMsF	strong						
+13054	5:174868889	sub(T->G)	5:174868889:T:G	sF		DRD1	missense	pMsF	strong						
+12056	5:174869392	sub(G->A)	5:174869392:G:A	sM		DRD1	synonymous	pMsM		strong:valid				yes	
+13053	5:176715871	sub(C->G)	5:176715871:C:G	sM		NSD1	missense	pMsM		not called:valid				yes	
+13849	5:176860931	sub(C->T)	5:176860931:C:T	sF		GRK6	missense	pMsF	strong						
+12536	5:177546570	sub(C->T)	5:177546570:C:T	sF		N4BP3	5'UTR	pMsF		strong					
+14473	5:177632869	sub(G->A)	5:177632869:G:A	sM		HNRNPAB	nonsense	pMsM	strong						
+11003	5:178139609	sub(G->A)	5:178139609:G:A	sF		ZNF354A	nonsense	pMsF		strong:valid					
+13307	5:178541309	sub(G->A)	5:178541309:G:A	sM		ADAMTS2	synonymous	pMsM	strong			yes			
+12938	5:179004061	sub(T->G)	5:179004061:T:G	sM		RUFY1	intron	pMsM	strong			yes			
+12859	5:179034566	sub(T->A)	5:179034566:T:A	sM		RUFY1	intron	pMsM	strong			yes			
+11563	5:179668066	sub(T->C)	5:179668066:T:C	sF		MAPK9	missense	pMsF		strong:valid					
+13283	5:179745825	sub(G->A)	5:179745825:G:A	sM		GFPT2	missense	pMsM		strong:valid					
+14696	5:180377161	sub(G->A)	5:180377161:G:A	sM		BTNL8	missense	pMsM	strong						
+14506	5:180485372	sub(T->A)	5:180485372:T:A	sF		BTNL9	missense	pMsF			strong:valid				
+14116	6:489025	sub(G->C)	6:489025:G:C	sF		EXOC2	missense	pMsF		strong:valid					
+13054	6:4052172	sub(A->T)	6:4052172:A:T	sF		PRPF4B	intron	pMsF	strong						
+13772	6:5216965	sub(A->G)	6:5216965:A:G	sF		LYRM4	synonymous	pMsF	strong						
+11839	6:10529778	sub(G->A)	6:10529778:G:A	sF		GCNT2	missense	pMsF			strong:valid				
+14453	6:10586330	sub(G->T)	6:10586330:G:T	sF		GCNT2	synonymous	pMsF			strong:valid				
+11230	6:11575684	sub(T->C)	6:11575684:T:C	sM		TMEM170B	missense	pMsM		strong					
+13039	6:12124122	sub(G->T)	6:12124122:G:T	sM		HIVEP1	missense	pMsM	strong			yes			
+13763	6:12126010	sub(C->G)	6:12126010:C:G	sM		HIVEP1	missense	pMsM	strong						
+12733	6:13622664	sub(C->T)	6:13622664:C:T	sF		RANBP9	missense	pMsF	strong			yes			
+14436	6:18132430	sub(T->G)	6:18132430:T:G	sM		TPMT	intron	pMsM	strong						
+12969	6:18207642	sub(C->T)	6:18207642:C:T	sM		KDM1B	missense	pMsM	strong			yes			
+13894	6:24418366	sub(A->T)	6:24418366:A:T	sF		MRS2	missense	pMsF	strong						
+14221	6:24832532	sub(C->T)	6:24832532:C:T	sM		FAM65B	missense	pFsM	strong						
+11544	6:26271590	sub(G->A)	6:26271590:G:A	sM		HIST1H3G	missense	pMsM			not called:valid				
+11798	6:26285460	sub(C->G)	6:26285460:C:G	sF		HIST1H4H	missense	pMsF	strong						
+11544	6:26422389	sub(C->T)	6:26422389:C:T	sM		BTN2A3P	non-coding	pMsM			strong				
+14185	6:27925794	sub(A->G)	6:27925794:A:G	sM		OR2B6	missense	pMsM	strong						
+14591	6:28327609	del(27)	6:28327608:AGGAGCAGATCCTGGAGCTGCTGGTGCT:A	sF		ZKSCAN3	no-frame-shift	pMsF			strong				
+13735	6:29697893	del(6)	6:29697892:ATGCTCG:A	sF		HLA-F-AS1	non-coding-intron	pMsF			strong				
+13073	6:30866802	sub(C->T)	6:30866802:C:T	sM		DDR1	synonymous	pMsM		strong:valid				yes	
+12356	6:32138054	sub(G->A)	6:32138054:G:A	sF		AGPAT1	intron	pMsF	strong						
+14533	6:32155879	sub(T->A)	6:32155879:T:A	sF		PBX2	missense	pMsF			not called:valid				
+14223	6:32942326	sub(G->T)	6:32942326:G:T	sF	dad	BRD2	missense	pMsF	weak:valid	strong:valid	strong:valid				
+14300	6:33247405	sub(A->T)	6:33247405:A:T	sM		WDR46	intron	pMsM	strong						
+12462	6:33409079	sub(T->C)	6:33409079:T:C	sF		SYNGAP1	synonymous	pMsF	strong			yes			
+13531	6:34004082	sub(G->A)	6:34004082:G:A	sF		GRM4	missense	pMsF	strong			yes			
+14127	6:34802189	ins(A)	6:34802188:C:CA	sF		UHRF1BP1	intron	pFsF	strong						
+14540	6:35088753	sub(G->A)	6:35088753:G:A	sF		TCP11	synonymous	pMsF			strong:valid				
+14167	6:35378934	sub(G->A)	6:35378934:G:A	sM		PPARD	missense	pMsM		strong:valid				yes	
+14306	6:35716621	sub(C->T)	6:35716621:C:T	sM		ARMC12	missense	pMsM	strong						
+11679	6:36653488	sub(C->T)	6:36653488:C:T	sM		CDKN1A	intron	pMsM	strong						
+13630	6:38879369	del(5)	6:38879368:AGGAAT:A	sF		DNAH8	intron	pMsF	strong						
+11268	6:39041545	sub(G->A)	6:39041545:G:A	sF	dad	GLP1R	missense	pMsF	strong						
+14640	6:39512337	sub(C->T)	6:39512337:C:T	sM		KIF6	missense	pMsM			strong:valid				
+12184	6:39607480	sub(C->T)	6:39607480:C:T	sF		KIF6	missense	pFsF	strong						
+13416	6:41711107	sub(G->C)	6:41711107:G:C	sF		PGC	missense	pMsF	strong			yes			
+14455	6:41771652	sub(C->T)	6:41771652:C:T	sM		USP49	missense	pFsM	strong						
+11048	6:41897935	sub(T->C)	6:41897935:T:C	sM		BYSL	missense	pMsM			not called:valid		yes		
+12859	6:41898448	sub(A->G)	6:41898448:A:G	sM		BYSL	missense	pMsM	strong			yes			
+11542	6:42657338	sub(G->T)	6:42657338:G:T	sF		UBR2	missense	pFsF			strong:valid				
+13263	6:43214838	del(1)	6:43214837:GC:G	sF		TTBK1	intron	pMsF	strong:valid			yes			
+12285	6:43276060	sub(T->C)	6:43276060:T:C	sM		CRIP3	missense	pFsM			strong:valid		yes		
+12858	6:43487551	sub(C->T)	6:43487551:C:T	sF		POLR1C	synonymous	pFsF	strong			yes			
+14089	6:44078619	sub(T->C)	6:44078619:T:C	sF			intergenic	pFsF	strong						
+11413	6:44255505	del(1)	6:44255504:GT:G	sM		TCTE1	frame-shift	pMsM		weak:valid					
+12479	6:44310866	sub(C->T)	6:44310866:C:T	sM		SPATS1	missense	pMsM		strong					
+11338	6:46129344	sub(C->T)	6:46129344:C:T	sF		ENPP5	missense	pMsF	strong						
+11933	6:47658238	sub(A->G)	6:47658238:A:G	sM		GPR111	intron	pMsM		strong					
+11462	6:52622781	ins(TGAA)	6:52622780:G:GTGAA	sM		GSTA2	5'UTR-intron	pMsM		strong					
+13714	6:52656642	sub(C->T)	6:52656642:C:T	sF		GSTA1	3'UTR	pMsF		strong					
+12867	6:52878774	sub(G->A)	6:52878774:G:A	sM		ICK	nonsense	pFsM	strong:valid			yes			
+14460	6:53986370	sub(A->C)	6:53986370:A:C	sF		MLIP	synonymous	pMsF			strong:valid				
+13300	6:55364049	sub(C->A)	6:55364049:C:A	sM		HMGCLL1	synonymous	pMsM		strong					
+11156	6:56566768	del(1)	6:56566767:AG:A	sM		DST	intron	pMsM			strong				
+11634	6:70040421	sub(G->A)	6:70040421:G:A	sM		BAI3	missense	pMsM	strong						
+14152	6:70408938	sub(T->C)	6:70408938:T:C	sF		LMBRD1	missense	pMsF	strong						
+13916	6:75843100	sub(C->G)	6:75843100:C:G	sF		COL12A1	missense	pMsF	strong:valid	strong:valid	strong:valid				
+14539	6:76412395	sub(G->A)	6:76412395:G:A	sF		SENP6	missense	pMsF			weak:valid				
+14372	6:76527291	sub(G->A)	6:76527291:G:A	sM		MYO6	synonymous	pMsM			strong:valid				
+13355	6:82950117	sub(G->A)	6:82950117:G:A	sM		IBTK	synonymous	pMsM		strong:valid				yes	
+12313	6:83888415	sub(G->A)	6:83888415:G:A	sF		PGM3	missense	pFsF	strong			yes			
+12661	6:84366507	del(1)	6:84366506:CA:C	sF		SNAP91	frame-shift	pFsF	strong:valid						
+12661	6:84366512	sub(G->T)	6:84366512:G:T	sF		SNAP91	missense	pFsF	strong						
+11252	6:86201766	sub(A->G)	6:86201766:A:G	sM		NT5E	missense	pMsM		strong:valid				yes	
+13120	6:90400572	del(1)	6:90400571:AG:A	sM		MDN1	intron	pMsM	strong						
+14351	6:90491162	sub(T->C)	6:90491162:T:C	sF		MDN1	synonymous	pMsF	strong						
+14565	6:93965574	sub(T->C)	6:93965574:T:C	sF		EPHA7	missense	pMsF			strong:valid				
+13234	6:101103585	del(1)	6:101103584:CT:C	sM		ASCC3	frame-shift	pMsM	strong:valid			yes			
+11703	6:110426652	sub(T->C)	6:110426652:T:C	sF		WASF1	missense	pMsF	strong						
+12853	6:112437117	sub(G->A)	6:112437117:G:A	sM		LAMA4	synonymous	pMsM		strong					
+11219	6:112513029	sub(T->A)	6:112513029:T:A	sF	dad	LAMA4	missense	pMsF		strong:valid				yes	
+13567	6:116833069	sub(C->T)	6:116833069:C:T	sM		FAM26E	synonymous	pMsM	strong			yes			
+13889	6:117127588	sub(C->T)	6:117127588:C:T	sF		GPRC6A	missense	pMsF	strong						
+11892	6:119341251	sub(C->T)	6:119341251:C:T	sF		FAM184A	synonymous	pMsF		strong:valid				yes	
+11546	6:123369775	del(1)	6:123369774:TC:T	sM		CLVS2	frame-shift	pMsM			weak:valid				
+13271	6:126661434	sub(C->T)	6:126661434:C:T	sF		CENPW	synonymous	pMsF		strong:valid				yes	
+12683	6:127797089	del(3)	6:127797088:TGTC:T	sM	dad	SOGA3	no-frame-shift	pMsM	strong:valid			yes			
+12939	6:127835992	ins(CAA)	6:127835991:G:GCAA	sM		SOGA3	no-frame-shift	pMsM	strong			yes			
+11106	6:129468180	sub(A->C)	6:129468180:A:C	sM		LAMA2	missense	pMsM			strong:valid				
+14414	6:132874027	sub(A->G)	6:132874027:A:G	sM		TAAR8	missense	pMsM	strong						
+13148	6:138642275	sub(C->T)	6:138642275:C:T	sF		KIAA1244	missense	pMsF	strong:valid			yes			
+12303	6:142396879	sub(A->G)	6:142396879:A:G	sF		NMBR	missense	pMsF		weak:valid				yes	
+12101	6:143094725	sub(G->A)	6:143094725:G:A	sM		HIVEP2	missense	pMsM			not called:valid				
+12689	6:146256506	sub(A->T)	6:146256506:A:T	sF		SHPRH	missense	pFsF	strong:valid			yes			
+12493	6:147122373	sub(T->G)	6:147122373:T:G	sM		ADGB	missense	pFsM	strong:valid			yes			
+14084	6:148867274	sub(C->T)	6:148867274:C:T	sF		SASH1	missense	pMsF		strong:valid					
+11066	6:149983364	sub(C->A)	6:149983364:C:A	sM	mom	LATS1	missense	pMsM		strong					
+12780	6:150289946	sub(G->A)	6:150289946:G:A	sM		ULBP1	missense	pMsM		strong					
+12749	6:151744677	sub(T->C)	6:151744677:T:C	sF		RMND1	missense	pMsF		strong:valid					
+11374	6:152782746	sub(C->T)	6:152782746:C:T	sF		SYNE1	missense	sF	strong						
+11374	6:152782782	sub(C->T)	6:152782782:C:T	sF		SYNE1	missense	sF	strong						
+12785	6:155732363	sub(G->C)	6:155732363:G:C	sF		NOX3	synonymous	pMsF	strong			yes			
+13852	6:157150572	sub(C->T)	6:157150572:C:T	sF		ARID1B	intron	pMsF		strong					
+12792	6:158066871	sub(C->T)	6:158066871:C:T	sF		ZDHHC14	synonymous	pMsF	strong			yes			
+14097	6:158484895	sub(C->T)	6:158484895:C:T	sM		SYNJ2	synonymous	pMsM	strong						
+12723	6:158538772	sub(A->T)	6:158538772:A:T	sF		SERAC1	missense	pMsF	strong			yes			
+11766	6:159104006	sub(A->T)	6:159104006:A:T	sF		SYTL3	nonsense	pMsF		strong:valid				yes	
+14560	6:159184512	sub(G->A)	6:159184512:G:A	sF	dad	SYTL3	missense	pMsF			strong				
+14658	6:159660690	sub(A->G)	6:159660690:A:G	sM		FNDC1	missense	sM			strong:valid				
+13982	6:160494299	sub(G->A)	6:160494299:G:A	sM		IGF2R	missense	pMsM	strong						
+12173	6:161027659	sub(C->T)	6:161027659:C:T	sM		LPA	missense	pMsM		not called:valid				yes	
+12552	6:161575300	sub(T->C)	6:161575300:T:C	sM		AGPAT4	missense	pMsM		strong:valid				yes	
+11014	6:163836246	sub(G->C)	6:163836246:G:C	sM		QKI	synonymous	pMsM		strong					
+12867	6:168191719	sub(G->A)	6:168191719:G:A	sM		C6orf123	non-coding	pFsM	strong			yes			
+12325	6:168276026	sub(G->A)	6:168276026:G:A	sF		MLLT4	missense	pMsF		weak:valid	not called:valid				
+12784	6:170105270	del(2)	6:170105269:ACC:A	sM		PHF10	frame-shift	pMsM	strong:valid			yes			
+13535	6:170591976	sub(C->A)	6:170591976:C:A	sM		DLL1	intron	pMsM	strong			yes			
+14291	7:295876	sub(C->T)	7:295876:C:T	sM		FAM20C	synonymous	pMsM	strong						
+11089	7:645850	sub(C->T)	7:645850:C:T	sM		PRKAR1B	missense	pMsM		strong:valid				yes	
+12184	7:933568	sub(C->T)	7:933568:C:T	sF	mom	GET4	synonymous	pFsF	strong						
+11435	7:1590448	sub(C->T)	7:1590448:C:T	sM		TMEM184A	intron	pMsM	strong						
+14502	7:2565873	sub(C->T)	7:2565873:C:T	sF		LFNG	intron	pFsF			strong				
+12700	7:4213981	sub(A->G)	7:4213981:A:G	sM		SDK1	missense	pMsM		strong:valid					
+12836	7:4827800	sub(A->C)	7:4827800:A:C	sM		AP5Z1	synonymous	pMsM	strong						
+12940	7:5417224	sub(A->C)	7:5417224:A:C	sM		TNRC18	intron	pMsM	strong			yes			
+14156	7:5567393	sub(G->A)	7:5567393:G:A	sF		ACTB	missense	pMsF			strong:valid				
+11341	7:5781333	sub(T->C)	7:5781333:T:C	sF		RNF216	synonymous	pMsF	strong						
+13071	7:6639797	sub(C->T)	7:6639797:C:T	sF		C7orf26	synonymous	pMsF			strong:valid				
+14395	7:8125927	sub(C->G)	7:8125927:C:G	sF	dad	GLCCI1	missense	pFsF	strong						
+12852	7:11068421	sub(G->C)	7:11068421:G:C	sM		PHF14	synonymous	pMsM	strong			yes			
+13012	7:11630185	sub(G->A)	7:11630185:G:A	sF		THSD7A	missense	pMsF	strong			yes			
+11651	7:12384053	sub(G->A)	7:12384053:G:A	sF		VWDE	missense	pMsF		weak:valid					
+14699	7:12428868	sub(G->A)	7:12428868:G:A	sF	dad	VWDE	synonymous	pMsF		strong:valid					
+14379	7:12680088	del(1)	7:12680087:CT:C	sM		SCIN	frame-shift	pFsM		strong:valid					
+11472	7:20198320	sub(A->G)	7:20198320:A:G	sF	mom	MACC1	missense	pFsF			strong:valid		yes		
+11437	7:21946025	sub(C->T)	7:21946025:C:T	sM		CDCA7L	missense	pMsM		strong:valid					
+13874	7:23018042	sub(A->G)	7:23018042:A:G	sF		FAM126A	missense	pMsF		strong					
+11215	7:23226786	sub(T->C)	7:23226786:T:C	sM		NUPL2	intron	pMsM			strong				
+13523	7:24905795	sub(C->T)	7:24905795:C:T	sF		OSBPL3	missense	pMsF	strong			yes			
+13139	7:26686146	sub(C->T)	7:26686146:C:T	sF		C7orf71	missense	pMsF	strong			yes			
+14519	7:29519746	ins(G)	7:29519745:T:TG	sF		CHN2	frame-shift	pMsF			strong:valid				
+12020	7:31609423	sub(G->C)	7:31609423:G:C	sM		CCDC129	missense	pMsM		strong:valid				yes	
+14374	7:40134547	ins(GGCAGA)	7:40134546:T:TGGCAGA	sM		CDK13	no-frame-shift	pMsM			strong				
+13393	7:43679300	sub(T->C)	7:43679300:T:C	sF		COA1	intron	pFsF		strong					
+13028	7:44099712	sub(G->A)	7:44099712:G:A	sF		DBNL	synonymous	pMsF	strong						
+14212	7:44282206	sub(C->T)	7:44282206:C:T	sF		CAMK2B	missense	pMsF	strong						
+14026	7:45217018	sub(T->C)	7:45217018:T:C	sF		RAMP3	missense	pMsF	strong						
+11513	7:48315282	sub(C->A)	7:48315282:C:A	sF		ABCA13	missense	pMsF		weak:valid					
+12383	7:50611651	sub(C->T)	7:50611651:C:T	sM		DDC	missense	pMsM		strong:valid				yes	
+12066	7:55914206	sub(T->C)	7:55914206:T:C	sF		14-Sep	intron	pMsF	strong						
+13862	7:56123476	sub(G->C)	7:56123476:G:C	sM		CCT6A	missense	pMsM	strong						
+13582	7:63667655	sub(G->A)	7:63667655:G:A	sF		ZNF735	intron	pMsF	strong			yes			
+13582	7:63667657	sub(A->G)	7:63667657:A:G	sF		ZNF735	intron	pMsF	strong			yes			
+13582	7:63667659	sub(G->C)	7:63667659:G:C	sF		ZNF735	intron	pMsF	strong			yes			
+14598	7:64292065	sub(C->T)	7:64292065:C:T	sM		ZNF138	missense	pMsM			not called:valid				
+13498	7:65444785	sub(G->A)	7:65444785:G:A	sF		GUSB	synonymous	pMsF		strong:valid					
+14054	7:66236908	sub(C->T)	7:66236908:C:T	sM		RABGEF1	nonsense	pMsM		strong:valid					
+13412	7:66474647	sub(T->C)	7:66474647:T:C	sF		TYW1	synonymous	pMsF	strong			yes			
+12707	7:71130439	sub(G->A)	7:71130439:G:A	sF		WBSCR17	missense	pMsF	strong						
+14125	7:72298698	sub(G->A)	7:72298698:G:A	sM		TYW1B	5'UTR	pMsM	strong						
+13560	7:72754789	sub(G->T)	7:72754789:G:T	sM		FKBP6	missense	pMsM			strong:valid				
+14018	7:74163345	ins(T)	7:74163344:C:CT	sM		GTF2I	intron	pMsM	strong						
+11364	7:77265144	sub(G->A)	7:77265144:G:A	sF		PTPN12	missense	pMsF			not called:valid				
+14394	7:83032034	sub(A->T)	7:83032034:A:T	sM		SEMA3E	missense	pMsM		strong:valid					
+13196	7:87514407	sub(A->G)	7:87514407:A:G	sM		DBF4	synonymous	pMsM	strong			yes			
+11564	7:90042608	sub(C->T)	7:90042608:C:T	sF		CLDN12	synonymous	pMsF		not called:valid					
+14046	7:90528642	ins(G)	7:90528641:T:TG	sM		CDK14	frame-shift	pMsM		weak:valid					
+11722	7:91503940	sub(C->T)	7:91503940:C:T	sM		MTERF	synonymous	pMsM			strong:valid				
+14248	7:92028038	del(21)	7:92028037:AACTGGTGCTGCCAGAAGATTC:A	sM		ANKIB1	no-frame-shift	pFsM			strong				
+14119	7:92146619	sub(C->T)	7:92146619:C:T	sF		PEX1	missense	pMsF	strong						
+13925	7:92207484	sub(C->T)	7:92207484:C:T	sF		FAM133B	missense	pMsF			not called:valid				
+12619	7:92765186	sub(G->A)	7:92765186:G:A	sM	dad	SAMD9L	synonymous	pMsM			strong:valid				
+12479	7:92883159	sub(A->G)	7:92883159:A:G	sM		CCDC132	intron	pMsM		strong					
+13265	7:97823256	sub(C->A)	7:97823256:C:A	sM		LMTK2	missense	pMsM			strong:valid				
+14064	7:98508792	sub(C->T)	7:98508792:C:T	sF		TRRAP	synonymous	pFsF			strong				
+11135	7:98988625	sub(T->G)	7:98988625:T:G	sF		ARPC1B	missense	pMsF		strong:valid					
+14227	7:99798734	sub(G->T)	7:99798734:G:T	sM		STAG3	nonsense	pMsM		strong:valid					
+14666	7:100028771	sub(G->A)	7:100028771:G:A	sM		MEPCE	missense	pMsM			not called:valid				
+11634	7:100225019	sub(G->C)	7:100225019:G:C	sM	dad	TFR2	synonymous	pMsM	strong						
+14001	7:100334994	sub(C->T)	7:100334994:C:T	sM		ZAN	intron	pMsM		strong					
+11062	7:100684786	sub(T->G)	7:100684786:T:G	sF		MUC17	synonymous	pMsF	strong						
+13795	7:100844115	sub(C->T)	7:100844115:C:T	sF		MOGAT3	synonymous	pFsF		strong:valid				yes	
+13727	7:101988960	sub(G->A)	7:101988960:G:A	sF		SPDYE6	missense	pMsF	strong						
+14225	7:103205917	sub(C->T)	7:103205917:C:T	sM		RELN	missense	pMsM	strong						
+13697	7:104715227	sub(G->A)	7:104715227:G:A	sF		KMT2E	missense	pMsF		strong					
+11334	7:104748195	sub(A->C)	7:104748195:A:C	sM		KMT2E	synonymous	pMsM		strong:valid					
+13712	7:106515204	del(1)	7:106515203:CT:C	sM		PIK3CG	frame-shift	pMsM	not called:valid						
+12681	7:106519965	sub(T->G)	7:106519965:T:G	sF		PIK3CG	missense	pFsF			not called:valid		yes		
+14637	7:108128243	sub(C->G)	7:108128243:C:G	sF		PNPLA8	missense	pMsF			strong:valid				
+13131	7:111585777	del(2)	7:111585776:AAG:A	sM		DOCK4	frame-shift	pMsM	strong:valid			yes			
+12643	7:117180173	sub(C->T)	7:117180173:C:T	sF		CFTR	missense	pMsF		strong:valid					
+13799	7:120655834	sub(A->G)	7:120655834:A:G	sM		CPED1	missense	pFsM		strong:valid					
+13636	7:126544176	sub(T->C)	7:126544176:T:C	sM		GRM8	missense	pMsM	strong						
+14503	7:128547390	sub(G->A)	7:128547390:G:A	sM		KCP	synonymous	pMsM	strong:valid	not called:valid	strong:valid				
+13287	7:128637558	sub(C->T)	7:128637558:C:T	sM		TNPO3	missense	pFsM		strong:valid					
+11879	7:129008378	sub(A->G)	7:129008378:A:G	sM		AHCYL2	missense	pFsM			strong:valid				
+13169	7:129357157	sub(C->T)	7:129357157:C:T	sM		NRF1	synonymous	pMsM			strong:valid		yes		
+11718	7:129946692	sub(G->C)	7:129946692:G:C	sF		CPA4	missense	pMsF	strong						
+14249	7:130351725	sub(C->G)	7:130351725:C:G	sF		COPG2	missense	pMsF		strong:valid					
+12705	7:131870222	sub(C->A)	7:131870222:C:A	sM		PLXNA4	missense	pMsM	strong			yes			
+12078	7:131895855	sub(C->T)	7:131895855:C:T	sF		PLXNA4	synonymous	pMsF		weak:valid					
+13163	7:133984885	sub(G->A)	7:133984885:G:A	sM		SLC35B4	intron	pMsM		strong					
+14444	7:134127434	sub(G->A)	7:134127434:G:A	sF		AKR1B1	3'UTR	pFsF	strong						
+13094	7:135078802	sub(G->A)	7:135078802:G:A	sM		CNOT4	missense	pMsM	strong			yes			
+13006	7:139724474	sub(A->C)	7:139724474:A:C	sF		PARP12	missense	pMsF	strong						
+13910	7:142480014	sub(G->C)	7:142480014:G:C	sF		PRSS2	missense	pMsF	strong	weak	strong				
+12076	7:142723844	sub(A->G)	7:142723844:A:G	sM		OR9A2	synonymous	pMsM	strong			yes			
+12501	7:142750119	sub(T->G)	7:142750119:T:G	sM		OR6V1	missense	pMsM	strong			yes			
+13578	7:143633094	sub(T->C)	7:143633094:T:C	sF		OR2F2	missense	pMsF	strong			yes			
+14402	7:144097259	sub(C->T)	7:144097259:C:T	sM		NOBOX	missense	pMsM			not called:valid				
+14304	7:146805225	ins(G)	7:146805224:T:TG	sF		CNTNAP2	intron	pMsF		strong					
+13859	7:148769528	sub(G->C)	7:148769528:G:C	sF		ZNF786	missense	pMsF	strong						
+11568	7:150034256	sub(C->T)	7:150034256:C:T	sF	mom	LRRC61	synonymous	pFsF			weak:valid				
+11615	7:150174228	sub(C->T)	7:150174228:C:T	sF		GIMAP8	missense	pMsF		strong:valid					
+11638	7:150553909	sub(G->T)	7:150553909:G:T	sM		AOC1	synonymous	pMsM			strong:valid				
+14384	7:150749267	del(1)	7:150749266:AG:A	sF		ASIC3	frame-shift	pFsF			strong:valid				
+14397	7:150839300	sub(C->T)	7:150839300:C:T	sM		AGAP3	synonymous	pMsM		weak:valid					
+14636	7:151510351	sub(G->A)	7:151510351:G:A	sF	dad	PRKAG2	intron	pMsF			strong				
+11349	7:151927089	sub(A->G)	7:151927089:A:G	sM		KMT2C	synonymous	pMsM	strong						
+12460	7:156759004	sub(G->A)	7:156759004:G:A	sM		NOM1	missense	pMsM	not called:valid						
+13941	7:158109594	sub(G->A)	7:158109594:G:A	sM		PTPRN2	missense	pFsM		strong					
+12832	7:158554201	sub(G->A)	7:158554201:G:A	sF		ESYT2	missense	pFsF	strong			yes			
+11359	7:158580720	sub(A->G)	7:158580720:A:G	sF		ESYT2	missense	pMsF	strong						
+14042	7:158663872	del(2)	7:158663871:CAG:C	sM		WDR60	frame-shift	pFsM		strong:valid					
+11981	8:2063785	sub(A->G)	8:2063785:A:G	sF		MYOM2	missense	pFsF	strong						
+13118	8:6272346	sub(A->G)	8:6272346:A:G	sF		MCPH1	missense	pMsF			strong:valid				
+13720	8:7154775	sub(C->A)	8:7154775:C:A	sF			intergenic	pMsF		strong:valid					
+11196	8:8175947	sub(C->T)	8:8175947:C:T	sM		SGK223	missense	pMsM		weak:valid				yes	
+11584	8:10756047	sub(C->A)	8:10756047:C:A	sM		XKR6	synonymous	pMsM	strong						
+12652	8:11703278	sub(C->T)	8:11703278:C:T	sF		CTSB	missense	pMsF	strong			yes			
+12568	8:17419569	sub(G->A)	8:17419569:G:A	sF		SLC7A2	missense	pMsF		strong:valid					
+11106	8:17731961	sub(G->T)	8:17731961:G:T	sM		FGL1	missense	pMsM			not called:valid				
+12334	8:17817586	sub(G->A)	8:17817586:G:A	sM		PCM1	missense	pMsM	strong			yes			
+13252	8:17928913	sub(T->A)	8:17928913:T:A	sF		ASAH1	intron	pFsF			strong				
+11552	8:18076927	del(1)	8:18076926:AG:A	sF		NAT1	frame-shift	pMsF	strong:valid						
+12691	8:21829380	sub(T->A)	8:21829380:T:A	sM		XPO7	intron	pFsM	strong			yes			
+14096	8:22481478	sub(T->G)	8:22481478:T:G	sF		BIN3	missense	pMsF	strong						
+12367	8:22862104	sub(G->T)	8:22862104:G:T	sF		RHOBTB2	missense	pMsF		strong:valid					
+13289	8:22873175	sub(G->A)	8:22873175:G:A	sM		RHOBTB2	missense	pMsM		strong					
+11073	8:25898178	sub(G->T)	8:25898178:G:T	sF		EBF2	missense	pMsF			not called:valid				
+14061	8:30942621	del(29)	8:30942620:GCAGAAAAGAGGATATGAAGTCAATTATAT:G	pMsM		WRN	intron	pMsM	strong						
+14064	8:38884348	sub(C->T)	8:38884348:C:T	sF		ADAM9	intron	pFsF			strong				
+14064	8:38884349	sub(T->C)	8:38884349:T:C	sF		ADAM9	intron	pFsF			strong				
+13838	8:39495171	sub(G->A)	8:39495171:G:A	sF		ADAM18	nonsense	pMsF	strong:valid						
+13625	8:39862936	sub(G->A)	8:39862936:G:A	sM		IDO2	intron	pMsM		strong					
+11280	8:40554909	sub(G->A)	8:40554909:G:A	sF		ZMAT4	synonymous	pMsF	strong						
+12488	8:41550730	sub(G->A)	8:41550730:G:A	sM		ANK1	intron	pMsM			strong				
+12969	8:41792346	sub(C->T)	8:41792346:C:T	sM		KAT6A	missense	pMsM	strong			yes			
+12498	8:42179493	sub(T->G)	8:42179493:T:G	sF		IKBKB	intron	pMsF	strong			yes			
+14110	8:53570357	del(1)	8:53570356:TC:T	sF		RB1CC1	frame-shift	pMsF		strong:valid					
+11299	8:56860300	sub(C->T)	8:56860300:C:T	sM		LYN	intron	sM			strong				
+13855	8:57354403	sub(G->T)	8:57354403:G:T	sF		PENK	missense	pMsF		strong:valid					
+11066	8:59409570	sub(C->A)	8:59409570:C:A	sM		CYP7A1	synonymous	pMsM		strong:valid				yes	
+14237	8:61778300	sub(C->T)	8:61778300:C:T	sM		CHD7	synonymous	pMsM		strong:valid					
+11358	8:66534524	sub(C->A)	8:66534524:C:A	sM		ARMC1	missense	pMsM			strong:valid				
+13559	8:66619311	sub(C->T)	8:66619311:C:T	sF		MTFR1	missense	pMsF		strong					
+13166	8:66701195	sub(G->A)	8:66701195:G:A	sM		PDE7A	5'UTR	pMsM	strong			yes			
+14617	8:69002939	sub(C->T)	8:69002939:C:T	sM		PREX2	missense	pMsM	weak:valid	strong:valid	strong:valid				
+11657	8:69728204	sub(T->C)	8:69728204:T:C	sF		C8orf34	intron	pMsF	strong						
+12643	8:79650841	sub(G->C)	8:79650841:G:C	sF		IL7	synonymous	pMsF		strong:valid					
+14167	8:81555243	sub(T->G)	8:81555243:T:G	sM		ZNF704	intron	pMsM		not called:valid					
+12773	8:87424009	sub(G->T)	8:87424009:G:T	sM		WWP1	missense	pMsM	strong			yes			
+14329	8:91045795	sub(G->A)	8:91045795:G:A	sF		DECR1	intron	pMsF	strong						
+12937	8:92301444	sub(A->G)	8:92301444:A:G	sM		SLC26A7	missense	pMsM	strong			yes			
+14095	8:96059351	sub(T->A)	8:96059351:T:A	sF		NDUFAF6	missense	pMsF	strong						
+13066	8:100115270	sub(G->A)	8:100115270:G:A	sM		VPS13B	missense	pMsM	strong						
+13147	8:100479648	sub(C->T)	8:100479648:C:T	sF		VPS13B	missense	pMsF			strong:valid				
+14579	8:100583075	sub(T->A)	8:100583075:T:A	sM		VPS13B	intron	pFsM			strong				
+14397	8:101718968	del(3)	8:101718967:ACAG:A	sM		PABPC1	no-frame-shift	pMsM		strong					
+13159	8:116616371	sub(C->T)	8:116616371:C:T	sM		TRPS1	missense	pMsM	strong:valid			yes			
+14513	8:116616940	sub(C->A)	8:116616940:C:A	sM		TRPS1	missense	pMsM			strong:valid				
+14492	8:117671160	sub(C->T)	8:117671160:C:T	sF		EIF3H	missense	pMsF	strong						
+11457	8:120772889	sub(A->G)	8:120772889:A:G	sM		TAF2	missense	pMsM	strong						
+12019	8:121160097	sub(C->T)	8:121160097:C:T	sM		COL14A1	missense	pMsM	strong						
+14283	8:122641512	sub(G->C)	8:122641512:G:C	sF		HAS2	synonymous	pMsF			strong:valid				
+14180	8:123964366	sub(A->T)	8:123964366:A:T	sF	dad	ZHX2	missense	pMsF	strong						
+12229	8:124992954	sub(A->G)	8:124992954:A:G	sF		FER1L6	missense	pMsF		strong					
+14247	8:125076782	sub(G->A)	8:125076782:G:A	sM		FER1L6	missense	pMsM	strong						
+14385	8:125568650	sub(T->C)	8:125568650:T:C	sM		MTSS1	intron	pFsM			strong				
+13390	8:131826325	sub(C->T)	8:131826325:C:T	sF		ADCY8	missense	pMsF		strong					
+12221	8:133051005	sub(G->T)	8:133051005:G:T	sF		OC90	intron	pMsF	strong			yes			
+11622	8:133147399	sub(G->A)	8:133147399:G:A	sF		KCNQ3	intron	pMsF		strong					
+12412	8:141542671	sub(T->C)	8:141542671:T:C	sM		AGO2	missense	pMsM	strong			yes			
+11712	8:144658323	sub(C->T)	8:144658323:C:T	sF		NAPRT1	synonymous	pMsF		strong					
+14082	8:144733007	sub(A->G)	8:144733007:A:G	sF		ZNF623	missense	pMsF	strong						
+14158	8:144893205	sub(G->A)	8:144893205:G:A	sM		SCRIB	missense	pFsM	strong						
+14661	8:145110038	sub(C->T)	8:145110038:C:T	sM		OPLAH	missense	pMsM			weak:valid				
+12501	8:145583315	sub(G->C)	8:145583315:G:C	sM		SLC52A2	missense	pMsM	strong			yes			
+12680	8:145691811	sub(C->T)	8:145691811:C:T	sM		KIFC2	synonymous	pMsM		not called:valid	not called:valid		yes		
+12766	8:145736922	sub(C->T)	8:145736922:C:T	sM		RECQL4	synonymous	pMsM	strong						
+11382	9:712165	sub(G->T)	9:712165:G:T	sF	mom	KANK1	nonsense	pMsF		strong:valid				yes	
+11382	9:712392	sub(G->C)	9:712392:G:C	sF		KANK1	synonymous	pMsF		strong:valid					
+11382	9:713253	sub(T->C)	9:713253:T:C	sF		KANK1	synonymous	pMsF		strong:valid					
+14192	9:3271045	sub(G->C)	9:3271045:G:C	sF		RFX3	missense	pFsF	strong						
+13311	9:3330330	sub(A->C)	9:3330330:A:C	sF		RFX3	missense	pMsF		strong					
+14100	9:3828334	sub(A->C)	9:3828334:A:C	sF		GLIS3	missense	pMsF	strong						
+13239	9:4618911	sub(G->A)	9:4618911:G:A	sM		SPATA6L	intron	pFsM	strong			yes			
+13982	9:5300431	sub(G->C)	9:5300431:G:C	sM		RLN2	missense	pMsM	strong						
+12014	9:5756246	sub(A->G)	9:5756246:A:G	sM		KIAA1432	missense	pMsM		strong					
+12568	9:5922999	sub(G->A)	9:5922999:G:A	sF		KIAA2026	synonymous	pMsF		strong:valid					
+13061	9:12708090	ins(TGTT)	9:12708089:A:ATGTT	sF		TYRP1	frame-shift	pMsF	strong:valid						
+12290	9:13126602	sub(G->A)	9:13126602:G:A	pMsF		MPDZ	intron	pMsF	strong						
+11360	9:14722161	sub(T->C)	9:14722161:T:C	sF	mom	CER1	intron	pMsF		strong					
+11052	9:18889720	sub(G->A)	9:18889720:G:A	sM		ADAMTSL1	synonymous	pMsM		strong:valid					
+13946	9:19346145	sub(C->G)	9:19346145:C:G	sF		DENND4C	synonymous	pMsF	strong						
+14503	9:19379608	sub(G->A)	9:19379608:G:A	sM		RPS6	synonymous	pMsM	weak:valid	strong:valid	not called:valid				
+14513	9:21015926	sub(G->A)	9:21015926:G:A	sM		PTPLAD2	synonymous	pMsM			strong:valid				
+12858	9:21187296	sub(C->T)	9:21187296:C:T	sF		IFNA4	missense	pFsF	strong			yes			
+14386	9:27291044	sub(G->T)	9:27291044:G:T	sF	dad	EQTN	missense	pMsF			strong:valid				
+11519	9:33796792	sub(C->A)	9:33796792:C:A	sF		PRSS3	nonsense	pMsF		strong:valid					
+14070	9:34297077	sub(C->T)	9:34297077:C:T	sF		KIF24	synonymous	pMsF	strong						
+14456	9:34621479	sub(C->G)	9:34621479:C:G	sM		ARID3C	synonymous	pMsM		strong:valid					
+11939	9:34638466	sub(G->A)	9:34638466:G:A	sM			intergenic	pMsM		strong					
+11073	9:35057454	sub(C->T)	9:35057454:C:T	sF		VCP	missense	pMsF			strong:valid				
+12019	9:35074147	sub(A->C)	9:35074147:A:C	sM		FANCG	synonymous	pMsM	strong						
+13628	9:35558533	sub(C->T)	9:35558533:C:T	sM		RUSC2	missense	pMsM	strong			yes			
+11400	9:35616069	sub(C->A)	9:35616069:C:A	sF		CD72	missense	pMsF	strong						
+13831	9:35680835	sub(T->C)	9:35680835:T:C	sF		CA9	intron	pMsF	strong						
+12299	9:35739074	sub(G->A)	9:35739074:G:A	sF		GBA2	nonsense	pMsF		strong:valid					
+13267	9:37503110	del(3)	9:37503109:TGAA:T	sF		POLR1E	no-frame-shift	pMsF		strong					
+13159	9:38396804	sub(G->A)	9:38396804:G:A	sM		ALDH1B1	synonymous	pMsM	strong			yes			
+11665	9:71986456	sub(A->C)	9:71986456:A:C	sM		FAM189A2	missense	pMsM			strong:valid				
+14507	9:72962887	del(1)	9:72962886:GA:G	sF		SMC5	frame-shift	sF			not called:valid				
+14480	9:75431106	del(1)	9:75431105:TC:T	sF		TMC1	frame-shift	pMsF	strong:valid	strong:valid	strong:valid				
+14564	9:79930229	del(4)	9:79930228:AAGTC:A	sM		VPS13A	frame-shift	pMsM			strong:valid				
+12297	9:80039082	sub(G->A)	9:80039082:G:A	sM		GNA14	missense	pMsM		strong:valid				yes	
+13735	9:84607958	sub(A->G)	9:84607958:A:G	sF		SPATA31D1	missense	pMsF			not called:valid				
+11502	9:84608199	sub(C->T)	9:84608199:C:T	sM		SPATA31D1	synonymous	pFsM		strong:valid					
+11027	9:86585713	sub(C->T)	9:86585713:C:T	sM		HNRNPK	missense	pMsM			not called:valid				
+13964	9:87338563	sub(T->C)	9:87338563:T:C	sM		NTRK2	missense	pMsM		strong:valid					
+13023	9:88261247	sub(G->C)	9:88261247:G:C	sM		AGTPBP1	missense	pFsM		strong:valid					
+11016	9:91266971	sub(C->T)	9:91266971:C:T	sF		LOC286238	5'UTR	pMsF	strong						
+13689	9:95027326	sub(C->A)	9:95027326:C:A	sF		IARS	nonsense	pMsF	strong:valid			yes			
+14453	9:95155496	del(4)	9:95155495:TAAAC:T	sF		OGN	frame-shift	pMsF			strong:valid				
+13560	9:97563096	sub(C->T)	9:97563096:C:T	sM		C9orf3	synonymous	pMsM			weak:valid				
+13578	9:98229664	sub(A->T)	9:98229664:A:T	sF		PTCH1	missense	pMsF	strong			yes			
+14023	9:98279102	sub(T->G)	9:98279102:T:G	sM		PTCH1	noStart	pMsM		strong					
+12206	9:98740438	sub(G->A)	9:98740438:G:A	pMsM			intergenic	pMsM	strong						
+13804	9:100692469	sub(G->A)	9:100692469:G:A	sF		HEMGN	missense	pMsF	strong						
+11413	9:100888938	sub(C->G)	9:100888938:C:G	sM		CORO2A	missense	pMsM		strong					
+11073	9:104297835	sub(G->A)	9:104297835:G:A	sF		RNF20	splice-site	pMsF			weak:valid				
+12705	9:107266908	sub(G->A)	9:107266908:G:A	sM		OR13F1	missense	pMsM	strong			yes			
+14058	9:110866591	sub(T->C)	9:110866591:T:C	sF			intergenic	pMsF		strong					
+12722	9:111618208	sub(C->T)	9:111618208:C:T	sM	mom	ACTL7B	noStart	pMsM	strong						
+14421	9:111625008	sub(C->T)	9:111625008:C:T	sF		ACTL7A	nonsense	pMsF			strong:valid				
+14206	9:112182789	sub(C->A)	9:112182789:C:A	sF		PTPN3	nonsense	pFsF	strong:valid						
+12320	9:113563217	sub(C->G)	9:113563217:C:G	sF		MUSK	missense	pMsF		strong:valid					
+13961	9:114131301	sub(T->C)	9:114131301:T:C	sF		KIAA0368	intron	pMsF	strong						
+14351	9:115962238	sub(G->A)	9:115962238:G:A	sF		FKBP15	synonymous	pMsF	strong						
+11217	9:116994159	sub(C->A)	9:116994159:C:A	sF		COL27A1	intron	pMsF	strong						
+14371	9:117005834	sub(C->T)	9:117005834:C:T	sF		COL27A1	synonymous	pMsF	strong						
+13934	9:123725027	sub(G->A)	9:123725027:G:A	sF		C5	nonsense	pMsF	strong:valid						
+13598	9:123734289	sub(A->G)	9:123734289:A:G	pFsM		C5	intron	pFsM			strong				
+13880	9:123886361	sub(A->T)	9:123886361:A:T	sF		CNTRL	missense	pMsF	strong						
+13319	9:124910471	sub(G->T)	9:124910471:G:T	sM		NDUFA8	missense	pMsM	strong			yes			
+14559	9:125273716	sub(G->A)	9:125273716:G:A	sM	dad	OR1J2	missense	pMsM	strong:valid	strong:valid	strong:valid				
+12637	9:125852099	sub(C->A)	9:125852099:C:A	sM		RABGAP1	synonymous	pMsM	strong						
+12484	9:127089685	sub(C->T)	9:127089685:C:T	sM		NEK6	missense	pMsM	strong			yes			
+14646	9:127237709	sub(C->T)	9:127237709:C:T	sF		GPR144	intron	pMsF			strong				
+11164	9:127549361	sub(T->C)	9:127549361:T:C	sF		OLFML2A	synonymous	pMsF		strong					
+12631	9:128112612	sub(C->T)	9:128112612:C:T	sM		GAPVD1	missense	pMsM	strong:valid			yes			
+14592	9:128118025	sub(C->A)	9:128118025:C:A	pMsF		GAPVD1	missense	pMsF			strong				
+13176	9:129641830	sub(A->G)	9:129641830:A:G	sF		ZBTB34	missense	pFsF	strong			yes			
+13708	9:130630737	sub(G->A)	9:130630737:G:A	sM		AK1	nonsense	pMsM			not called:valid		yes		
+12473	9:130886023	sub(T->A)	9:130886023:T:A	sF		PTGES2	missense	pMsF	strong			yes			
+14337	9:131454235	sub(A->G)	9:131454235:A:G	sM		SET	missense	pMsM			not called:valid				
+14602	9:131752513	sub(C->T)	9:131752513:C:T	sF		NUP188	intron	pMsF			strong				
+14403	9:132636045	del(3)	9:132636044:GCCT:G	sF		USP20	intron	pMsF		strong					
+14383	9:133759724	sub(T->C)	9:133759724:T:C	sF		ABL1	missense	pFsF			not called:valid				
+13312	9:134459999	sub(G->T)	9:134459999:G:T	sF		RAPGEF1	intron	pMsF	strong			yes			
+13619	9:135357714	sub(G->A)	9:135357714:G:A	sF		C9orf171	synonymous	pMsF	strong						
+11645	9:135418362	sub(G->C)	9:135418362:G:C	sF	dad	C9orf171	synonymous	pMsF		strong:valid					
+13841	9:135927515	sub(G->A)	9:135927515:G:A	sF		GTF3C5	synonymous	pMsF		strong:valid					
+11673	9:136629189	sub(G->T)	9:136629189:G:T	sM		VAV2	missense	pMsM	strong						
+14370	9:137779165	sub(G->T)	9:137779165:G:T	sF		FCN2	synonymous	pMsF	strong						
+14370	9:137779166	sub(A->T)	9:137779166:A:T	sF		FCN2	missense	pMsF	strong						
+14619	9:138378306	sub(G->A)	9:138378306:G:A	sM		PPP1R26	synonymous	pMsM			not called:valid				
+14149	9:138825254	sub(G->A)	9:138825254:G:A	sM		UBAC1	missense	pMsM	strong						
+14574	9:138831490	ins(A)	9:138831489:C:CA	sF		UBAC1	intron	pMsF			strong				
+12851	9:139935213	sub(C->T)	9:139935213:C:T	sM	dad	NPDC1	intron	pMsM	strong			yes			
+14008	9:140056433	sub(C->A)	9:140056433:C:A	sM		GRIN1	missense	pMsM		strong					
+14400	9:140166617	sub(C->T)	9:140166617:C:T	sM		NELFB	missense	pMsM	strong						
+13057	9:141107533	sub(G->A)	9:141107533:G:A	sF		FAM157B	missense	pMsF	strong			yes			
+13057	9:141107536	sub(G->A)	9:141107536:G:A	sF		FAM157B	missense	pMsF	strong			yes			
+13277	10:375509	sub(G->A)	10:375509:G:A	sF		DIP2C	missense	pFsF			weak:valid				
+13364	10:402436	del(6)	10:402435:GAGGAAC:G	sM		DIP2C	no-frame-shift	pMsM	strong:valid			yes			
+14635	10:871029	sub(G->T)	10:871029:G:T	sF		LARP4B	missense	pFsF			strong:valid				
+11026	10:3124663	sub(T->G)	10:3124663:T:G	sM		PFKP	intron	pMsM	strong						
+11977	10:3207621	sub(G->A)	10:3207621:G:A	sF	mom	PITRM1	missense	pMsF	strong						
+13619	10:5042877	sub(C->G)	10:5042877:C:G	sF		AKR1C2	intron	pMsF	strong						
+12240	10:5791978	sub(T->C)	10:5791978:T:C	sF		FAM208B	synonymous	pMsF		strong					
+14011	10:11330451	sub(C->T)	10:11330451:C:T	sF	dad	CELF2	synonymous	pFsF			strong:valid				
+13396	10:12257793	sub(G->A)	10:12257793:G:A	sF		CDC123	missense	pMsF	strong			yes			
+14007	10:13852928	sub(G->A)	10:13852928:G:A	sM		FRMD4A	intron	pMsM			strong				
+11324	10:14951129	sub(C->T)	10:14951129:C:T	sM		DCLRE1C	missense	pFsM		strong					
+12575	10:14995953	sub(G->A)	10:14995953:G:A	sM		DCLRE1C	synonymous	pMsM			not called:valid		yes		
+14586	10:16806500	sub(G->A)	10:16806500:G:A	sM		RSU1	missense	pFsM			strong:valid				
+12772	10:17089529	sub(G->T)	10:17089529:G:T	sM		CUBN	missense	pMsM	strong						
+13576	10:17746509	sub(A->T)	10:17746509:A:T	sF		STAM	missense	pFsF	strong			yes			
+11381	10:18276412	sub(C->T)	10:18276412:C:T	sM		SLC39A12	synonymous	pMsM	strong						
+12853	10:18903392	sub(A->C)	10:18903392:A:C	pMsM		NSUN6	missense	pMsM		strong:valid					
+14561	10:24886432	del(2)	10:24886431:CTT:C	sM		ARHGAP21	frame-shift	pMsM			strong:valid				
+14463	10:27326999	del(5)	10:27326998:GTTTAT:G	sM		ANKRD26	intron	pMsM	strong						
+11172	10:27389202	sub(C->T)	10:27389202:C:T	sF		ANKRD26	synonymous	pMsF			not called:valid		yes		
+11267	10:28971295	sub(A->G)	10:28971295:A:G	sM		BAMBI	missense	pFsM		strong:valid				yes	
+11395	10:30336661	sub(G->A)	10:30336661:G:A	sM		KIAA1462	synonymous	pMsM		strong:valid					
+12673	10:32106768	sub(T->C)	10:32106768:T:C	sM		ARHGAP12	missense	pMsM	strong			yes			
+14405	10:33224471	sub(T->C)	10:33224471:T:C	sM		ITGB1	missense	pMsM			not called:valid				
+13115	10:47087536	sub(C->A)	10:47087536:C:A	sM		NPY4R,LOC100996758	synonymous	pMsM		not called:valid					
+13726	10:49634446	sub(T->C)	10:49634446:T:C	sM		MAPK8	missense	pMsM			strong:valid		yes		
+13726	10:49634452	sub(A->T)	10:49634452:A:T	sM		MAPK8	missense	pMsM			strong:valid				
+11002	10:49917965	sub(T->C)	10:49917965:T:C	sM		WDFY4	missense	pFsM	strong						
+14212	10:50835752	sub(C->T)	10:50835752:C:T	sF		CHAT	synonymous	pMsF	strong						
+12964	10:50916480	sub(G->A)	10:50916480:G:A	sM		C10orf53	synonymous	pMsM	strong			yes			
+14617	10:51585463	del(2)	10:51585462:CAG:C	sM		NCOA4	frame-shift	pMsM	not called:valid	strong:valid	strong:valid				
+13744	10:59955895	sub(C->A)	10:59955895:C:A	sF		IPMK	missense	pMsF		strong					
+11546	10:64968221	sub(C->T)	10:64968221:C:T	sM		JMJD1C	missense	pMsM			strong:valid				
+13306	10:65140206	sub(G->A)	10:65140206:G:A	sM		JMJD1C	nonsense	pMsM			strong:valid				
+14425	10:68687981	sub(T->C)	10:68687981:T:C	sF		LRRTM3	missense	pMsF		strong:valid					
+14202	10:69934150	sub(C->A)	10:69934150:C:A	sF	dad	MYPN	missense	pMsF		strong:valid					
+13929	10:70670976	del(2)	10:70670975:AAC:A	sM		DDX50	frame-shift	pMsM		strong:valid					
+14308	10:72489974	sub(G->A)	10:72489974:G:A	sM	mom	ADAMTS14	synonymous	pMsM		strong					
+14305	10:73039593	sub(G->C)	10:73039593:G:C	sF		UNC5B	missense	pMsF		strong					
+14412	10:73461916	sub(C->T)	10:73461916:C:T	sF		CDH23	synonymous	pMsF		strong:valid					
+14579	10:74701046	sub(T->C)	10:74701046:T:C	sM		PLA2G12B	missense	pFsM			strong:valid				
+12492	10:74968485	sub(C->T)	10:74968485:C:T	sM		FAM149B1	synonymous	pMsM		strong					
+12929	10:75264682	sub(G->A)	10:75264682:G:A	sF		USP54	missense	pMsF	strong			yes			
+13578	10:75830846	sub(G->C)	10:75830846:G:C	sF		VCL	intron	pMsF	strong			yes			
+14402	10:75860760	sub(A->G)	10:75860760:A:G	sM		VCL	missense	pMsM			strong:valid				
+13586	10:75883673	sub(A->G)	10:75883673:A:G	sF		AP3M1	intron	pMsF	strong			yes			
+13438	10:81058925	sub(G->A)	10:81058925:G:A	sM		ZMIZ1	synonymous	pMsM		strong					
+13614	10:81146112	sub(G->A)	10:81146112:G:A	sF		ZCCHC24	missense	pMsF		strong:valid					
+11013	10:86131994	sub(G->A)	10:86131994:G:A	sM		CCSER2	missense	pMsM			strong:valid				
+13926	10:88478538	sub(G->T)	10:88478538:G:T	sF		LDB3	missense	pFsF			strong:valid				
+12994	10:91174508	sub(C->T)	10:91174508:C:T	sM		IFIT5	5'UTR	pMsM		strong					
+13072	10:93390353	del(2)	10:93390352:TGA:T	sF		PPP1R3C	frame-shift	pFsF	strong:valid			yes			
+12240	10:95211804	sub(T->G)	10:95211804:T:G	sF		MYOF	intron	pMsF		strong					
+13439	10:96495008	sub(T->C)	10:96495008:T:C	sF		CYP2C18	intron	pMsF	strong			yes			
+14484	10:96970504	sub(G->A)	10:96970504:G:A	sF		C10orf129	missense	pMsF		strong					
+13154	10:97402824	sub(C->T)	10:97402824:C:T	sM		ALDH18A1	synonymous	pMsM		strong:valid				yes	
+12396	10:97920132	sub(C->T)	10:97920132:C:T	sF		ZNF518A	synonymous	pMsF	strong			yes			
+13227	10:98711911	sub(C->T)	10:98711911:C:T	sF		LCOR	missense	pMsF	strong			yes			
+12090	10:98744251	sub(G->C)	10:98744251:G:C	sF		C10orf12	missense	pFsF			strong:valid				
+11114	10:99211655	sub(G->A)	10:99211655:G:A	sF		ZDHHC16	missense	pFsF		strong:valid				yes	
+11511	10:99426263	sub(C->T)	10:99426263:C:T	sM		PI4K2A	missense	pMsM			strong:valid				
+13564	10:99504467	sub(A->G)	10:99504467:A:G	sM		ZFYVE27	intron	pMsM	strong			yes			
+14469	10:101715714	sub(G->A)	10:101715714:G:A	sM		DNMBP	missense	pMsM		strong:valid					
+12060	10:101716819	sub(C->T)	10:101716819:C:T	sF		DNMBP	missense	pMsF		weak:valid					
+14448	10:102116548	del(1)	10:102116547:AC:A	sF		SCD	intron	pMsF			strong				
+13890	10:103771485	sub(T->C)	10:103771485:T:C	sF		C10orf76	missense	pFsF			strong:valid				
+13322	10:103827308	sub(C->T)	10:103827308:C:T	sF		HPS6	missense	pMsF		not called:valid				yes	
+13850	10:103908623	sub(G->A)	10:103908623:G:A	sM		PPRC1	missense	pFsM		strong:valid					
+11537	10:103988771	del(1)	10:103988770:GT:G	sF		ELOVL3	frame-shift	pFsF		strong:valid					
+11053	10:104835900	sub(G->A)	10:104835900:G:A	sM	dad	CNNM2	missense	pMsM		strong:valid					
+14643	10:105184868	sub(G->A)	10:105184868:G:A	pFsF		PDCD11	missense	pFsF			strong:valid				
+13328	10:105809897	sub(G->A)	10:105809897:G:A	sM		COL17A1	intron	pMsM	strong			yes			
+13931	10:105890027	sub(C->G)	10:105890027:C:G	sM		WDR96	missense	pMsM	strong						
+14547	10:111882047	sub(C->A)	10:111882047:C:A	sM		ADD3	missense	pMsM			strong:valid				
+13301	10:112650336	sub(G->A)	10:112650336:G:A	sM		PDCD4	missense	pMsM	strong			yes			
+11433	10:114059343	sub(C->A)	10:114059343:C:A	sF		TECTB	intron	pMsF		strong					
+13371	10:114061923	sub(G->A)	10:114061923:G:A	sF		TECTB	intron	pMsF			strong				
+13634	10:115338511	sub(A->T)	10:115338511:A:T	sF		HABP2	missense	pMsF	strong			yes			
+13487	10:116038622	sub(C->A)	10:116038622:C:A	sF		VWA2	intron	pMsF	strong			yes			
+11441	10:120818850	sub(A->G)	10:120818850:A:G	sM		EIF3A	synonymous	pMsM	strong						
+12469	10:121429632	sub(G->A)	10:121429632:G:A	sF		BAG3	synonymous	pMsF			not called:valid				
+14203	10:123985965	sub(C->T)	10:123985965:C:T	sM		TACC2	missense	pMsM			strong:valid				
+13169	10:128973965	sub(C->T)	10:128973965:C:T	sM		FAM196A	missense	pMsM			weak:valid		yes		
+13039	10:129183053	sub(G->C)	10:129183053:G:C	sM	dad	DOCK1	splice-site	pMsM	strong:valid			yes			
+13271	10:131959216	sub(C->G)	10:131959216:C:G	sF		GLRX3	missense	pMsF		strong:valid				yes	
+14228	10:134627777	sub(G->T)	10:134627777:G:T	sM		TTC40	intron	pMsM	strong						
+11234	10:134743800	sub(A->G)	10:134743800:A:G	sF		TTC40	intron	pMsF	strong						
+12030	10:134746126	del(9)	10:134746125:CTTCCCCACG:C	sF		TTC40	intron	pMsF	strong						
+11917	10:135094782	sub(G->A)	10:135094782:G:A	sF		TUBGCP2	synonymous	pMsF	strong						
+13301	10:135184278	sub(A->G)	10:135184278:A:G	sM		ECHS1	intron	pMsM	strong			yes			
+13439	11:193190	sub(G->C)	11:193190:G:C	sF		SCGB1C1,LOC653486	intron	pMsF	strong			yes			
+14468	11:212684	sub(C->T)	11:212684:C:T	sF		RIC8A	missense	pMsF	strong						
+11474	11:233224	sub(A->G)	11:233224:A:G	sM	dad	SIRT3	intron	pMsM		strong					
+12697	11:308354	sub(T->C)	11:308354:T:C	pMsF		IFITM2	synonymous	pMsF	strong			yes			
+13630	11:373219	sub(C->T)	11:373219:C:T	sF		B4GALNT4	synonymous	pMsF	strong						
+13496	11:418794	sub(G->T)	11:418794:G:T	sM		ANO9	missense	pMsM	strong			yes			
+13893	11:498026	sub(C->T)	11:498026:C:T	sF		RNH1	missense	pMsF		strong					
+12879	11:541593	sub(G->C)	11:541593:G:C	sM		LRRC56	synonymous	pFsM	strong						
+13538	11:800598	sub(C->T)	11:800598:C:T	sM		PIDD	missense	pMsM	strong			yes			
+12630	11:1018420	sub(T->G)	11:1018420:T:G	sF		MUC6	missense	pMsF			weak:valid				
+14560	11:1094679	sub(G->A)	11:1094679:G:A	sF	dad	MUC2	missense	pMsF			strong:valid				
+11046	11:1267629	sub(G->C)	11:1267629:G:C	sM		MUC5B	synonymous	pMsM	strong						
+11046	11:1267631	sub(C->T)	11:1267631:C:T	sM		MUC5B	missense	pMsM	strong						
+13893	11:1268763	sub(G->A)	11:1268763:G:A	sF		MUC5B	synonymous	pMsF		strong					
+12275	11:2424233	sub(C->T)	11:2424233:C:T	sM		TSSC4	missense	pMsM		not called:valid					
+12221	11:2866161	sub(G->A)	11:2866161:G:A	sF	mom	KCNQ1	intron	pMsF	strong			yes			
+14230	11:2999516	sub(G->A)	11:2999516:G:A	sM		NAP1L4	missense	pMsM	strong						
+14070	11:4621563	sub(G->A)	11:4621563:G:A	sF		TRIM68	synonymous	pMsF	strong						
+14229	11:5699639	sub(T->C)	11:5699639:T:C	sF		TRIM5	missense	pFsF	strong:valid	strong:valid	strong:valid				
+12180	11:6231119	sub(C->T)	11:6231119:C:T	sF		C11orf42	missense	pMsF			strong:valid				
+13654	11:6640560	sub(A->C)	11:6640560:A:C	sM		TPP1	intron	pMsM	strong			yes			
+13040	11:7846683	sub(G->A)	11:7846683:G:A	sF		OR5P3	synonymous	pFsF	strong						
+12231	11:8118831	sub(C->T)	11:8118831:C:T	sF		TUB	synonymous	pMsF	strong						
+11233	11:8671377	sub(G->A)	11:8671377:G:A	sM		TRIM66	missense	pFsM	strong						
+12523	11:8942971	sub(G->T)	11:8942971:G:T	sF	dad	C11orf16	synonymous	pMsF	strong			yes			
+11691	11:9077462	sub(A->G)	11:9077462:A:G	sM		SCUBE2	intron	pMsM			strong				
+14442	11:10540638	sub(C->T)	11:10540638:C:T	sM		RNF141	missense	pMsM	strong						
+13928	11:10875290	sub(A->G)	11:10875290:A:G	sF		ZBED5	synonymous	pMsF	strong						
+14419	11:11969599	sub(G->A)	11:11969599:G:A	sM		USP47	missense	pMsM			strong:valid				
+14384	11:12247918	sub(G->A)	11:12247918:G:A	sF		MICAL2	splice-site	pFsF			strong:valid				
+13642	11:15222447	sub(G->A)	11:15222447:G:A	sF		INSC	synonymous	pMsF	strong			yes			
+13542	11:15262098	sub(C->T)	11:15262098:C:T	sM		INSC	intron	pMsM	strong			yes			
+14295	11:16824498	sub(T->C)	11:16824498:T:C	sM		PLEKHA7	intron	pMsM	strong						
+14661	11:16863104	sub(A->C)	11:16863104:A:C	sM		PLEKHA7	missense	pMsM			strong:valid				
+13001	11:17122938	sub(T->C)	11:17122938:T:C	sM		PIK3C2A	missense	pMsM	strong			yes			
+11879	11:17552953	del(1)	11:17552952:CG:C	sM		USH1C	frame-shift	pFsM			strong:valid				
+12493	11:18057667	sub(T->G)	11:18057667:T:G	sM		TPH1	missense	pFsM	strong			yes			
+13712	11:18382154	del(4)	11:18382153:CTTTT:C	sM		GTF2H1	intron	pMsM	strong						
+12479	11:18637235	sub(G->A)	11:18637235:G:A	sM		SPTY2D1	missense	pMsM		strong					
+14565	11:21135209	sub(C->T)	11:21135209:C:T	sF		NELL1	missense	pMsF			strong:valid				
+13886	11:22387189	sub(T->C)	11:22387189:T:C	sM		SLC17A6	missense	pMsM	strong						
+13840	11:32996919	ins(T)	11:32996918:A:AT	sM		QSER1	intron	pFsM		strong					
+11616	11:34182470	sub(C->T)	11:34182470:C:T	sM		ABTB2	missense	pMsM			strong:valid				
+14376	11:34186241	sub(G->A)	11:34186241:G:A	sF		ABTB2	synonymous	pMsF	strong						
+14068	11:35211584	sub(C->T)	11:35211584:C:T	sF		CD44	synonymous	pMsF	strong						
+11540	11:43905540	sub(G->A)	11:43905540:G:A	sF		ALKBH3	missense	pMsF		strong:valid				yes	
+13303	11:44089282	sub(A->G)	11:44089282:A:G	sM	dad	ACCS	synonymous	pFsM	strong			yes			
+11571	11:45927225	del(14)	11:45927224:GCAGTTTGTGGAGTA:G	sF		MAPK8IP1	frame-shift	pMsF			strong:valid				
+12499	11:45950388	sub(C->T)	11:45950388:C:T	sM		GYLTL1B	nonsense	pMsM			not called:valid		yes		
+12415	11:46407023	sub(G->A)	11:46407023:G:A	sF		CHRM4	missense	pMsF	strong			yes			
+14124	11:47296389	sub(G->T)	11:47296389:G:T	sF		MADD	missense	pMsF			not called:valid				
+13645	11:47345246	sub(C->A)	11:47345246:C:A	sM		MADD	missense	pMsM	strong			yes			
+12467	11:47368227	sub(A->G)	11:47368227:A:G	sF		MYBPC3	intron	pMsF	strong			yes			
+14252	11:47470384	sub(C->T)	11:47470384:C:T	sF	dad	RAPSN	missense	pMsF	strong						
+14418	11:47600916	sub(G->A)	11:47600916:G:A	sF		NDUFS3	intron	pMsF		strong					
+14216	11:48161047	sub(C->T)	11:48161047:C:T	sM		PTPRJ	missense	pMsM	strong						
+13735	11:48185164	sub(A->G)	11:48185164:A:G	sF		PTPRJ	missense	pMsF			strong:valid				
+14336	11:55322787	sub(C->A)	11:55322787:C:A	sF		OR4C15	synonymous	pFsF			strong:valid				
+11290	11:55371381	sub(G->A)	11:55371381:G:A	pMsF		OR4C11	nonsense	pMsF		not called:valid					
+11090	11:55541191	sub(C->A)	11:55541191:C:A	sM		OR5D13	missense	pMsM		strong:valid					
+13627	11:55587765	sub(G->A)	11:55587765:G:A	sF		OR5D18	synonymous	pMsF	strong						
+12691	11:57268502	sub(G->A)	11:57268502:G:A	sM		SLC43A1	missense	pFsM	strong			yes			
+11792	11:57310235	sub(G->A)	11:57310235:G:A	sM		SMTNL1	synonymous	pMsM		not called:valid					
+11642	11:57505375	ins(T)	11:57505374:C:CT	sF		TMX2	intron	pMsF		strong					
+14425	11:57995977	sub(T->C)	11:57995977:T:C	sF		OR10Q1	missense	pMsF		strong:valid					
+13535	11:58138286	ins(T)	11:58138285:A:AT	sM			intergenic	pMsM	not called:valid						
+11239	11:58477393	sub(A->C)	11:58477393:A:C	sM		GLYAT	missense	pFsM	strong						
+14598	11:58979679	sub(G->A)	11:58979679:G:A	sM		MPEG1	synonymous	pMsM			strong:valid				
+11633	11:59283296	sub(G->A)	11:59283296:G:A	sM		OR4D9	missense	sM	strong						
+13795	11:59560907	sub(A->G)	11:59560907:A:G	sF		STX3	missense	pFsF		strong:valid				yes	
+14202	11:60068538	sub(A->G)	11:60068538:A:G	sF		MS4A4A	intron	pMsF		strong					
+11358	11:60531221	sub(C->T)	11:60531221:C:T	sM		MS4A15	synonymous	pMsM			not called:valid				
+14018	11:60637183	del(4)	11:60637182:TCCTC:T	sM		ZP1	frame-shift	pMsM	strong:valid						
+12642	11:61067685	sub(C->T)	11:61067685:C:T	pMsM		DDB1	missense	pMsM	strong			yes			
+14268	11:61097043	sub(C->T)	11:61097043:C:T	sF		DDB1	missense	pMsF		strong					
+11309	11:61557978	sub(C->T)	11:61557978:C:T	sF		TMEM258	missense	pMsF		strong					
+13317	11:62298211	sub(C->T)	11:62298211:C:T	sF		AHNAK	synonymous	pMsF		strong					
+14047	11:62653041	sub(G->A)	11:62653041:G:A	sM		SLC3A2	synonymous	pMsM	strong						
+12252	11:63585765	sub(C->T)	11:63585765:C:T	sM		C11orf84	missense	pMsM	strong:valid			yes			
+12681	11:63719959	sub(C->T)	11:63719959:C:T	sF		NAA40	missense	pFsF			not called:valid		yes		
+12261	11:63970987	sub(T->C)	11:63970987:T:C	sM		STIP1	synonymous	pMsM		not called:valid					
+13447	11:64444541	ins(G)	11:64444540:A:AG	sF		NRXN2	intron	pFsF			strong				
+13287	11:64593981	sub(G->A)	11:64593981:G:A	sM		CDC42BPG	synonymous	pFsM		strong:valid					
+12512	11:64596980	sub(G->A)	11:64596980:G:A	sF		CDC42BPG	synonymous	pMsF		weak:valid				yes	
+14052	11:64622147	sub(C->T)	11:64622147:C:T	sM		EHD1	synonymous	pMsM	strong						
+13932	11:64681310	sub(G->A)	11:64681310:G:A	sF		ATG2A	synonymous	pMsF	strong						
+13853	11:64702860	sub(C->T)	11:64702860:C:T	sF		GPHA2	missense	pMsF	strong						
+12536	11:64974022	sub(G->A)	11:64974022:G:A	sF		CAPN1	missense	pMsF		strong:valid				yes	
+11360	11:65293437	sub(G->T)	11:65293437:G:T	sF		SCYL1	nonsense	pMsF		strong:valid					
+14501	11:65308636	sub(C->T)	11:65308636:C:T	sM		LTBP3	missense	pFsM			strong:valid				
+12488	11:65396096	sub(G->T)	11:65396096:G:T	sM		PCNXL3	missense	pMsM			strong:valid				
+11304	11:66030357	sub(T->C)	11:66030357:T:C	sF		KLC2	missense	pMsF		not called:valid				yes	
+14248	11:66050162	sub(C->T)	11:66050162:C:T	sM		CNIH2	intron	pFsM			strong				
+12375	11:66052251	sub(G->A)	11:66052251:G:A	sF		YIF1A	missense	pMsF		strong					
+12007	11:66052363	sub(G->A)	11:66052363:G:A	sM		YIF1A	missense	pFsM		strong					
+12631	11:66055332	sub(G->A)	11:66055332:G:A	sM	dad	YIF1A	missense	pMsM	strong			yes			
+11267	11:66055553	del(1)	11:66055552:CT:C	sM		YIF1A	frame-shift	pFsM		weak:valid					
+11330	11:66082235	sub(G->A)	11:66082235:G:A	sF		CD248	missense	pMsF		strong					
+14492	11:66083769	sub(G->A)	11:66083769:G:A	sF		CD248	missense	pMsF	strong						
+14637	11:66391961	sub(C->G)	11:66391961:C:G	sF		RBM14	missense	pMsF			weak:valid				
+14260	11:66469067	sub(T->C)	11:66469067:T:C	sM		SPTBN2	missense	pMsM		strong					
+14260	11:66469069	sub(C->G)	11:66469069:C:G	sM		SPTBN2	missense	pMsM		strong:valid					
+13984	11:66515886	del(2)	11:66515885:CAT:C	sM		C11orf80	frame-shift	pMsM	strong:valid	strong:valid	strong:valid				
+13214	11:67046915	sub(G->A)	11:67046915:G:A	sF		ADRBK1	synonymous	pMsF			weak:valid				
+13634	11:67197074	sub(A->G)	11:67197074:A:G	sF		RPS6KB2	intron	pMsF	strong			yes			
+14586	11:67265421	sub(G->A)	11:67265421:G:A	sM		PITPNM1	synonymous	pFsM			not called:valid				
+11540	11:67434383	sub(C->T)	11:67434383:C:T	sF		ALDH3B2	synonymous	pMsF		strong					
+13277	11:68181294	sub(C->T)	11:68181294:C:T	sF		LRP5	missense	pFsF			strong:valid				
+13582	11:68367969	sub(G->A)	11:68367969:G:A	sF		PPP6R3	intron	pMsF	strong			yes			
+13752	11:68678912	sub(G->A)	11:68678912:G:A	sF		IGHMBP2	synonymous	pFsF		strong					
+14136	11:68703769	sub(C->T)	11:68703769:C:T	sF		IGHMBP2	synonymous	pMsF	strong						
+12469	11:70178154	sub(C->T)	11:70178154:C:T	sF		PPFIA1	missense	pMsF			strong:valid				
+13568	11:70821018	sub(C->G)	11:70821018:C:G	sF		SHANK2	synonymous	pMsF	strong			yes			
+14509	11:70858273	sub(A->C)	11:70858273:A:C	sF		SHANK2	missense	pMsF			strong:valid				
+12647	11:71152300	sub(T->G)	11:71152300:T:G	sM	dad	DHCR7	missense	pMsM		weak:valid	not called:valid		yes	yes	
+14650	11:71155152	sub(C->T)	11:71155152:C:T	sM		DHCR7	missense	pMsM		strong					
+12687	11:71544232	sub(T->C)	11:71544232:T:C	sM			intergenic	pMsM		strong					
+11417	11:71804707	sub(G->A)	11:71804707:G:A	sM		LRTOMT	nonsense	pMsM	strong:valid						
+12072	11:71818988	sub(G->T)	11:71818988:G:T	sF		LRTOMT	synonymous	pFsF			strong:valid				
+12340	11:73575377	sub(C->T)	11:73575377:C:T	sF		MRPL48	nonsense	pFsF		strong:valid				yes	
+14163	11:74417522	sub(G->C)	11:74417522:G:C	sF		CHRDL2	intron	pMsF	strong						
+13634	11:74985153	sub(G->C)	11:74985153:G:C	sF		ARRB1	synonymous	pMsF	strong			yes			
+13625	11:77727905	sub(C->T)	11:77727905:C:T	sM		KCTD14	missense	pMsM		strong					
+13584	11:77784111	sub(C->G)	11:77784111:C:G	sF		NDUFC2-KCTD14,NDUFC2	synonymous	pMsF	strong			yes			
+14402	11:77920689	sub(C->T)	11:77920689:C:T	sM		USP35	synonymous	pMsM			not called:valid				
+13841	11:78372556	sub(T->C)	11:78372556:T:C	sF	mom	TENM4	missense	pMsF		strong:valid					
+13689	11:78437186	sub(A->G)	11:78437186:A:G	sF		TENM4	missense	pMsF	strong			yes			
+11881	11:82571020	sub(G->A)	11:82571020:G:A	sF		PRCP	missense	pMsF		strong:valid					
+12377	11:82698697	sub(C->T)	11:82698697:C:T	sF		RAB30	missense	pMsF	strong						
+14041	11:85342854	sub(T->A)	11:85342854:T:A	sM		TMEM126B	splice-site	pFsM		strong					
+13570	11:86518792	sub(G->A)	11:86518792:G:A	sM		PRSS23	missense	pMsM	strong						
+14116	11:89924826	sub(C->T)	11:89924826:C:T	sF		NAALAD2	missense	pMsF		strong:valid					
+12646	11:92714792	sub(G->A)	11:92714792:G:A	sM		MTNR1B	missense	pMsM		strong:valid					
+13981	11:94922945	sub(G->C)	11:94922945:G:C	sF		SESN3	missense	pMsF	strong						
+11839	11:99827672	sub(C->G)	11:99827672:C:G	sF		CNTN5	missense	pMsF			strong:valid				
+12441	11:102234425	sub(A->T)	11:102234425:A:T	sF		BIRC2	synonymous	pMsF	strong:valid			yes			
+12653	11:102586117	sub(A->G)	11:102586117:A:G	sF		MMP8	synonymous	pMsF	strong			yes			
+11736	11:103024187	sub(A->C)	11:103024187:A:C	sF		DYNC2H1	missense	pMsF			strong:valid				
+14522	11:107207297	sub(G->A)	11:107207297:G:A	sF		CWF19L2	missense	pMsF			strong:valid				
+13175	11:109294676	sub(G->A)	11:109294676:G:A	sF		C11orf87	missense	pMsF	strong			yes			
+11355	11:111630612	sub(C->G)	11:111630612:C:G	sF		PPP2R1B	missense	pMsF			strong:valid				
+12864	11:113105792	sub(G->T)	11:113105792:G:T	sF		NCAM1	missense	pFsF	strong			yes			
+12722	11:113196288	sub(A->T)	11:113196288:A:T	sM		TTC12	missense	pMsM	strong						
+11474	11:113631634	sub(G->A)	11:113631634:G:A	sM		ZW10	missense	pMsM		strong:valid				yes	
+11504	11:113675618	del(10)	11:113675617:GCAAACTGTTC:G	sM		USP28	frame-shift	pMsM		strong	not called				
+12687	11:114168803	sub(G->A)	11:114168803:G:A	sM		NNMT	synonymous	pMsM		strong:valid					
+14028	11:114569219	sub(C->A)	11:114569219:C:A	sF	dad	NXPE2	missense	pMsF		strong					
+11872	11:117100406	sub(G->A)	11:117100406:G:A	sF		PCSK7	missense	pFsF			not called:valid		yes		
+14366	11:117387216	sub(G->A)	11:117387216:G:A	sF		DSCAML1	synonymous	pMsF		strong					
+13682	11:118247309	sub(T->A)	11:118247309:T:A	sM		UBE4A	missense	pMsM	strong			yes			
+13814	11:118948676	sub(A->C)	11:118948676:A:C	sF		VPS11	missense	pMsF		weak:valid					
+14491	11:118968266	sub(G->A)	11:118968266:G:A	sM		DPAGT1	intron	pMsM	strong						
+13798	11:119031617	sub(C->T)	11:119031617:C:T	sF		ABCG4	missense	pFsF			not called:valid				
+13070	11:121424766	sub(A->G)	11:121424766:A:G	sM		SORL1	missense	pMsM	strong			yes			
+11017	11:123676657	sub(A->G)	11:123676657:A:G	sF		OR6M1	missense	pMsF		strong					
+12561	11:124742963	sub(C->T)	11:124742963:C:T	sF		ROBO3	missense	pMsF		strong:valid				yes	
+12952	11:124754806	sub(G->A)	11:124754806:G:A	sF		ROBO4	missense	pMsF	strong			yes			
+11773	11:124857453	sub(A->G)	11:124857453:A:G	sM		CCDC15	missense	pMsM			strong:valid		yes		
+14337	11:124950640	sub(G->A)	11:124950640:G:A	sM		SLC37A2	missense	pMsM			strong				
+12647	11:124971114	sub(G->A)	11:124971114:G:A	sM		TMEM218	missense	pMsM		weak:valid	not called:valid		yes	yes	
+11542	11:125791158	sub(A->G)	11:125791158:A:G	sF		DDX25	missense	pFsF			strong:valid				
+13804	11:126163599	sub(G->A)	11:126163599:G:A	sF		TIRAP	3'UTR	pMsF	strong						
+14637	11:133795695	sub(T->A)	11:133795695:T:A	sF		IGSF9B	missense	pMsF			strong:valid				
+12617	11:134072722	sub(A->G)	11:134072722:A:G	sM		NCAPD3	missense	pFsM			strong:valid				
+11201	12:1025874	ins(A)	12:1025873:C:CA	sM		RAD52	frame-shift	pMsM			strong:valid				
+14402	12:4609424	sub(C->T)	12:4609424:C:T	sM		C12orf4	synonymous	pMsM			strong:valid				
+14072	12:6128067	sub(G->A)	12:6128067:G:A	sF		VWF	missense	pMsF		strong					
+13625	12:6637065	sub(T->C)	12:6637065:T:C	sM		NCAPD2	intron	pMsM		strong					
+14213	12:6669269	sub(T->C)	12:6669269:T:C	sF		NOP2	missense	pMsF	strong						
+11773	12:6788149	sub(C->T)	12:6788149:C:T	sM		ZNF384	synonymous	pMsM			strong:valid		yes		
+11453	12:6788667	sub(T->C)	12:6788667:T:C	sF		ZNF384	missense	pMsF			not called:valid				
+13197	12:6859040	sub(C->T)	12:6859040:C:T	sF		MLF2	missense	pMsF	strong			yes			
+14036	12:7086424	sub(C->G)	12:7086424:C:G	sF		LPCAT3	missense	pMsF	strong						
+12669	12:7090307	sub(C->T)	12:7090307:C:T	sM		LPCAT3	missense	pMsM	strong:valid			yes			
+13694	12:7188474	sub(C->G)	12:7188474:C:G	sF		C1R	missense	pMsF	strong						
+14219	12:7480936	sub(C->T)	12:7480936:C:T	sF		ACSM4	synonymous	pMsF	strong						
+11937	12:8200722	sub(G->A)	12:8200722:G:A	sM		FOXJ2	synonymous	pMsM	strong						
+12859	12:9010205	sub(A->G)	12:9010205:A:G	sM		A2ML1	intron	pMsM	strong			yes			
+14397	12:9265970	sub(A->G)	12:9265970:A:G	sM		A2M	missense	pMsM		strong:valid					
+12821	12:12279731	sub(C->T)	12:12279731:C:T	sF		LRP6	missense	pMsF	strong			yes			
+13523	12:16342605	sub(T->C)	12:16342605:T:C	sF		SLC15A5	synonymous	pMsF	strong			yes			
+11435	12:30862954	sub(T->C)	12:30862954:T:C	sM		CAPRIN2	missense	pMsM	strong						
+14363	12:39695328	sub(T->C)	12:39695328:T:C	sF		KIF21A	missense	pMsF		strong					
+14533	12:40037634	sub(A->G)	12:40037634:A:G	sF		C12orf40	synonymous	pMsF			not called:valid				
+11397	12:41410611	sub(A->T)	12:41410611:A:T	sF		CNTN1	missense	pMsF		strong:valid					
+12693	12:45797004	sub(G->A)	12:45797004:G:A	sF		ANO6	missense	pMsF	strong						
+12499	12:47472053	sub(G->T)	12:47472053:G:T	sM		AMIGO2	missense	pMsM			not called:valid		yes		
+11918	12:48181856	sub(A->C)	12:48181856:A:C	sM		HDAC7	missense	pFsM		strong:valid					
+13471	12:48528577	sub(G->A)	12:48528577:G:A	pMsM		PFKM	missense	pMsM	strong:valid			yes			
+13849	12:48919485	sub(G->A)	12:48919485:G:A	sF		OR8S1	missense	pMsF	strong						
+12132	12:49422858	sub(C->G)	12:49422858:C:G	sM		KMT2D	missense	pMsM			strong:valid				
+14153	12:49431648	sub(C->T)	12:49431648:C:T	sF		KMT2D	missense	pFsF	strong						
+12426	12:49446002	sub(C->T)	12:49446002:C:T	sF		KMT2D	synonymous	pMsF	strong:valid			yes			
+11061	12:49458906	sub(G->A)	12:49458906:G:A	sM		RHEBL1	missense	pMsM	strong						
+14092	12:49960239	sub(T->C)	12:49960239:T:C	sM		MCRS1	intron	pMsM		strong					
+11201	12:50030515	sub(T->C)	12:50030515:T:C	sM		PRPF40B	synonymous	pMsM			strong:valid				
+11146	12:51090925	sub(C->T)	12:51090925:C:T	sM		DIP2B	missense	pMsM		strong:valid				yes	
+13768	12:51442807	sub(T->G)	12:51442807:T:G	sF		LETMD1	intron	pMsF	strong						
+14055	12:51458017	sub(G->C)	12:51458017:G:C	sM		CSRNP2	missense	pMsM		strong:valid					
+11040	12:51470316	del(2)	12:51470315:CTT:C	sF		CSRNP2	frame-shift	pMsF			strong:valid				
+14036	12:51632734	sub(G->C)	12:51632734:G:C	sF		DAZAP2	intron	pMsF	strong						
+14323	12:51857512	sub(C->T)	12:51857512:C:T	sM		SLC4A8	intron	pMsM	strong						
+13709	12:51865096	sub(C->A)	12:51865096:C:A	sF		SLC4A8	missense	pMsF	strong						
+13498	12:52713014	sub(G->A)	12:52713014:G:A	sF		KRT83	synonymous	pMsF		strong:valid					
+11982	12:52713017	sub(C->T)	12:52713017:C:T	sF		KRT83	synonymous	pMsF	strong						
+13147	12:52756034	sub(C->T)	12:52756034:C:T	sF		KRT85	splice-site	pMsF			strong:valid				
+12412	12:52789568	sub(G->C)	12:52789568:G:C	sM		KRT82	missense	pMsM	strong			yes			
+14003	12:52826920	sub(A->G)	12:52826920:A:G	sM		KRT75	synonymous	pMsM	strong						
+14307	12:53416262	sub(T->C)	12:53416262:T:C	sM		EIF4B	intron	pMsM			strong				
+13851	12:53937236	sub(T->C)	12:53937236:T:C	sM		ATF7	intron	pMsM	strong						
+13577	12:54651374	sub(C->T)	12:54651374:C:T	sF		CBX5	missense	pMsF	strong			yes			
+13930	12:54891642	del(1)	12:54891641:AG:A	sF		NCKAP1L	frame-shift	pMsF	strong:valid						
+13764	12:54926034	sub(G->C)	12:54926034:G:C	sM		NCKAP1L	missense	pMsM	strong						
+11495	12:55688247	sub(T->C)	12:55688247:T:C	sM		OR6C6	missense	pMsM		strong:valid					
+13948	12:55759719	sub(C->T)	12:55759719:C:T	sF		OR6C75	synonymous	pMsF	strong						
+11458	12:55846266	sub(T->C)	12:55846266:T:C	sM		OR6C2	missense	pMsM		strong					
+14158	12:56349277	sub(G->T)	12:56349277:G:T	sM		PMEL	missense	pFsM	strong						
+13934	12:56528073	del(1)	12:56528072:GA:G	sF	dad	ESYT1	intron	pMsF	not called:valid						
+12492	12:56530599	sub(A->G)	12:56530599:A:G	sM		ESYT1	synonymous	pMsM		strong					
+14195	12:56631016	ins(G)	12:56631015:T:TG	sM		SLC39A5	frame-shift	pMsM	strong:valid						
+14640	12:56667052	sub(G->T)	12:56667052:G:T	sM		CS	intron	pMsM			strong				
+13915	12:56742977	sub(G->C)	12:56742977:G:C	sF		STAT2	synonymous	pMsF	strong						
+13804	12:56814652	sub(C->T)	12:56814652:C:T	sF		TIMELESS	synonymous	pMsF	strong						
+12976	12:57032159	sub(A->G)	12:57032159:A:G	sM		ATP5B	missense	pMsM	strong			yes			
+12836	12:57112832	sub(C->G)	12:57112832:C:G	sM		NACA	intron	pMsM	strong:valid			yes			
+13967	12:57397603	sub(C->A)	12:57397603:C:A	sF		ZBTB39	missense	pMsF	strong						
+13187	12:57422622	sub(C->T)	12:57422622:C:T	sM		MYO1A	missense	pMsM	strong			yes			
+11470	12:57487001	del(5)	12:57487000:TTTCTC:T	sF		NAB2	intron	pMsF		strong					
+11045	12:57579580	sub(C->T)	12:57579580:C:T	sM	dad	LRP1	missense	pFsM		strong:valid				yes	
+13915	12:57625518	sub(G->A)	12:57625518:G:A	sF		SHMT2	missense	pMsF	strong						
+13920	12:62708603	sub(C->T)	12:62708603:C:T	sF		USP15	synonymous	pMsF	strong						
+12375	12:62949979	sub(G->A)	12:62949979:G:A	sF		MON2	intron	pMsF		strong					
+12703	12:69252843	sub(C->A)	12:69252843:C:A	sF		CPM	missense	pMsF			strong:valid		yes		
+13907	12:70004291	sub(G->A)	12:70004291:G:A	sM		LRRC10	missense	pMsM	strong						
+12794	12:71977456	sub(G->C)	12:71977456:G:C	sM		LGR5	missense	pMsM	strong			yes			
+12729	12:77203648	del(1)	12:77203647:AT:A	sM		ZDHHC17	intron	pFsM		strong					
+13115	12:78516196	del(2)	12:78516195:ACT:A	sM		NAV3	frame-shift	pMsM		strong:valid					
+11730	12:83250986	sub(T->A)	12:83250986:T:A	sF		TMTC2	nonsense	pMsF	strong:valid						
+12864	12:88512462	del(2)	12:88512461:GTT:G	sF		CEP290	frame-shift	pFsF	not called:valid						
+13609	12:88974118	sub(G->A)	12:88974118:G:A	sF		KITLG	5'UTR	pMsF		strong					
+12685	12:92539312	del(13)	12:92539311:TGGGGGCGGCGTGC:T	pMsF		BTG1	5'UTR	pMsF		strong					
+11008	12:94769688	sub(G->A)	12:94769688:G:A	sM		CCDC41	nonsense	pMsM		not called:valid					
+14364	12:95442832	del(2)	12:95442831:CAT:C	sF		NR2C1	intron	pMsF		strong					
+14424	12:100042220	sub(C->T)	12:100042220:C:T	sF	dad	FAM71C	nonsense	pMsF	strong:valid						
+13385	12:101012215	sub(G->T)	12:101012215:G:T	sF		GAS2L3	intron	pMsF		strong					
+11341	12:101680146	sub(A->G)	12:101680146:A:G	sF		UTP20	missense	pMsF	strong						
+13874	12:107109240	sub(C->A)	12:107109240:C:A	sF		RFX4	missense	pMsF		strong					
+11718	12:108925059	sub(T->C)	12:108925059:T:C	sF		SART3	splice-site	pMsF	strong:valid						
+13026	12:109877458	sub(C->T)	12:109877458:C:T	sF		MYO1H	missense	pMsF			strong:valid				
+13682	12:110893676	sub(G->T)	12:110893676:G:T	sM		GPN3	synonymous	pMsM	strong			yes			
+12772	12:111954116	sub(C->T)	12:111954116:C:T	sM		ATXN2	missense	pMsM	strong						
+12479	12:113711426	sub(T->G)	12:113711426:T:G	sM		TPCN1	missense	pMsM		strong					
+12261	12:116429238	sub(T->C)	12:116429238:T:C	sM		MED13L	missense	pMsM		strong:valid					
+14646	12:117657987	sub(C->T)	12:117657987:C:T	sF		NOS1	missense	pMsF			weak:valid				
+11765	12:117669961	del(4)	12:117669960:CAGGT:C	sF		NOS1	intron	pMsF	strong						
+13893	12:118852189	sub(G->A)	12:118852189:G:A	sF		SUDS3	missense	pMsF		strong					
+14183	12:120135794	ins(GT)	12:120135793:C:CGT	sM		CIT	frame-shift	pMsM		strong:valid					
+13319	12:120260716	del(1)	12:120260715:GC:G	sM		CIT	frame-shift	pMsM	strong:valid			yes			
+14479	12:120586156	sub(G->A)	12:120586156:G:A	sF		GCN1L1	intron	pMsF	strong						
+12596	12:120903610	del(1)	12:120903609:AC:A	sF		SRSF9	intron	pMsF	not called:valid						
+11229	12:121017379	del(1)	12:121017378:CT:C	sM		POP5	frame-shift	pMsM			strong:valid				
+14257	12:121603240	sub(C->T)	12:121603240:C:T	sF		P2RX7	missense	pMsF			weak:valid				
+14381	12:122361524	sub(A->G)	12:122361524:A:G	sF		WDR66	intron	pMsF		strong					
+13039	12:122481895	sub(C->T)	12:122481895:C:T	sM		BCL7A	synonymous	pMsM	strong			yes			
+12763	12:123341266	sub(C->T)	12:123341266:C:T	sM		HIP1R	missense	pMsM		not called:valid					
+14486	12:123466510	sub(C->G)	12:123466510:C:G	sM		ARL6IP4	missense	pMsM		strong:valid					
+13800	12:123705971	sub(T->C)	12:123705971:T:C	sF		MPHOSPH9	missense	pMsF		not called:valid					
+11561	12:123808360	sub(G->T)	12:123808360:G:T	sM		SBNO1	synonymous	pMsM		strong:valid				yes	
+11959	12:123920711	sub(A->G)	12:123920711:A:G	sF		RILPL2	missense	pMsF			strong:valid				
+14363	12:124139564	sub(G->A)	12:124139564:G:A	sF		GTF2H3	intron	pMsF		strong					
+11564	12:124281223	sub(C->A)	12:124281223:C:A	sF		DNAH10	synonymous	pMsF		strong:valid					
+13948	12:124826545	sub(C->T)	12:124826545:C:T	sF		NCOR2	missense	pMsF	strong						
+14384	12:124887010	sub(T->C)	12:124887010:T:C	sF		NCOR2	missense	pFsF			strong:valid				
+14555	12:124915272	sub(C->T)	12:124915272:C:T	sM		NCOR2	missense	pFsM		strong:valid					
+12153	12:125441316	sub(G->A)	12:125441316:G:A	sF		DHX37	nonsense	pMsF			weak:valid		yes		
+14258	12:125465244	sub(G->A)	12:125465244:G:A	sM		DHX37	missense	pMsM	strong						
+14089	12:129294632	sub(T->C)	12:129294632:T:C	sF		SLC15A4	synonymous	pFsF	strong						
+11345	12:130941155	sub(C->A)	12:130941155:C:A	sM		RIMBP2	missense	pMsM		not called:valid					
+12492	12:131466436	sub(G->A)	12:131466436:G:A	sM		GPR133	synonymous	pMsM		strong					
+12211	12:133197582	sub(G->A)	12:133197582:G:A	sF		P2RX2	intron	pFsF	strong						
+14286	12:133197689	sub(G->A)	12:133197689:G:A	sF		P2RX2	missense	pMsF		strong					
+11457	12:133197699	sub(C->T)	12:133197699:C:T	sM		P2RX2	missense	pMsM	strong						
+11905	12:133295379	sub(G->A)	12:133295379:G:A	sF		PGAM5	missense	pMsF		strong:valid				yes	
+13984	12:133297372	sub(G->A)	12:133297372:G:A	sM		PGAM5	synonymous	pMsM	weak:valid	strong:valid	strong:valid				
+12792	13:23904276	sub(C->T)	13:23904276:C:T	sF		SACS	synonymous	pMsF	strong:valid			yes			
+13300	13:24167578	sub(G->T)	13:24167578:G:T	sM	dad	TNFRSF19	missense	pMsM		strong:valid					
+12785	13:25671332	sub(C->T)	13:25671332:C:T	sF		PABPC3	synonymous	pMsF	strong			yes			
+11138	13:26788216	del(3)	13:26788215:GATC:G	sM		RNF6	no-frame-shift	pMsM	weak:valid						
+11395	13:27239287	sub(A->G)	13:27239287:A:G	sM	dad	WASF3	missense	pMsM		strong:valid					
+11935	13:28122540	sub(G->C)	13:28122540:G:C	sM		LNX2	missense	pMsM		strong					
+11252	13:33634846	sub(C->T)	13:33634846:C:T	sM	mom	KL	synonymous	pMsM		strong:valid				yes	
+13503	13:35697627	sub(A->G)	13:35697627:A:G	sM		NBEA	missense	pMsM		strong:valid					
+14307	13:35883758	sub(A->G)	13:35883758:A:G	sM		NBEA	intron	pMsM			strong				
+12274	13:39452380	sub(T->C)	13:39452380:T:C	sF		FREM2	synonymous	pMsF		strong					
+14112	13:42259219	sub(G->A)	13:42259219:G:A	sF		VWA8	missense	pFsF	strong						
+11229	13:42733479	sub(G->A)	13:42733479:G:A	sM		DGKH	missense	pMsM			strong:valid				
+12680	13:42740796	sub(A->T)	13:42740796:A:T	sM		DGKH	synonymous	pMsM		strong:valid	not called:valid		yes	yes	
+13338	13:48657580	sub(T->C)	13:48657580:T:C	sF		MED4	intron	pMsF	strong			yes			
+11347	13:50366652	sub(C->T)	13:50366652:C:T	sM		KPNA3	5'UTR	pMsM		strong					
+11546	13:51969635	sub(A->G)	13:51969635:A:G	sM		INTS6	intron	pMsM			strong				
+12375	13:52715154	ins(A)	13:52715153:T:TA	sF		NEK3	intron	pMsF		strong:valid					
+11143	13:52991204	sub(C->T)	13:52991204:C:T	sF		VPS36	synonymous	pMsF	strong						
+13814	13:60737781	sub(G->A)	13:60737781:G:A	sF		DIAPH3	synonymous	pMsF		weak:valid					
+13584	13:61985584	sub(G->T)	13:61985584:G:T	sF		PCDH20	missense	pMsF	strong			yes			
+11954	13:77672350	sub(T->C)	13:77672350:T:C	sF		MYCBP2	missense	pMsF		strong:valid					
+12610	13:78477482	sub(C->T)	13:78477482:C:T	sF		EDNRB	missense	pMsF		strong:valid					
+11073	13:79979891	sub(T->C)	13:79979891:T:C	sF		RBM26	missense	pMsF			strong:valid				
+13875	13:95816619	sub(T->C)	13:95816619:T:C	sM		ABCC4	intron	pMsM	strong						
+13856	13:95830016	sub(G->A)	13:95830016:G:A	sM		ABCC4	synonymous	pMsM	strong						
+12434	13:98667907	sub(A->G)	13:98667907:A:G	sF		IPO5	intron	pMsF	strong						
+12356	13:99118668	sub(C->T)	13:99118668:C:T	sF		STK24	missense	pMsF	strong						
+11513	13:99508271	sub(T->C)	13:99508271:T:C	sF		DOCK9	missense	pMsF		strong:valid					
+12826	13:103492086	sub(G->T)	13:103492086:G:T	sM	mom	BIVM,BIVM-ERCC5	missense	pFsM	strong			yes			
+12572	13:103514754	sub(A->G)	13:103514754:A:G	sF		BIVM-ERCC5,ERCC5	missense	pMsF	strong						
+12788	13:111521863	sub(C->G)	13:111521863:C:G	sF		LINC00346	non-coding	pMsF	strong			yes			
+13809	13:113464929	sub(T->G)	13:113464929:T:G	sF		ATP11A	intron	pMsF		strong					
+14407	13:113741656	sub(C->T)	13:113741656:C:T	sM		MCF2L	synonymous	pMsM		strong					
+13166	14:19553685	sub(C->T)	14:19553685:C:T	sM		POTEG	missense	pMsM	strong			yes			
+14485	14:21570021	sub(C->A)	14:21570021:C:A	sM	dad	TMEM253	intron	pMsM	strong						
+14116	14:21836551	sub(G->A)	14:21836551:G:A	sF		SUPT16H	missense	pMsF		strong:valid					
+12072	14:22251532	sub(G->A)	14:22251532:G:A	sF			intergenic	pFsF			strong				
+11457	14:23244691	sub(C->T)	14:23244691:C:T	sM		SLC7A7	missense	pMsM	strong						
+13503	14:23456632	sub(T->C)	14:23456632:T:C	sM		C14orf93	missense	pMsM		strong:valid					
+13851	14:23548793	sub(C->T)	14:23548793:C:T	sM		ACIN1	missense	pMsM	strong						
+14364	14:23792312	del(3)	14:23792311:GTTC:G	sF		PABPN1,BCL2L2-PABPN1	intron	pMsF		strong					
+12735	14:23855269	sub(C->G)	14:23855269:C:G	sM	dad	MYH6	missense	pMsM	strong			yes			
+14394	14:23858187	sub(C->T)	14:23858187:C:T	sM		MYH6	synonymous	pMsM		strong:valid					
+14335	14:24113308	sub(G->T)	14:24113308:G:T	sM		DHRS2	intron	pMsM		strong					
+13203	14:24621007	sub(C->T)	14:24621007:C:T	sF		RNF31	missense	pMsF		not called:valid					
+11028	14:24656632	sub(C->T)	14:24656632:C:T	sM		IPO4	missense	pMsM		strong:valid					
+11181	14:24680773	sub(C->G)	14:24680773:C:G	sF		CHMP4A	missense	pMsF	strong						
+12399	14:24683528	sub(C->T)	14:24683528:C:T	sF		NEDD8-MDP1,MDP1	missense	pFsF		strong:valid				yes	
+13176	14:24705309	sub(A->G)	14:24705309:A:G	sF		GMPR2	missense	pFsF	strong			yes			
+12647	14:24897550	sub(C->T)	14:24897550:C:T	sM		CBLN3	missense	pMsM		not called:valid	not called:valid		yes		
+14587	14:31359000	sub(G->A)	14:31359000:G:A	sM		COCH	3'UTR	pMsM			strong				
+11696	14:35227958	sub(T->C)	14:35227958:T:C	sM		BAZ1A	synonymous	pMsM			strong:valid				
+14614	14:35596686	sub(G->A)	14:35596686:G:A	sF		KIAA0391	missense	pMsF		strong					
+13839	14:35742626	del(2)	14:35742625:CTT:C	sF		KIAA0391	intron	pMsF		strong					
+14160	14:36133877	sub(C->T)	14:36133877:C:T	sF		RALGAPA1	missense	pMsF	strong						
+14684	14:45693468	sub(T->C)	14:45693468:T:C	sF		MIS18BP1	synonymous	pMsF	strong						
+14259	14:45693704	sub(T->C)	14:45693704:T:C	sM		MIS18BP1	missense	pMsM		strong:valid					
+11491	14:51464896	sub(A->G)	14:51464896:A:G	sM		TRIM9	missense	pMsM			strong:valid		yes		
+12020	14:51721116	sub(C->T)	14:51721116:C:T	sM		TMX1	missense	pMsM		strong:valid					
+12020	14:52937395	sub(G->A)	14:52937395:G:A	sM		TXNDC16	missense	pMsM		strong					
+13023	14:55836494	sub(G->C)	14:55836494:G:C	sM		ATG14	missense	pFsM		strong:valid					
+12161	14:57075985	sub(A->G)	14:57075985:A:G	sF		TMEM260	synonymous	pFsF			weak:valid				
+13012	14:62547879	sub(C->T)	14:62547879:C:T	sF		SYT16	missense	pMsF	strong			yes			
+13330	14:64493421	sub(C->T)	14:64493421:C:T	sF		SYNE2	missense	pMsF	strong			yes			
+12838	14:64600841	sub(C->G)	14:64600841:C:G	sF		SYNE2	missense	pMsF	strong			yes			
+13559	14:67807173	sub(G->A)	14:67807173:G:A	sF		ATP6V1D	nonsense	pMsF		strong:valid					
+11933	14:68250041	sub(C->T)	14:68250041:C:T	sM		ZFYVE26	synonymous	pMsM		strong:valid					
+12962	14:68257517	del(1)	14:68257516:GC:G	sF		ZFYVE26	intron	pMsF	strong:valid			yes			
+13606	14:68274196	sub(G->A)	14:68274196:G:A	sF		ZFYVE26	missense	pMsF			strong:valid		yes		
+13781	14:69343881	sub(A->T)	14:69343881:A:T	sF		ACTN1	missense	pMsF		strong					
+11024	14:69805349	sub(C->T)	14:69805349:C:T	sF		GALNT16	intron	pMsF	strong						
+11117	14:69925339	sub(C->T)	14:69925339:C:T	sF		SLC39A9	3'UTR	pFsF		not called:valid					
+13617	14:73181190	sub(C->T)	14:73181190:C:T	sM		DPF3	missense	pMsM	strong						
+11376	14:73198505	sub(G->A)	14:73198505:G:A	sF		DPF3	intron	pMsF	strong						
+14216	14:73418524	sub(C->T)	14:73418524:C:T	sM		DCAF4	synonymous	pMsM	strong						
+11571	14:74711878	sub(A->G)	14:74711878:A:G	sF		VSX2	missense	pMsF			strong:valid				
+13136	14:75016558	sub(G->A)	14:75016558:G:A	sF		LTBP2	intron	pMsF		strong					
+14268	14:75375815	sub(T->C)	14:75375815:T:C	sF		RPS6KL1	missense	pMsF		strong					
+13923	14:76368504	sub(C->T)	14:76368504:C:T	sF	mom	TTLL5	nonsense	pMsF	strong:valid						
+12921	14:77893973	sub(G->A)	14:77893973:G:A	sF		VIPAS39	nonsense	pMsF	strong:valid			yes			
+13614	14:78045352	sub(C->G)	14:78045352:C:G	sF		SPTLC2	missense	pMsF		strong:valid					
+12997	14:92482067	sub(C->G)	14:92482067:C:G	sF		TRIP11	missense	pMsF	strong			yes			
+14637	14:94674915	sub(T->A)	14:94674915:T:A	sF		PPP4R4	intron	pMsF			strong				
+11446	14:94732223	sub(A->G)	14:94732223:A:G	sF		PPP4R4	missense	pMsF			strong:valid				
+11892	14:95056550	sub(G->A)	14:95056550:G:A	sF		SERPINA5	synonymous	pMsF		strong:valid				yes	
+11425	14:95921697	sub(C->T)	14:95921697:C:T	sF		SYNE3	intron	pMsF		strong	not called				
+14072	14:97022617	sub(C->T)	14:97022617:C:T	pMsF		PAPOLA	missense	pMsF		strong:valid					
+12795	14:100129315	sub(C->T)	14:100129315:C:T	sM		HHIPL1	synonymous	pMsM	strong						
+14444	14:100551047	sub(G->A)	14:100551047:G:A	sF		EVL	missense	pFsF	strong						
+11027	14:100996272	sub(C->T)	14:100996272:C:T	sM		WDR25	missense	pMsM			not called:valid				
+14215	14:102661370	sub(T->C)	14:102661370:T:C	sF		WDR20	synonymous	pFsF	strong						
+13106	14:103338316	sub(G->T)	14:103338316:G:T	sF		TRAF3	intron	pMsF		strong					
+14032	14:104564008	del(1)	14:104564007:GT:G	sM		ASPG	intron	pMsM	strong						
+12403	14:105409359	sub(G->A)	14:105409359:G:A	sF		AHNAK2	synonymous	pMsF		strong					
+13146	14:105415715	sub(G->A)	14:105415715:G:A	sF		AHNAK2	missense	pMsF	strong			yes			
+13146	14:105415719	sub(A->G)	14:105415719:A:G	sF		AHNAK2	synonymous	pMsF	strong						
+13023	14:105419747	sub(T->C)	14:105419747:T:C	sM		AHNAK2	missense	pFsM		strong					
+13645	14:105420734	sub(G->A)	14:105420734:G:A	sM		AHNAK2	missense	pMsM	strong			yes			
+12356	14:106208271	sub(G->C)	14:106208271:G:C	sF			intergenic	pMsF	strong						
+13462	14:106304732	sub(C->T)	14:106304732:C:T	sM			intergenic	pMsM	strong:valid			yes			
+13710	14:106453120	sub(G->A)	14:106453120:G:A	sM			intergenic	pMsM	strong						
+12617	14:106494573	sub(T->C)	14:106494573:T:C	sM	mom		intergenic	pFsM			strong				
+12977	15:22369455	del(4)	15:22369454:CAAGG:C	sM		OR4M2	frame-shift	pFsM	not called:valid						
+11354	15:22851054	sub(C->G)	15:22851054:C:G	sF		TUBGCP5	missense	pMsF	strong						
+13910	15:23890135	sub(G->A)	15:23890135:G:A	sF		MAGEL2	synonymous	pMsF	strong:valid	strong:valid	strong:valid				
+13851	15:28474910	sub(C->T)	15:28474910:C:T	sM		HERC2	synonymous	pMsM	strong						
+11469	15:28514517	sub(A->C)	15:28514517:A:C	sF		HERC2	synonymous	pMsF			strong:valid				
+14349	15:32917284	sub(C->G)	15:32917284:C:G	sM		ARHGAP11A	synonymous	pFsM		strong					
+13680	15:33945010	sub(G->A)	15:33945010:G:A	sM		RYR3	missense	pMsM		strong					
+11359	15:34014994	sub(G->A)	15:34014994:G:A	sF	dad	RYR3	missense	pMsF	strong						
+12636	15:38545389	sub(G->A)	15:38545389:G:A	sF		SPRED1	noStart	pMsF	strong						
+11718	15:40309416	sub(C->T)	15:40309416:C:T	sF		EIF2AK4	synonymous	pMsF	strong						
+14075	15:40594651	sub(C->T)	15:40594651:C:T	sM		PLCB2	intron	pMsM		strong					
+11999	15:41106013	sub(A->G)	15:41106013:A:G	sF	dad	ZFYVE19	intron	pFsF		strong					
+12420	15:41193039	sub(C->T)	15:41193039:C:T	sF		VPS18	missense	pMsF	strong			yes			
+13940	15:42167164	sub(G->A)	15:42167164:G:A	sM		SPTBN5	missense	pMsM	strong						
+14118	15:42531918	sub(C->T)	15:42531918:C:T	sM		TMEM87A	missense	pMsM	strong						
+11324	15:42976989	sub(A->G)	15:42976989:A:G	sM		STARD9	synonymous	pFsM		strong					
+12359	15:42985481	sub(T->C)	15:42985481:T:C	sF		STARD9	missense	pMsF		strong:valid					
+11339	15:43011023	sub(G->A)	15:43011023:G:A	sM		STARD9	missense	pFsM			strong:valid				
+13984	15:43579545	sub(C->A)	15:43579545:C:A	sM	dad	TGM7	missense	pMsM	strong:valid	strong:valid	strong:valid				
+13922	15:44066864	sub(C->T)	15:44066864:C:T	sM		ELL3	synonymous	pFsM		strong:valid				yes	
+13689	15:48764826	sub(A->T)	15:48764826:A:T	sF		FBN1	missense	pMsF	strong			yes			
+13628	15:50546750	sub(G->T)	15:50546750:G:T	sM		HDC	missense	pMsM	strong			yes			
+13403	15:50786392	sub(A->G)	15:50786392:A:G	sF		USP8	missense	pMsF	weak:valid	strong:valid	weak:valid				
+11463	15:51778561	del(4)	15:51778560:TCTTA:T	sF		DMXL2	intron	pMsF			strong				
+12415	15:52885831	sub(G->C)	15:52885831:G:C	sF		FAM214A	missense	pMsF	strong			yes			
+14633	15:52900800	sub(A->G)	15:52900800:A:G	sM		FAM214A	missense	pMsM			strong:valid				
+11226	15:56148316	sub(G->C)	15:56148316:G:C	sM		NEDD4	intron	pMsM	strong						
+12727	15:57545470	del(1)	15:57545469:AT:A	sM		TCF12	frame-shift	pMsM	strong:valid			yes			
+11440	15:58834106	sub(C->T)	15:58834106:C:T	sF		LIPC	synonymous	pFsF	strong						
+13735	15:58971416	sub(G->A)	15:58971416:G:A	sF		ADAM10	missense	pMsF			strong:valid				
+11330	15:63017158	sub(T->G)	15:63017158:T:G	sF		TLN2	intron	pMsF		strong					
+13884	15:64701913	sub(A->G)	15:64701913:A:G	sF		TRIP4	missense	pMsF			strong:valid				
+13692	15:65054610	sub(C->G)	15:65054610:C:G	sM		RBPMS2	intron	pMsM	strong						
+14695	15:65471361	sub(T->G)	15:65471361:T:G	sF		CLPX	missense	pMsF	strong						
+14679	15:65744456	sub(T->C)	15:65744456:T:C	sM		DPP8	intron	pFsM	strong						
+13912	15:65917327	sub(C->T)	15:65917327:C:T	sF		SLC24A1	synonymous	pFsF		strong:valid				yes	
+11453	15:65945118	sub(G->A)	15:65945118:G:A	sF		SLC24A1	missense	pMsF			strong:valid				
+14675	15:66845469	sub(C->T)	15:66845469:C:T	sF		LCTL	synonymous	pMsF	strong						
+14084	15:68118376	sub(C->A)	15:68118376:C:A	sF		SKOR1	missense	pMsF		not called:valid					
+13099	15:70351081	sub(T->C)	15:70351081:T:C	sM		TLE3	missense	pMsM	strong			yes			
+12704	15:73067338	sub(T->C)	15:73067338:T:C	sF		ADPGK	missense	pMsF	strong			yes			
+12210	15:74179947	sub(G->A)	15:74179947:G:A	sM		TBC1D21	intron	pMsM	strong						
+11773	15:74883947	sub(T->G)	15:74883947:T:G	sM		ARID3B	synonymous	pMsM			strong:valid		yes		
+11212	15:74948257	sub(A->G)	15:74948257:A:G	sF		EDC3	missense	pMsF			strong:valid				
+12817	15:75704042	sub(G->C)	15:75704042:G:C	sM		SIN3A	missense	pMsM			not called:valid		yes		
+12160	15:75949439	sub(G->A)	15:75949439:G:A	sM		SNX33	synonymous	pMsM	strong						
+14558	15:77020940	sub(C->T)	15:77020940:C:T	sF		SCAPER	missense	pMsF			strong:valid				
+13364	15:78770676	sub(C->T)	15:78770676:C:T	sM		IREB2	synonymous	pMsM	strong			yes			
+13418	15:79748933	sub(G->T)	15:79748933:G:T	sF		KIAA1024	synonymous	pMsF	strong			yes			
+11549	15:80467407	sub(A->T)	15:80467407:A:T	sF		FAH	missense	pMsF	strong						
+14369	15:81595990	sub(C->T)	15:81595990:C:T	sF		IL16	missense	pMsF		strong					
+13531	15:81637366	sub(G->A)	15:81637366:G:A	sF		TMC3	intron	pMsF	strong			yes			
+13932	15:85431102	sub(C->G)	15:85431102:C:G	sF		SLC28A1	intron	pMsF	strong						
+13328	15:86118538	sub(T->C)	15:86118538:T:C	sM		AKAP13	missense	pMsM	strong			yes			
+13543	15:89867032	sub(G->A)	15:89867032:G:A	sF	dad	POLG	intron	pMsF	strong	strong					
+11501	15:90334290	sub(G->A)	15:90334290:G:A	sM		ANPEP	missense	pMsM		strong:valid				yes	
+14496	15:90903410	del(1)	15:90903409:GA:G	sM	dad	ZNF774	frame-shift	pMsM	strong:valid						
+12779	15:91525078	sub(A->G)	15:91525078:A:G	sF	dad	PRC1	missense	pMsF	strong			yes			
+11563	15:92981712	sub(C->T)	15:92981712:C:T	sF		ST8SIA2	synonymous	pMsF		strong:valid					
+11657	15:98938385	sub(G->A)	15:98938385:G:A	sF	dad		intergenic	pMsF	strong						
+12108	15:99434582	sub(G->A)	15:99434582:G:A	sM		IGF1R	synonymous	pMsM		weak:valid					
+14642	15:99670801	sub(G->A)	15:99670801:G:A	sM	dad	SYNM	missense	pFsM			strong				
+12550	15:101609022	sub(G->A)	15:101609022:G:A	sF		LRRK1	missense	pFsF	strong			yes			
+12719	15:101983792	ins(CC)	15:101983791:G:GCC	sF		PCSK6	frame-shift	pMsF	not called:valid						
+14680	16:112658	sub(C->T)	16:112658:C:T	sF		RHBDF1	synonymous	pMsF	strong						
+14619	16:129450	sub(G->A)	16:129450:G:A	sM		MPG	synonymous	pMsM			strong:valid				
+14122	16:239970	sub(T->C)	16:239970:T:C	sM		LUC7L	missense	pMsM	strong						
+14568	16:601435	sub(C->T)	16:601435:C:T	sF		CAPN15	intron	pMsF	weak	strong	strong				
+11959	16:601654	sub(G->A)	16:601654:G:A	sF		CAPN15	missense	pMsF			strong:valid				
+14549	16:818664	sub(G->A)	16:818664:G:A	sF		MSLN	synonymous	pMsF			strong:valid				
+13144	16:1250436	del(1)	16:1250435:AG:A	sM		CACNA1H	frame-shift	pMsM	strong:valid			yes			
+14560	16:1393190	sub(A->G)	16:1393190:A:G	sF	dad	BAIAP3	intron	pMsF			strong				
+12650	16:1552085	del(2)	16:1552084:CAG:C	sF		TELO2	frame-shift	pMsF		strong:valid					
+12719	16:1961991	sub(C->T)	16:1961991:C:T	sF		HS3ST6	missense	pMsF	strong:valid			yes			
+14048	16:2026915	sub(G->T)	16:2026915:G:T	sM	dad	TBL3	missense	pMsM	strong						
+12864	16:2034950	sub(A->T)	16:2034950:A:T	sF		GFER	intron	pFsF	strong			yes			
+14601	16:2131695	sub(C->T)	16:2131695:C:T	sF		TSC2	missense	pFsF			strong:valid				
+14095	16:2358475	sub(G->A)	16:2358475:G:A	sF		ABCA3	missense	pMsF	strong						
+13820	16:2814610	sub(A->G)	16:2814610:A:G	sM		SRRM2	missense	pMsM		weak:valid					
+11415	16:2854416	sub(C->T)	16:2854416:C:T	sM		PRSS41	missense	pMsM		strong					
+14629	16:3077534	del(12)	16:3077533:GAGGCAGGGGTGT:G	pMsM		THOC6	intron	pMsM			strong				
+13306	16:3100426	sub(G->A)	16:3100426:G:A	sM		MMP25	synonymous	pMsM			strong:valid				
+11869	16:3254772	sub(C->T)	16:3254772:C:T	sF		OR1F1	missense	pMsF		weak:valid					
+13424	16:3706676	sub(G->A)	16:3706676:G:A	sF		DNASE1	missense	pMsF	strong			yes			
+13315	16:3779789	sub(G->C)	16:3779789:G:C	sM		CREBBP	synonymous	pMsM	strong			yes			
+12257	16:4743731	sub(T->A)	16:4743731:T:A	sM		NUDT16L1	missense	pMsM		not called:valid					
+12257	16:4743734	sub(A->G)	16:4743734:A:G	sM		NUDT16L1	missense	pMsM		weak:valid					
+14267	16:4744147	sub(G->A)	16:4744147:G:A	sF		NUDT16L1	missense	pMsF	not called:valid	not called:valid	not called:valid				
+12211	16:9009113	sub(T->C)	16:9009113:T:C	sF		USP7	missense	pFsF	strong						
+12731	16:9210736	sub(C->G)	16:9210736:C:G	sF		C16orf72	missense	pMsF		strong:valid					
+14216	16:10837780	del(13)	16:10837779:GTCGGGAGCTGCTC:G	sM		NUBP1	intron	pMsM	strong						
+14058	16:11980777	sub(G->A)	16:11980777:G:A	sF		GSPT1	synonymous	pMsF		strong:valid					
+13799	16:12450059	sub(C->T)	16:12450059:C:T	sM		SNX29	missense	pFsM		strong:valid					
+14601	16:14342897	sub(T->C)	16:14342897:T:C	sF		MKL2	missense	pFsF			not called:valid				
+14243	16:15100370	sub(A->G)	16:15100370:A:G	sF		PDXDC1	missense	pMsF			weak:valid				
+12113	16:15122788	sub(C->T)	16:15122788:C:T	sM		PDXDC1	missense	pMsM	strong			yes			
+12373	16:15808946	sub(G->A)	16:15808946:G:A	sF		NDE1,MYH11	intron	pMsF			strong				
+13744	16:19498614	sub(G->A)	16:19498614:G:A	sF		TMC5	missense	pMsF		strong:valid					
+11412	16:19702791	sub(G->A)	16:19702791:G:A	sF		C16orf62	missense	pMsF		strong:valid				yes	
+13837	16:20817728	sub(A->G)	16:20817728:A:G	sM		ERI2	splice-site	pMsM	weak:valid						
+13529	16:23226775	sub(G->T)	16:23226775:G:T	sF	dad	SCNN1G	missense	pMsF	strong						
+12976	16:23421605	sub(C->G)	16:23421605:C:G	sM		COG7	intron	pMsM	strong			yes			
+14617	16:24105500	sub(G->A)	16:24105500:G:A	sM		PRKCB	missense	pMsM	strong:valid	strong:valid	strong:valid				
+12994	16:24801076	sub(A->T)	16:24801076:A:T	sM		TNRC6A	synonymous	pMsM		strong:valid					
+11667	16:24808805	sub(A->G)	16:24808805:A:G	pMsM		TNRC6A	intron	pMsM		strong					
+13653	16:27078590	sub(G->A)	16:27078590:G:A	sM		C16orf82	missense	pMsM			not called:valid				
+14231	16:27230338	del(3)	16:27230337:GGGA:G	sF		KDM8	no-frame-shift	pMsF	strong:valid						
+13997	16:27483259	sub(G->A)	16:27483259:G:A	sM		GTF3C1	intron	pMsM		strong					
+14579	16:27544696	sub(G->A)	16:27544696:G:A	sM		GTF3C1	synonymous	pFsM			strong:valid				
+11416	16:28145164	sub(G->C)	16:28145164:G:C	sM		XPO6	missense	pMsM	strong						
+13875	16:28603695	sub(G->A)	16:28603695:G:A	sM		SULT1A2	missense	pMsM	strong						
+11888	16:28948999	sub(T->C)	16:28948999:T:C	sM		CD19	missense	pMsM		strong:valid					
+14557	16:30529129	sub(C->T)	16:30529129:C:T	sF		ITGAL	synonymous	pMsF			strong:valid				
+11046	16:30688218	sub(C->T)	16:30688218:C:T	sM			intergenic	pMsM	strong						
+14156	16:30718664	sub(G->A)	16:30718664:G:A	sF	dad	SRCAP	missense	pMsF			strong:valid				
+12729	16:30733622	del(1)	16:30733621:AC:A	sM		SRCAP	intron	pFsM		strong					
+14046	16:30770795	sub(G->A)	16:30770795:G:A	sM	dad	PHKG2	3'UTR	pMsM		strong					
+14310	16:30774815	ins(GGA)	16:30774814:G:GGGA	sM		RNF40	no-frame-shift	pMsM		strong:valid					
+11310	16:31235510	sub(G->A)	16:31235510:G:A	sF		TRIM72	missense	pMsF		strong					
+11310	16:31235511	sub(A->T)	16:31235511:A:T	sF		TRIM72	missense	pMsF		strong					
+14076	16:31338218	sub(C->T)	16:31338218:C:T	sM		ITGAM	synonymous	pMsM		strong:valid					
+11892	16:31424461	sub(G->A)	16:31424461:G:A	sF		ITGAD	synonymous	pMsF		strong					
+13727	16:46638006	sub(G->A)	16:46638006:G:A	sF		SHCBP1	missense	pMsF	strong						
+11579	16:46706877	sub(T->C)	16:46706877:T:C	sM		VPS35	intron	pMsM	strong						
+13107	16:48204133	sub(C->T)	16:48204133:C:T	sM		ABCC11	intron	pMsM	strong						
+14316	16:48261823	sub(C->T)	16:48261823:C:T	sM		ABCC11	missense	pMsM	strong						
+14137	16:48304199	sub(C->T)	16:48304199:C:T	sM		LONP2	intron	pMsM	strong						
+11740	16:48595473	sub(G->T)	16:48595473:G:T	sM		N4BP1	missense	pMsM		strong					
+11897	16:49670036	sub(C->T)	16:49670036:C:T	sM		ZNF423	missense	pMsM		strong:valid					
+13660	16:49764733	sub(A->C)	16:49764733:A:C	sM		ZNF423	missense	pMsM		strong:valid				yes	
+11595	16:50707839	sub(C->T)	16:50707839:C:T	sF		SNX20	synonymous	pMsF	strong						
+12324	16:50707926	sub(T->C)	16:50707926:T:C	sF		SNX20	synonymous	pMsF			not called:valid				
+13574	16:50785566	sub(C->T)	16:50785566:C:T	sM		CYLD	missense	pMsM		strong:valid					
+13015	16:50785645	sub(T->C)	16:50785645:T:C	sF		CYLD	missense	pMsF	strong			yes			
+13882	16:53967983	sub(C->T)	16:53967983:C:T	sM		FTO	synonymous	pMsM		strong					
+11563	16:56857629	sub(A->C)	16:56857629:A:C	sF		NUP93	missense	pMsF		strong:valid					
+11405	16:57108609	sub(C->T)	16:57108609:C:T	sF		NLRC5	intron	pFsF	strong						
+14042	16:57201085	sub(C->A)	16:57201085:C:A	sM		FAM192A	missense	pFsM		strong					
+13577	16:57732004	sub(C->T)	16:57732004:C:T	sF		CCDC135	missense	pMsF	strong			yes			
+12843	16:57787950	sub(C->G)	16:57787950:C:G	sF		KATNB1	intron	pMsF	strong						
+13226	16:58031505	sub(C->T)	16:58031505:C:T	sF		ZNF319	missense	pMsF		strong					
+11881	16:58075688	sub(G->A)	16:58075688:G:A	sF		MMP15	missense	pMsF		strong					
+12578	16:58713960	sub(C->T)	16:58713960:C:T	sF		SLC38A7	missense	pMsF			strong:valid				
+13833	16:66884534	sub(C->T)	16:66884534:C:T	sF		CA7	missense	pMsF	strong						
+13351	16:66945824	sub(C->T)	16:66945824:C:T	sF		CDH16	missense	pMsF	strong						
+14501	16:66946506	sub(G->C)	16:66946506:G:C	sM		CDH16	intron	pFsM			strong				
+14244	16:67304643	sub(A->G)	16:67304643:A:G	sF		SLC9A5	missense	pMsF	not called:valid	not called:valid	not called:valid				
+13630	16:67580296	sub(G->A)	16:67580296:G:A	sF		FAM65A	missense	pMsF	strong						
+14048	16:67979433	sub(G->T)	16:67979433:G:T	sM	mom	SLC12A4	missense	pMsM	strong						
+13821	16:68021569	sub(C->T)	16:68021569:C:T	sF		DPEP2	missense	pFsF		weak:valid				yes	
+12810	16:68267733	del(1)	16:68267732:GA:G	sF		ESRP2	frame-shift	pMsF			strong:valid				
+12810	16:68267735	del(1)	16:68267734:AT:A	sF		ESRP2	frame-shift	pMsF			strong:valid				
+14402	16:68721498	sub(C->G)	16:68721498:C:G	sM		CDH3	missense	pMsM			strong:valid				
+11667	16:68729247	sub(G->T)	16:68729247:G:T	sM		CDH3	missense	pMsM		strong:valid				yes	
+13952	16:69786189	sub(T->C)	16:69786189:T:C	sM		NOB1	synonymous	pMsM	strong						
+12061	16:69875980	sub(C->T)	16:69875980:C:T	sM		WWP2	missense	pFsM		strong:valid				yes	
+13868	16:70316681	sub(C->T)	16:70316681:C:T	sM		AARS	5'UTR	pMsM			strong				
+12673	16:70590118	sub(A->C)	16:70590118:A:C	sM		SF3B3	missense	pMsM	strong			yes			
+11003	16:70819649	sub(C->A)	16:70819649:C:A	sF		VAC14	missense	pMsF		strong					
+14279	16:71683230	sub(G->A)	16:71683230:G:A	sM		PHLPP2	synonymous	pMsM	strong						
+13925	16:71986761	del(4)	16:71986760:ATAAG:A	sF		PKD1L3	intron	pMsF			strong				
+12154	16:75268811	sub(C->T)	16:75268811:C:T	sF		BCAR1	synonymous	pMsF		not called:valid					
+11519	16:78064576	sub(C->G)	16:78064576:C:G	sF	mom	CLEC3A	synonymous	pMsF		strong:valid				yes	
+12180	16:81056390	sub(C->T)	16:81056390:C:T	sF		CENPN	nonsense	pMsF			strong:valid				
+13927	16:81248634	sub(T->C)	16:81248634:T:C	sF		PKD1L2	missense	pMsF		strong					
+12484	16:84227644	sub(G->C)	16:84227644:G:C	sM		ADAD2	missense	pMsM	strong						
+13559	16:84495584	sub(C->A)	16:84495584:C:A	sF		ATP2C2	intron	pMsF		strong					
+11616	16:84695527	sub(C->T)	16:84695527:C:T	sM		KLHL36	missense	pMsM			not called:valid				
+14464	16:85022492	sub(A->G)	16:85022492:A:G	sM		ZDHHC7	intron	pMsM			strong				
+12343	16:85813493	sub(A->C)	16:85813493:A:C	sF		EMC8	intron	pFsF		strong					
+14330	16:86585901	sub(G->A)	16:86585901:G:A	sM	mom	MTHFSD	intron	pFsM		strong					
+11496	16:88501044	sub(G->T)	16:88501044:G:T	sM		ZNF469	missense	pFsM			not called:valid				
+11102	16:88801425	sub(C->T)	16:88801425:C:T	sM		PIEZO1	missense	pMsM	strong						
+11979	16:88815817	sub(G->A)	16:88815817:G:A	sF		PIEZO1	synonymous	pMsF		weak:valid					
+14669	16:88947174	sub(C->T)	16:88947174:C:T	sM		CBFA2T3	synonymous	pMsM			strong:valid				
+11404	16:89212368	sub(G->A)	16:89212368:G:A	sM		ACSF3	synonymous	pMsM	strong						
+11445	16:89655160	sub(G->A)	16:89655160:G:A	sF		CPNE7	synonymous	pMsF			strong:valid				
+11073	16:89816184	sub(C->T)	16:89816184:C:T	sF		FANCA	missense	pMsF			strong				
+13023	16:89967212	del(10)	16:89967211:GCGCTGTGTCT:G	sM		TCF25	intron	pFsM		strong					
+13371	16:90001686	sub(G->A)	16:90001686:G:A	sF		TUBB3	missense	pMsF			strong:valid				
+11546	16:90095511	sub(T->A)	16:90095511:T:A	sM	dad	C16orf3	synonymous	pMsM			strong:valid				
+11546	16:90095512	sub(G->T)	16:90095512:G:T	sM	dad	C16orf3	missense	pMsM			strong:valid				
+14386	17:69451	sub(G->A)	17:69451:G:A	sF		RPH3AL	synonymous	pMsF			strong:valid				
+14110	17:556648	sub(G->A)	17:556648:G:A	sF		VPS53	missense	pMsF		strong:valid				yes	
+13214	17:650797	sub(G->A)	17:650797:G:A	sF		GEMIN4	synonymous	pMsF			strong				
+13601	17:1370862	sub(C->A)	17:1370862:C:A	sM		MYO1C	missense	pFsM	strong			yes			
+13565	17:1399154	sub(C->T)	17:1399154:C:T	sF		INPP5K	missense	pMsF	strong						
+14084	17:1489329	sub(G->A)	17:1489329:G:A	sF		SLC43A2	synonymous	pMsF		not called:valid					
+14297	17:1554575	sub(G->A)	17:1554575:G:A	sM		PRPF8	missense	pMsM	strong						
+12644	17:1578613	sub(C->T)	17:1578613:C:T	sM		PRPF8	missense	pMsM	strong			yes			
+14143	17:1840406	sub(T->A)	17:1840406:T:A	sF	mom	RTN4RL1	missense	pMsF		strong:valid					
+13010	17:1985099	sub(T->C)	17:1985099:T:C	sM		SMG6	intron	pMsM	strong			yes			
+12091	17:2595924	sub(C->T)	17:2595924:C:T	sM	mom	CLUH	missense	pFsM		strong:valid					
+13478	17:3101296	sub(C->A)	17:3101296:C:A	sM	mom	OR1A2	missense	pMsM			strong:valid				
+13702	17:3486743	sub(T->C)	17:3486743:T:C	sM		TRPV1	intron	pMsM	strong						
+14293	17:3801303	sub(C->T)	17:3801303:C:T	pMsM		P2RX1	synonymous	pMsM	strong						
+14350	17:4077295	sub(A->G)	17:4077295:A:G	sM		ANKFY1	synonymous	pFsM	strong						
+11459	17:4086688	del(4)	17:4086687:TCCTA:T	sM		ANKFY1	splice-site	pMsM			strong:valid				
+12792	17:4575026	del(3)	17:4575025:CTCT:C	sF		PELP1	no-frame-shift	pMsF	strong:valid			yes			
+14211	17:4800594	sub(G->A)	17:4800594:G:A	sF		MINK1	3'UTR	pMsF		strong					
+12780	17:5286429	sub(C->T)	17:5286429:C:T	sM		RABEP1	missense	pMsM		strong:valid				yes	
+11046	17:5993684	sub(T->G)	17:5993684:T:G	sM		WSCD1	missense	pMsM	strong						
+14197	17:6387531	sub(C->T)	17:6387531:C:T	sM		PITPNM3	intron	pMsM		strong					
+14085	17:6499494	sub(C->T)	17:6499494:C:T	sF	dad	KIAA0753	missense	pMsF	strong:valid	strong:valid	strong:valid				
+11004	17:6913580	sub(C->A)	17:6913580:C:A	sM		ALOX12	missense	pMsM			strong:valid				
+14084	17:6941540	sub(C->A)	17:6941540:C:A	sF		SLC16A13	missense	pMsF		strong:valid					
+14452	17:7125311	sub(C->T)	17:7125311:C:T	sM		ACADVL	synonymous	pMsM	strong						
+14203	17:7388093	sub(G->T)	17:7388093:G:T	sM		POLR2A	missense	pMsM			weak:valid				
+14469	17:7405328	sub(G->A)	17:7405328:G:A	sM		POLR2A	missense	pMsM		strong:valid					
+13735	17:7664160	sub(G->A)	17:7664160:G:A	sF		DNAH2	missense	pMsF			strong:valid				
+14260	17:7760118	sub(C->T)	17:7760118:C:T	sM		LSMD1	missense	pMsM		strong:valid					
+14433	17:7804257	sub(G->A)	17:7804257:G:A	sM		CHD3	missense	pMsM	strong						
+11573	17:8273378	sub(G->A)	17:8273378:G:A	sF		KRBA2	missense	pMsF		not called:valid					
+14327	17:8390750	sub(C->T)	17:8390750:C:T	sF		MYH10	splice-site	pMsF		strong:valid					
+14160	17:9515706	sub(C->T)	17:9515706:C:T	sF		WDR16	missense	pMsF	strong						
+13526	17:10312852	sub(C->T)	17:10312852:C:T	sM		MYH8	synonymous	pMsM	strong			yes			
+11349	17:15620432	sub(C->T)	17:15620432:C:T	sM		ZNF286A	missense	pMsM	strong						
+13692	17:16285305	sub(C->T)	17:16285305:C:T	sM		UBB	synonymous	pMsM	strong						
+12624	17:17697260	ins(AGT)	17:17697259:C:CAGT	sF		RAI1	no-frame-shift-newStop	pMsF	strong:valid			yes			
+14246	17:18149364	sub(T->G)	17:18149364:T:G	sM		FLII	missense	pMsM	strong						
+11685	17:18220895	sub(C->T)	17:18220895:C:T	sM		SMCR8	missense	pMsM		not called:valid					
+12869	17:18673252	sub(C->T)	17:18673252:C:T	sF		FBXW10	synonymous	pFsF		strong:valid				yes	
+14395	17:19232957	sub(A->G)	17:19232957:A:G	sF		EPN2	missense	pFsF	strong						
+12796	17:19578895	sub(C->G)	17:19578895:C:G	sF	dad	ALDH3A2	3'UTR	pMsF	strong			yes			
+14359	17:21101696	sub(T->C)	17:21101696:T:C	sM		TMEM11	missense	pMsM	strong						
+11724	17:21203961	sub(G->A)	17:21203961:G:A	pMsF		MAP2K3	missense	pMsF		strong					
+14643	17:21825494	sub(G->A)	17:21825494:G:A	sF		FAM27L	non-coding	pFsF			strong				
+11338	17:25633881	sub(G->T)	17:25633881:G:T	sF		WSB1	missense	pMsF	strong						
+14242	17:26820670	sub(G->T)	17:26820670:G:T	sM		SLC13A2	missense	pMsM	strong						
+12662	17:26919018	sub(G->T)	17:26919018:G:T	sM		SPAG5	missense	pMsM		strong:valid					
+14288	17:27381590	sub(C->T)	17:27381590:C:T	sF		PIPOX	nonsense	pMsF	weak:valid						
+12610	17:27437453	sub(C->A)	17:27437453:C:A	sF		MYO18A	splice-site	pMsF		strong:valid					
+12061	17:29684348	sub(C->T)	17:29684348:C:T	sM		NF1	missense	pFsM		strong:valid				yes	
+11775	17:33289423	sub(G->A)	17:33289423:G:A	sF		ZNF830	missense	pMsF		strong:valid					
+14112	17:33313130	sub(G->A)	17:33313130:G:A	sF		LIG3	missense	pFsF	strong						
+14357	17:33680867	del(1)	17:33680866:TG:T	sF		SLFN11	frame-shift	pMsF	strong:valid						
+11378	17:33747329	sub(G->T)	17:33747329:G:T	sM		SLFN12	missense	pMsM	strong						
+11358	17:33806410	sub(A->G)	17:33806410:A:G	sM		SLFN12L	synonymous	pMsM			strong:valid				
+14037	17:33875337	sub(T->C)	17:33875337:T:C	sF		SLFN14	missense	pMsF	strong						
+14423	17:34171639	del(24)	17:34171638:CTATGGTGGAGACAGAAGTGGGGGT:C	sM		TAF15	no-frame-shift	pMsM			strong				
+13174	17:35956260	sub(A->C)	17:35956260:A:C	sM		SYNRG	intron	pMsM	strong			yes			
+12231	17:36484829	sub(C->T)	17:36484829:C:T	sF		GPR179	synonymous	pMsF	strong						
+11347	17:37816478	sub(C->T)	17:37816478:C:T	sM		STARD3	synonymous	pMsM		strong:valid					
+13732	17:38479859	sub(G->T)	17:38479859:G:T	sF		RARA	5'UTR-intron	pMsF	strong						
+13763	17:38504637	sub(G->A)	17:38504637:G:A	sM		RARA	missense	pMsM	strong						
+14151	17:38928009	sub(G->A)	17:38928009:G:A	sM	dad	KRT26	synonymous	pMsM	strong						
+13820	17:39021175	sub(G->A)	17:39021175:G:A	sM		KRT12	synonymous	pMsM		strong					
+13015	17:39118798	sub(C->T)	17:39118798:C:T	sF	dad	KRT39	synonymous	pMsF	strong			yes			
+14629	17:39394306	sub(G->A)	17:39394306:G:A	sM	dad	KRTAP9-8	noStart	pMsM			strong:valid				
+12318	17:39595033	sub(G->C)	17:39595033:G:C	sF		KRT38	missense	pMsF			weak:valid				
+12931	17:40011108	sub(T->C)	17:40011108:T:C	sF		KLHL11	synonymous	pMsF	strong						
+13250	17:40254342	ins(G)	17:40254341:A:AG	sF		DHX58	intron	pMsF		strong					
+11118	17:40734733	sub(T->C)	17:40734733:T:C	sM		FAM134C	missense	pFsM		strong:valid				yes	
+11700	17:40970575	sub(A->G)	17:40970575:A:G	sF		BECN1	missense	pMsF		strong:valid				yes	
+13973	17:41228603	sub(T->C)	17:41228603:T:C	sM		BRCA1	synonymous	pMsM		strong					
+12407	17:42225873	sub(C->T)	17:42225873:C:T	sF		C17orf53	synonymous	pMsF			strong:valid				
+11178	17:42284919	del(6)	17:42284918:ATCCTCG:A	sM		UBTF	no-frame-shift	pMsM			strong:valid				
+12250	17:42476887	sub(C->T)	17:42476887:C:T	sF		GPATCH8	missense	pFsF		strong					
+13815	17:45368327	sub(G->A)	17:45368327:G:A	pMsF	dad	ITGB3	missense	pMsF			strong:valid		yes		
+14400	17:45820445	sub(C->G)	17:45820445:C:G	sM		TBX21	missense	pMsM	strong						
+11835	17:46128663	sub(C->A)	17:46128663:C:A	sM		NFE2L1	synonymous	pMsM		strong:valid					
+14051	17:48276860	sub(G->C)	17:48276860:G:C	sM	dad	COL1A1	intron	pMsM		strong					
+14084	17:48551595	sub(T->C)	17:48551595:T:C	sF		ACSF2	synonymous	pMsF		strong:valid					
+11881	17:48603317	sub(G->A)	17:48603317:G:A	sF		MYCBPAP	missense	pMsF		strong:valid					
+13842	17:48627406	sub(G->A)	17:48627406:G:A	sF		SPATA20	missense	pMsF		strong:valid					
+14698	17:48680432	sub(C->T)	17:48680432:C:T	sF		CACNA1G	synonymous	pMsF	strong						
+14064	17:48917850	sub(C->T)	17:48917850:C:T	sF		WFIKKN2	missense	pFsF			not called:valid				
+11121	17:49079077	sub(G->A)	17:49079077:G:A	sF		SPAG9	missense	pMsF	strong:valid						
+13891	17:49302425	sub(G->A)	17:49302425:G:A	sF		MBTD1	missense	pMsF	strong						
+11234	17:54125016	sub(C->T)	17:54125016:C:T	sF			intergenic	pMsF	strong						
+14666	17:54671662	sub(C->T)	17:54671662:C:T	sM		NOG	synonymous	pMsM			not called:valid				
+14028	17:56404108	sub(A->G)	17:56404108:A:G	sF		BZRAP1	missense	pMsF		strong					
+13312	17:57165739	sub(T->G)	17:57165739:T:G	sF		TRIM37	missense	pMsF	strong			yes			
+14247	17:57196830	del(1)	17:57196829:AT:A	sM		SKA2	frame-shift	pMsM	strong:valid						
+12197	17:57775154	sub(G->A)	17:57775154:G:A	sF		PTRH2	synonymous	pMsF		strong:valid					
+12628	17:58988066	sub(A->T)	17:58988066:A:T	sF		BCAS3	intron	pMsF	strong			yes			
+11135	17:59857609	sub(A->G)	17:59857609:A:G	sF		BRIP1	intron	pMsF		strong					
+13895	17:61611627	sub(C->T)	17:61611627:C:T	sM		KCNH6	synonymous	pMsM	strong						
+13315	17:61958036	sub(C->G)	17:61958036:C:G	sM		GH2	synonymous	pMsM	strong			yes			
+13315	17:61958042	sub(A->T)	17:61958042:A:T	sM		GH2	missense	pMsM	strong			yes			
+13168	17:62082473	sub(C->T)	17:62082473:C:T	sF		ICAM2	missense	pFsF	strong			yes			
+14590	17:62272355	sub(G->C)	17:62272355:G:C	sF		TEX2	nonsense	pMsF			strong:valid				
+12780	17:62291323	sub(G->A)	17:62291323:G:A	sM		TEX2	synonymous	pMsM		strong:valid				yes	
+13851	17:62857029	sub(T->C)	17:62857029:T:C	pMsM		LRRC37A3	missense	pMsM	strong						
+13089	17:66982300	sub(G->A)	17:66982300:G:A	sF		ABCA9	intron	pMsF	strong			yes			
+14571	17:68943279	sub(A->G)	17:68943279:A:G	sF			intergenic	pFsF			strong				
+11040	17:72954572	sub(A->T)	17:72954572:A:T	sF		HID1	synonymous	pMsF			strong:valid				
+14407	17:73238431	sub(T->C)	17:73238431:T:C	sM		GGA3	missense	pMsM		strong:valid					
+11397	17:73322118	sub(A->G)	17:73322118:A:G	sF		GRB2	intron	pMsF		strong					
+11186	17:73488677	sub(C->T)	17:73488677:C:T	sM		KIAA0195	synonymous	pMsM	strong						
+13623	17:73552119	sub(C->T)	17:73552119:C:T	sM		LLGL2	intron	pMsM		strong					
+14397	17:73626754	sub(G->A)	17:73626754:G:A	sM		RECQL5	missense	pMsM		strong:valid					
+13944	17:73814907	sub(C->T)	17:73814907:C:T	sM		UNK	intron	pMsM		strong					
+13236	17:74470557	sub(G->C)	17:74470557:G:C	sF		RHBDF2	missense	pMsF		strong:valid					
+12939	17:75484879	sub(C->T)	17:75484879:C:T	sM		9-Sep	missense	pMsM	strong			yes			
+11277	17:76694347	sub(T->A)	17:76694347:T:A	sF		CYTH1	intron	pFsF	strong						
+13998	17:76991208	sub(C->T)	17:76991208:C:T	sF		CANT1	missense	pMsF	strong						
+11338	17:77984327	sub(T->C)	17:77984327:T:C	sF		TBC1D16	synonymous	pMsF	strong						
+13424	17:78321400	sub(C->T)	17:78321400:C:T	sF		RNF213	missense	pMsF	strong			yes			
+12065	17:78327402	sub(A->C)	17:78327402:A:C	sF	dad	RNF213	missense	pMsF	strong						
+11194	17:78395756	sub(G->T)	17:78395756:G:T	sM	dad	ENDOV	missense	pMsM		strong:valid				yes	
+13335	17:78795992	sub(G->C)	17:78795992:G:C	sM		RPTOR	intron	pFsM			strong				
+11479	17:80194100	sub(C->T)	17:80194100:C:T	sF		SLC16A3	synonymous	pMsF			strong:valid				
+13954	17:80202677	sub(G->A)	17:80202677:G:A	sM		CSNK1D	nonsense	pMsM		strong:valid					
+13853	17:80210927	sub(G->A)	17:80210927:G:A	sF		CSNK1D	missense	pMsF	strong						
+13634	17:80529622	sub(C->T)	17:80529622:C:T	sF		FOXK2	missense	pMsF	strong			yes			
+11364	17:80788018	sub(T->G)	17:80788018:T:G	sF		ZNF750	noEnd	pMsF			not called:valid				
+11931	17:80789793	sub(C->T)	17:80789793:C:T	sM		ZNF750	missense	pMsM			strong:valid				
+12700	18:677453	del(1)	18:677452:GA:G	sM		ENOSF1	intron	pMsM		strong					
+12622	18:2589301	sub(A->G)	18:2589301:A:G	sF		NDC80	missense	pMsF		strong:valid					
+12462	18:5398076	sub(G->A)	18:5398076:G:A	sF		EPB41L3	nonsense	pMsF	strong:valid			yes			
+13884	18:5398114	sub(A->G)	18:5398114:A:G	sF		EPB41L3	missense	pMsF			strong:valid				
+13507	18:7023327	sub(C->A)	18:7023327:C:A	sM	dad	LAMA1	missense	pMsM	strong			yes			
+12111	18:7050797	sub(G->A)	18:7050797:G:A	sF		LAMA1	missense	pMsF			strong:valid				
+12952	18:7888207	sub(C->T)	18:7888207:C:T	sF		PTPRM	synonymous	pMsF	strong			yes			
+12790	18:8379346	sub(C->A)	18:8379346:C:A	sF		PTPRM	intron	pMsF		strong					
+11164	18:10526191	sub(G->T)	18:10526191:G:T	sF		NAPG	intron	pMsF		strong					
+11106	18:12325217	sub(G->C)	18:12325217:G:C	sM		TUBB6	synonymous	pMsM			not called:valid				
+13053	18:13826007	sub(G->A)	18:13826007:G:A	sM		MC5R	synonymous	pMsM		not called:valid				yes	
+11160	18:19996992	sub(C->T)	18:19996992:C:T	sM		CTAGE1	synonymous	pFsM		strong					
+13159	18:30949996	sub(T->C)	18:30949996:T:C	sM		CCDC178	intron	pMsM	strong			yes			
+13912	18:40503710	sub(G->A)	18:40503710:G:A	sF		RIT2	missense	pFsF		strong					
+12041	18:40854059	sub(G->A)	18:40854059:G:A	sM		SYT4	missense	pMsM			weak:valid				
+11429	18:42435212	sub(A->G)	18:42435212:A:G	sM		SETBP1	intron	pMsM		strong					
+11456	18:43479407	sub(C->T)	18:43479407:C:T	sM		EPG5	missense	pMsM		strong:valid				yes	
+14697	18:47361700	sub(A->G)	18:47361700:A:G	sF		MYO5B	intron	pMsF		strong					
+11494	18:47518814	sub(G->A)	18:47518814:G:A	sM		MYO5B	intron	pMsM	strong						
+14643	18:51795993	sub(T->C)	18:51795993:T:C	sF		POLI	missense	pFsF			not called:valid				
+11014	18:54281689	sub(C->T)	18:54281689:C:T	sM		TXNL1	missense	pMsM		strong:valid				yes	
+14623	18:55342226	sub(G->C)	18:55342226:G:C	sF		ATP8B1	synonymous	pMsF			strong:valid				
+14623	18:55342229	sub(A->G)	18:55342229:A:G	sF		ATP8B1	synonymous	pMsF			strong:valid				
+13560	18:55816832	sub(T->G)	18:55816832:T:G	sM	dad	NEDD4L	intron	pMsM			strong				
+14192	18:59166404	sub(G->A)	18:59166404:G:A	sF	dad	CDH20	intron	pFsF	strong						
+11024	18:61077543	sub(C->T)	18:61077543:C:T	sF		VPS4B	synonymous	pMsF	strong						
+14491	18:61305234	sub(T->C)	18:61305234:T:C	sM		SERPINB4	missense	pMsM	strong						
+13795	18:61328270	sub(T->G)	18:61328270:T:G	sF		SERPINB3	intron	pFsF		strong					
+13842	18:72632469	sub(G->A)	18:72632469:G:A	sF		ZNF407	splice-site	pMsF		strong:valid					
+11194	18:77096655	sub(C->A)	18:77096655:C:A	sM		ATP9B	synonymous	pMsM		not called:valid				yes	
+13777	19:425225	sub(G->A)	19:425225:G:A	sM		SHC2	missense	pMsM		weak:valid					
+14598	19:501831	sub(G->C)	19:501831:G:C	sM		MADCAM1	missense	pMsM			not called:valid				
+14485	19:613397	del(3)	19:613396:GGAA:G	sM	dad	HCN2	no-frame-shift	pMsM	strong:valid						
+12575	19:872007	sub(G->A)	19:872007:G:A	sM		MED16	synonymous	pMsM			not called:valid		yes		
+14310	19:1109780	ins(G)	19:1109779:A:AG	sM	mom	SBNO2	intron	pMsM		strong					
+11897	19:1122998	sub(T->C)	19:1122998:T:C	sM		SBNO2	synonymous	pMsM		strong:valid					
+12722	19:1486929	sub(C->T)	19:1486929:C:T	sM		PCSK4	missense	pMsM	strong						
+12334	19:1582654	sub(C->T)	19:1582654:C:T	sM		MBD3	missense	pMsM	strong			yes			
+11393	19:1805477	ins(A)	19:1805476:G:GA	sM		ATP8B3	intron	pMsM	strong						
+11390	19:2043578	sub(T->A)	19:2043578:T:A	sF		MKNK2	missense	pFsF			strong:valid		yes		
+14217	19:2340892	sub(C->T)	19:2340892:C:T	sM		SPPL2B	intron	pFsM		strong					
+14147	19:2834544	sub(A->G)	19:2834544:A:G	sF		ZNF554	synonymous	pMsF		strong:valid					
+13174	19:2933528	sub(C->A)	19:2933528:C:A	sM		ZNF77	missense	pMsM	strong			yes			
+13913	19:3452539	del(1)	19:3452538:AC:A	sF		NFIC	frame-shift	pMsF	strong:valid						
+11512	19:3767317	sub(C->T)	19:3767317:C:T	sF		MRPL54	missense	pMsF			strong:valid				
+11616	19:3819169	sub(G->C)	19:3819169:G:C	sM		ZFR2	missense	pMsM			not called:valid				
+11521	19:3939884	sub(C->T)	19:3939884:C:T	sF		NMRK2	intron	pMsF		strong					
+14327	19:3976683	sub(G->C)	19:3976683:G:C	sF		EEF2	missense	pMsF		strong					
+14626	19:4013122	sub(C->A)	19:4013122:C:A	sF		PIAS4	missense	pMsF			not called:valid				
+11385	19:4102355	sub(G->A)	19:4102355:G:A	sF		MAP2K2	intron	pFsF	strong						
+12972	19:4231248	del(1)	19:4231247:GC:G	sF	dad	EBI3	frame-shift	pMsF	strong:valid			yes			
+11456	19:4362619	ins(G)	19:4362618:T:TG	sM		SH3GL1	frame-shift	pMsM		strong:valid					
+12647	19:4423882	sub(G->A)	19:4423882:G:A	sM		CHAF1A	intron	pMsM		strong:valid	not called:valid				
+14495	19:4498311	sub(G->A)	19:4498311:G:A	sM		HDGFRP2	missense	pMsM		strong:valid					
+13706	19:4512926	sub(T->C)	19:4512926:T:C	pMsM		PLIN4	missense	pMsM	strong						
+14304	19:4702679	sub(G->A)	19:4702679:G:A	sF		DPP9	synonymous	pMsF		strong					
+13287	19:4932906	sub(G->A)	19:4932906:G:A	sM		UHRF1	synonymous	pFsM		strong					
+14244	19:4932922	sub(C->T)	19:4932922:C:T	sF		UHRF1	missense	pMsF	not called:valid	not called:valid	not called:valid				
+11339	19:5218842	sub(G->A)	19:5218842:G:A	sM		PTPRS	intron	pFsM			strong				
+14080	19:5713245	sub(C->T)	19:5713245:C:T	sF		LONP1	missense	pMsF		strong:valid					
+13799	19:5737199	sub(G->A)	19:5737199:G:A	sM		CATSPERD	missense	pFsM		strong:valid					
+12573	19:6906444	sub(G->C)	19:6906444:G:C	sM		EMR1	missense	pMsM	strong			yes			
+14435	19:6988818	sub(G->C)	19:6988818:G:C	sM		EMR4P	non-coding	pMsM	strong						
+12691	19:7619512	sub(C->T)	19:7619512:C:T	sM		PNPLA6	missense	pFsM	strong			yes			
+12055	19:7685151	sub(G->A)	19:7685151:G:A	sF		XAB2	intron	pMsF	strong			yes			
+12894	19:7743083	sub(C->A)	19:7743083:C:A	sF		C19orf59	missense	pMsF	strong			yes			
+13642	19:8320710	sub(A->T)	19:8320710:A:T	sF		CERS4	missense	pMsF	strong			yes			
+14569	19:8320764	sub(G->A)	19:8320764:G:A	sM		CERS4	splice-site	pMsM			strong:valid				
+12189	19:8387815	sub(A->G)	19:8387815:A:G	sF		KANK3	intron	pMsF			strong				
+14229	19:8555753	ins(T)	19:8555752:C:CT	sF		PRAM1	intron	pFsF	strong	strong	strong				
+11581	19:9000577	del(1)	19:9000576:AG:A	sM		MUC16	intron	pMsM		strong					
+12648	19:9060456	sub(G->T)	19:9060456:G:T	sF	dad	MUC16	missense	pFsF			strong:valid				
+12120	19:9074956	sub(G->T)	19:9074956:G:T	sF		MUC16	missense	pMsF		not called:valid				yes	
+12255	19:9087117	sub(G->A)	19:9087117:G:A	sM		MUC16	synonymous	pMsM	strong			yes			
+13375	19:9577895	sub(T->G)	19:9577895:T:G	sM		ZNF560	missense	pMsM			strong:valid				
+14623	19:9921616	sub(T->C)	19:9921616:T:C	sF		FBXL12	missense	pMsF			not called:valid				
+12803	19:10229395	del(1)	19:10229394:TG:T	sM	dad	EIF3G	frame-shift	pMsM	strong:valid						
+13576	19:10254631	sub(C->T)	19:10254631:C:T	sF		DNMT1	missense	pFsF	strong			yes			
+14481	19:10264992	sub(G->A)	19:10264992:G:A	sM	dad	DNMT1	missense	pMsM	strong						
+14008	19:10823679	sub(C->T)	19:10823679:C:T	sM		QTRT1	missense	pMsM		strong					
+14598	19:11218109	sub(G->A)	19:11218109:G:A	sM		LDLR	missense	pMsM			strong:valid				
+13151	19:11283754	sub(A->T)	19:11283754:A:T	sM		KANK2	missense	pMsM	strong						
+11348	19:11725441	sub(G->A)	19:11725441:G:A	sF		ZNF627	missense	pMsF			strong:valid				
+11349	19:12244345	sub(C->T)	19:12244345:C:T	sM		ZNF20	missense	pMsM	strong						
+13867	19:12383869	sub(C->T)	19:12383869:C:T	sM		ZNF44	missense	pMsM		strong:valid					
+13061	19:12460757	sub(C->T)	19:12460757:C:T	sF		ZNF442	missense	pMsF	strong						
+14028	19:12790273	sub(T->C)	19:12790273:T:C	sF		DHPS	missense	pMsF		strong					
+14149	19:13035529	sub(G->T)	19:13035529:G:T	sM		FARSA	synonymous	pMsM	strong						
+11353	19:13910723	sub(G->A)	19:13910723:G:A	sM		ZSWIM4	missense	pFsM		strong					
+14563	19:13915878	sub(G->A)	19:13915878:G:A	sM		ZSWIM4	missense	pMsM			weak:valid				
+13559	19:15794481	sub(C->T)	19:15794481:C:T	sF		CYP4F12	missense	pMsF		strong:valid					
+11092	19:17330492	sub(C->T)	19:17330492:C:T	sF		USE1	missense	pMsF		strong:valid				yes	
+11337	19:17426711	sub(C->T)	19:17426711:C:T	sF		DDA1	intron	pMsF	strong						
+13251	19:17654260	sub(G->A)	19:17654260:G:A	sF		FAM129C	intron	pFsF		strong					
+14241	19:18507054	sub(G->A)	19:18507054:G:A	sM		LRRC25	synonymous	pFsM	strong						
+14559	19:18870899	sub(G->C)	19:18870899:G:C	sM		CRTC1	synonymous	pMsM	not called:valid	strong:valid	not called:valid				
+14375	19:18886533	sub(C->T)	19:18886533:C:T	sF		CRTC1	missense	pMsF			strong				
+13913	19:19390106	sub(C->T)	19:19390106:C:T	sF	mom	SUGP1	missense	pMsF	strong						
+13848	19:19612004	sub(C->T)	19:19612004:C:T	sF		GATAD2A	missense	pMsF		not called:valid					
+12692	19:19681518	sub(G->A)	19:19681518:G:A	sM		PBX4	synonymous	pMsM	strong						
+13250	19:19762593	sub(G->A)	19:19762593:G:A	sF		ATP13A1	missense	pMsF		strong:valid					
+14676	19:22846836	sub(T->G)	19:22846836:T:G	sF		ZNF492	missense	pMsF	strong						
+14644	19:36018849	sub(G->T)	19:36018849:G:T	sM		SBSN	missense	pMsM			strong:valid				
+11106	19:36230667	sub(G->A)	19:36230667:G:A	sM		IGFLR1	missense	pMsM			not called:valid				
+14267	19:36379496	del(3)	19:36379495:CTCT:C	sF		NFKBID	no-frame-shift	pMsF	strong:valid	strong:valid	strong:valid				
+12552	19:36594413	ins(TATC)	19:36594412:A:ATATC	sM		WDR62	frame-shift	pMsM		weak:valid					
+12955	19:37129862	sub(A->G)	19:37129862:A:G	sM		ZNF461	missense	pMsM	strong						
+12324	19:37368889	sub(T->C)	19:37368889:T:C	sF		ZNF345	missense	pMsF			strong:valid				
+14101	19:38377306	del(3)	19:38377305:CCTT:C	sF		WDR87	no-frame-shift	pFsF	strong:valid						
+13684	19:38377404	sub(C->T)	19:38377404:C:T	sF		WDR87	missense	pMsF	strong			yes			
+14224	19:38876253	sub(T->G)	19:38876253:T:G	sM		GGN	missense	pMsM			not called:valid				
+11406	19:38901907	sub(C->G)	19:38901907:C:G	sM		RASGRP4	intron	pMsM			strong				
+14066	19:39362308	sub(C->T)	19:39362308:C:T	sM		RINL	missense	pMsM	strong						
+13867	19:39789132	sub(G->A)	19:39789132:G:A	sM		IFNL1	synonymous	pMsM		strong					
+14014	19:39912757	sub(C->T)	19:39912757:C:T	sF		PLEKHG2	synonymous	pFsF			weak:valid				
+12955	19:40097902	sub(C->A)	19:40097902:C:A	sM		LGALS13	synonymous	pMsM	strong						
+14066	19:40357486	sub(C->T)	19:40357486:C:T	sM		FCGBP	missense	pMsM	strong						
+14186	19:40406046	sub(G->A)	19:40406046:G:A	sM		FCGBP	synonymous	pMsM	strong						
+11622	19:40553282	sub(C->T)	19:40553282:C:T	sF		ZNF780B	missense	pMsF		strong:valid				yes	
+12285	19:40580566	sub(G->C)	19:40580566:G:C	sM		ZNF780A	missense	pFsM			weak:valid		yes		
+14018	19:40580705	sub(T->C)	19:40580705:T:C	sM		ZNF780A	synonymous	pMsM	strong						
+14008	19:40581783	sub(C->T)	19:40581783:C:T	sM		ZNF780A	missense	pMsM		strong					
+14469	19:40825325	sub(C->T)	19:40825325:C:T	sM			intergenic	pMsM		strong					
+13673	19:40834354	sub(G->A)	19:40834354:G:A	sM		C19orf47	synonymous	pMsM	strong			yes			
+12700	19:41008160	sub(A->G)	19:41008160:A:G	sM		SPTBN4	synonymous	pMsM		strong:valid					
+14089	19:41084462	sub(A->G)	19:41084462:A:G	sF		SHKBP1	intron	pFsF	strong						
+11239	19:41201931	sub(C->T)	19:41201931:C:T	sM		ADCK4	missense	pFsM	strong						
+14301	19:42187993	sub(C->T)	19:42187993:C:T	sF		CEACAM7	synonymous	pMsF			strong:valid				
+13683	19:42473662	sub(G->C)	19:42473662:G:C	sF		ATP1A3	synonymous	pMsF			not called:valid		yes		
+14480	19:42730427	sub(G->A)	19:42730427:G:A	sF		ZNF526	missense	pMsF	weak:valid	strong:valid	strong:valid				
+11838	19:42910539	sub(G->A)	19:42910539:G:A	sM		LIPE	synonymous	pMsM	strong						
+11144	19:42911465	sub(G->A)	19:42911465:G:A	sF		LIPE	synonymous	sF		strong					
+13021	19:43243156	sub(G->A)	19:43243156:G:A	sF		PSG3	synonymous	pMsF	strong			yes			
+13965	19:43689056	sub(G->A)	19:43689056:G:A	sM		PSG5	missense	pMsM		strong:valid					
+11172	19:43864537	sub(C->T)	19:43864537:C:T	sF		CD177	missense	pMsF			strong				
+14484	19:44005902	sub(C->T)	19:44005902:C:T	sF		PHLDB3	missense	pMsF		strong:valid					
+13116	19:44116938	sub(C->T)	19:44116938:C:T	sF		SRRM5	missense	pFsF			strong:valid		yes		
+12626	19:44500368	sub(A->G)	19:44500368:A:G	sF		ZNF155	missense	pMsF	strong			yes			
+11197	19:44513287	del(1)	19:44513286:AT:A	sM		ZNF230	frame-shift	pMsM			strong:valid				
+13478	19:44792636	sub(G->A)	19:44792636:G:A	sM		ZNF235	missense	pMsM			strong:valid				
+13804	19:44792789	sub(C->G)	19:44792789:C:G	sF	dad	ZNF235	missense	pMsF	strong						
+12578	19:45322090	sub(C->G)	19:45322090:C:G	sF		BCAM	synonymous	pMsF			strong:valid				
+13628	19:45561030	sub(A->G)	19:45561030:A:G	sM		CLASRP	missense	pMsM	strong			yes			
+14391	19:45716543	sub(G->A)	19:45716543:G:A	sF		EXOC3L2	synonymous	pMsF	strong						
+14125	19:46130047	sub(A->G)	19:46130047:A:G	sM		EML2	synonymous	pMsM	strong						
+13444	19:46915119	sub(C->T)	19:46915119:C:T	sF		CCDC8	missense	pMsF	strong:valid			yes			
+14123	19:47844626	sub(C->T)	19:47844626:C:T	sF		C5AR2	synonymous	pMsF		strong					
+11676	19:48198205	sub(G->A)	19:48198205:G:A	sF		GLTSCR1	missense	pFsF		strong					
+13543	19:48253550	sub(G->T)	19:48253550:G:T	sF		GLTSCR2	intron	pMsF	not called	strong					
+14124	19:48386827	sub(C->A)	19:48386827:C:A	sF		SULT2A1	intron	pMsF			strong				
+13973	19:48543924	sub(G->A)	19:48543924:G:A	sM	dad	CABP5	missense	pMsM		strong					
+14297	19:48800760	sub(G->A)	19:48800760:G:A	sM		CCDC114	nonsense	pMsM	weak:valid						
+11264	19:49012757	sub(G->T)	19:49012757:G:T	sF		LMTK3	synonymous	pFsF	strong						
+11345	19:49247709	sub(C->T)	19:49247709:C:T	sM		IZUMO1	splice-site	pMsM		strong:valid					
+13943	19:49351271	sub(C->T)	19:49351271:C:T	sM		PLEKHA4	synonymous	pMsM			strong:valid				
+11671	19:50360983	sub(G->A)	19:50360983:G:A	sM		PTOV1	missense	pMsM	strong						
+14103	19:50368520	sub(C->G)	19:50368520:C:G	sM		PNKP	missense	pMsM	strong						
+12700	19:51509954	sub(G->A)	19:51509954:G:A	sM		KLK9	missense	pMsM		strong:valid					
+12438	19:51631235	sub(G->A)	19:51631235:G:A	sM		SIGLEC9	missense	pMsM	strong:valid			yes			
+13066	19:52327160	sub(C->G)	19:52327160:C:G	sM		FPR3	missense	pMsM	strong						
+14226	19:52395086	sub(C->T)	19:52395086:C:T	sM		ZNF649	synonymous	pMsM	strong						
+12048	19:53269999	sub(G->C)	19:53269999:G:C	sF		ZNF600	missense	pMsF	strong						
+12548	19:53352468	sub(T->C)	19:53352468:T:C	sF		ZNF468	splice-site	pMsF	strong:valid			yes			
+12345	19:53384807	sub(C->T)	19:53384807:C:T	sF		ZNF320	missense	pMsF		strong:valid				yes	
+13129	19:53747158	sub(A->T)	19:53747158:A:T	sF		ZNF677	intron	pMsF	strong			yes			
+12779	19:53958753	sub(G->A)	19:53958753:G:A	sF		ZNF761	missense	pMsF	strong			yes			
+14475	19:54387473	sub(C->A)	19:54387473:C:A	sM		PRKCG	synonymous	pMsM		strong:valid					
+12469	19:54647460	sub(T->C)	19:54647460:T:C	sF		CNOT3	missense	pMsF			strong:valid				
+14070	19:54675801	sub(C->T)	19:54675801:C:T	sF		TMC4	missense	pMsF	strong						
+13364	19:54697162	sub(C->T)	19:54697162:C:T	sM		TSEN34	missense	pMsM	strong			yes			
+11053	19:54781417	sub(C->T)	19:54781417:C:T	sM		LILRB2	synonymous	pMsM		not called:valid					
+11494	19:54782388	sub(T->C)	19:54782388:T:C	sM	dad	LILRB2	synonymous	pMsM	strong						
+11493	19:54962513	sub(A->C)	19:54962513:A:C	sM		LENG8	5'UTR	pFsM		strong					
+12619	19:55107336	sub(C->T)	19:55107336:C:T	pMsM		LILRA1	synonymous	pMsM			strong				
+12619	19:55107343	sub(T->C)	19:55107343:T:C	pMsM		LILRA1	missense	pMsM			strong				
+12295	19:55341589	sub(C->T)	19:55341589:C:T	sM		KIR3DL1	synonymous	pMsM		strong					
+11067	19:55351111	sub(C->T)	19:55351111:C:T	sF		KIR2DS4	missense	pMsF		not called:valid				yes	
+14358	19:55442030	sub(G->A)	19:55442030:G:A	sF		NLRP7	nonsense	pMsF			strong:valid				
+12656	19:55447735	sub(T->C)	19:55447735:T:C	sM	mom	NLRP7	missense	pMsM		strong					
+13738	19:55505737	sub(A->G)	19:55505737:A:G	sM		NLRP2	missense	pMsM	strong						
+14339	19:57176092	sub(T->C)	19:57176092:T:C	sF		ZNF835	missense	pMsF	strong						
+13807	19:57910087	sub(C->T)	19:57910087:C:T	sM		ZNF548	synonymous	pMsM	strong						
+14341	19:57988620	sub(G->T)	19:57988620:G:T	sF		ZNF772	intron	pMsF			strong				
+13793	19:58651151	sub(A->G)	19:58651151:A:G	sF		ZNF329	5'UTR-intron	pMsF			strong				
+12424	19:59010174	sub(G->T)	19:59010174:G:T	sF		SLC27A5	missense	pMsF	strong			yes			
+14168	19:59028446	sub(G->A)	19:59028446:G:A	sM		ZBTB45	synonymous	pMsM	strong						
+12189	20:2321207	sub(T->C)	20:2321207:T:C	sF		TGM3	missense	pMsF			weak:valid				
+14327	20:2451365	sub(G->A)	20:2451365:G:A	sF		SNRPB	5'UTR	pMsF		strong					
+11433	20:2842706	sub(G->A)	20:2842706:G:A	sF		VPS16	missense	pMsF		strong:valid				yes	
+14066	20:3128268	sub(C->A)	20:3128268:C:A	sM		FASTKD5	missense	pMsM	strong						
+14201	20:3729976	sub(A->G)	20:3729976:A:G	sF		HSPA12B	intron	pMsF			strong				
+14230	20:4163125	sub(G->T)	20:4163125:G:T	sM		SMOX	synonymous	pMsM	strong						
+14671	20:5283050	sub(C->T)	20:5283050:C:T	sF	dad	PROKR2	missense	pMsF	strong						
+13944	20:10625635	sub(A->G)	20:10625635:A:G	sM		JAG1	intron	pMsM		strong					
+12507	20:13695681	sub(C->T)	20:13695681:C:T	sF		ESF1	missense	pMsF		strong					
+13048	20:16254045	sub(C->T)	20:16254045:C:T	sF		KIF16B	synonymous	pFsF			strong:valid		yes		
+11676	20:17614231	sub(C->G)	20:17614231:C:G	sF		RRBP1	synonymous	pFsF		strong:valid				yes	
+13683	20:18296222	sub(G->A)	20:18296222:G:A	sF		ZNF133	missense	pMsF			not called:valid		yes		
+11114	20:18424065	sub(G->A)	20:18424065:G:A	sF		DZANK1	missense	pFsF		strong:valid				yes	
+12700	20:18496286	sub(C->G)	20:18496286:C:G	sM		SEC23B	intron	pMsM		strong					
+11156	20:19664943	sub(C->G)	20:19664943:C:G	sM		SLC24A3	missense	pMsM			strong:valid				
+12950	20:20007427	sub(G->A)	20:20007427:G:A	sM		NAA20	splice-site	pMsM	strong:valid			yes			
+12219	20:20505529	sub(G->A)	20:20505529:G:A	sF		RALGAPA2	missense	pMsF		strong:valid					
+12694	20:20571871	sub(C->T)	20:20571871:C:T	sF		RALGAPA2	missense	pFsF	strong						
+11194	20:23433337	sub(T->C)	20:23433337:T:C	sM		CST11	missense	pMsM		strong					
+12940	20:24950240	sub(C->T)	20:24950240:C:T	sM		APMAP	missense	pMsM	strong			yes			
+12449	20:30060747	sub(C->A)	20:30060747:C:A	sM		DEFB124	intron	pMsM	strong			yes			
+11496	20:30432906	sub(G->A)	20:30432906:G:A	sM		FOXS1	missense	pFsM			not called:valid				
+12006	20:30525216	sub(A->G)	20:30525216:A:G	sF		TTLL9	missense	pMsF	strong						
+11073	20:30732948	sub(C->T)	20:30732948:C:T	sF		TM9SF4	missense	pMsF			strong:valid				
+13522	20:31021191	sub(G->A)	20:31021191:G:A	sM		ASXL1	missense	pMsM	strong			yes			
+11405	20:31041466	sub(A->G)	20:31041466:A:G	sF		C20orf112	synonymous	pFsF	strong						
+13546	20:31877805	sub(G->T)	20:31877805:G:T	sF		BPIFB1	intron	pMsF	strong						
+13839	20:32212767	sub(G->A)	20:32212767:G:A	sF	dad	CBFA2T2	missense	pMsF		strong					
+12782	20:32246540	sub(C->T)	20:32246540:C:T	sF		NECAB3	missense	pMsF	strong			yes			
+14027	20:33449275	sub(C->A)	20:33449275:C:A	sM		GGT7	missense	pFsM			strong:valid				
+11615	20:33589105	sub(A->C)	20:33589105:A:C	sF		MYH7B	missense	pMsF		strong:valid					
+14115	20:33714064	sub(G->A)	20:33714064:G:A	sM		EDEM2	missense	pMsM	strong						
+14524	20:34130278	sub(A->G)	20:34130278:A:G	sF		ERGIC3	missense	pMsF			strong:valid				
+13980	20:35786254	sub(C->G)	20:35786254:C:G	sF		MROH8	intron	pMsF	strong						
+14452	20:36648193	sub(G->C)	20:36648193:G:C	sM		TTI1	5'UTR-intron	pMsM	strong						
+11592	20:36993348	sub(C->T)	20:36993348:C:T	sF		LBP	missense	pMsF		not called:valid					
+14666	20:37150314	sub(A->G)	20:37150314:A:G	sM		RALGAPB	missense	pMsM			strong:valid				
+13875	20:37161446	sub(C->T)	20:37161446:C:T	sM		RALGAPB	missense	pMsM	strong						
+13391	20:40143580	sub(C->T)	20:40143580:C:T	sF		CHD6	missense	pMsF			strong:valid				
+14215	20:42331253	sub(C->A)	20:42331253:C:A	sF		MYBL2	missense	pFsF	strong						
+11301	20:44574650	del(9)	20:44574649:TCTCTGTCCC:T	sF		PCIF1	intron	pMsF		strong					
+14664	20:44639765	sub(C->T)	20:44639765:C:T	sF		MMP9	intron	pMsF			strong				
+12108	20:45014761	ins(A)	20:45014760:C:CA	sM		ELMO2	intron	pMsM		strong					
+12994	20:50244243	sub(G->T)	20:50244243:G:T	sM		ATP9A	intron	pMsM		strong					
+14368	20:50407792	sub(G->A)	20:50407792:G:A	sM		SALL4	synonymous	pMsM			not called:valid				
+13439	20:54578922	sub(C->T)	20:54578922:C:T	sF		CBLN4	intron	pMsF	strong			yes			
+12851	20:60882632	sub(G->A)	20:60882632:G:A	sM		ADRM1	intron	pMsM	strong			yes			
+14602	20:60883796	del(2)	20:60883795:AGG:A	sF		ADRM1	frame-shift	pMsF			strong				
+14370	20:60904096	sub(G->A)	20:60904096:G:A	sF		LAMA5	synonymous	pMsF	strong						
+13226	20:60908254	sub(G->A)	20:60908254:G:A	sF		LAMA5	synonymous	pMsF		strong					
+13564	20:61162158	ins(A)	20:61162157:C:CA	sM		C20orf166	intron	pMsM	strong:valid			yes			
+13015	20:61476990	del(3)	20:61476989:TCAC:T	sF		DPH3P1	5'UTR	pMsF	strong:valid			yes			
+14172	20:61596986	sub(G->A)	20:61596986:G:A	sF		SLC17A9	missense	pMsF	strong						
+13944	20:61907940	sub(C->T)	20:61907940:C:T	sM		ARFGAP1	missense	pMsM		strong					
+11888	20:62198459	sub(C->G)	20:62198459:C:G	sM		HELZ2	missense	pMsM		strong:valid					
+12252	20:62493472	sub(C->T)	20:62493472:C:T	sM		ABHD16B	synonymous	pMsM	strong			yes			
+14459	20:62559822	sub(G->A)	20:62559822:G:A	sM		DNAJC5	intron	pMsM	strong						
+11062	21:10907041	sub(C->A)	21:10907041:C:A	pMsF		TPTE	splice-site	pMsF	not called:valid						
+14130	21:10942981	sub(C->A)	21:10942981:C:A	sF		TPTE	synonymous	pMsF	strong						
+12219	21:10943003	sub(C->T)	21:10943003:C:T	sF		TPTE	missense	pMsF		not called:valid					
+11178	21:16338241	sub(T->A)	21:16338241:T:A	sM		NRIP1	missense	pMsM			strong:valid				
+12680	21:18937982	sub(C->T)	21:18937982:C:T	sM		CXADR	missense	pMsM		strong	not called				
+14120	21:18981283	sub(C->T)	21:18981283:C:T	sF		BTG3	intron	pMsF	strong						
+13562	21:19725228	sub(T->C)	21:19725228:T:C	sF		TMPRSS15	missense	pMsF	strong			yes			
+13562	21:19725237	sub(G->C)	21:19725237:G:C	sF		TMPRSS15	missense	pMsF	strong			yes			
+14201	21:30959815	sub(A->G)	21:30959815:A:G	sF		GRIK1	missense	pMsF			not called:valid				
+14648	21:32869814	sub(G->A)	21:32869814:G:A	sM	dad	TIAM1	5'UTR-intron	pMsM			strong				
+13875	21:33692861	sub(A->G)	21:33692861:A:G	sM		URB1	synonymous	pMsM	strong						
+12197	21:34889753	sub(T->C)	21:34889753:T:C	sF		GART	missense	pMsF		strong:valid					
+13788	21:34924648	sub(C->T)	21:34924648:C:T	sF		SON	synonymous	pMsF	strong						
+13439	21:35209237	sub(G->T)	21:35209237:G:T	sF		ITSN1	intron	pMsF	strong			yes			
+12690	21:35247651	sub(T->A)	21:35247651:T:A	sM		ITSN1	intron	pMsM		strong					
+14159	21:35467898	sub(A->G)	21:35467898:A:G	sF		SLC5A3	missense	pMsF	strong						
+14297	21:37612069	sub(G->T)	21:37612069:G:T	sM		DOPEY2	missense	pMsM	strong						
+13651	21:38997515	sub(C->T)	21:38997515:C:T	sF		KCNJ6	synonymous	pMsF	strong						
+13562	21:41668035	sub(T->C)	21:41668035:T:C	sF		DSCAM	missense	pMsF	strong			yes			
+11642	21:42769588	del(4)	21:42769587:GACTT:G	sF		MX2	frame-shift	pMsF		strong:valid					
+14216	21:44195416	sub(G->A)	21:44195416:G:A	sM		PDE9A	3'UTR	pMsM	strong						
+14386	21:44323370	sub(C->T)	21:44323370:C:T	sF	mom	NDUFV3	missense	pMsF			strong:valid				
+13203	21:44513327	sub(C->T)	21:44513327:C:T	sF		U2AF1	missense	pMsF		not called:valid					
+14556	21:44839867	sub(A->T)	21:44839867:A:T	pMsF		SIK1	missense	pMsF			strong				
+12161	21:44840121	sub(G->A)	21:44840121:G:A	sF		SIK1	missense	pFsF			weak:valid				
+11530	21:45379691	del(1)	21:45379690:AG:A	sF		AGPAT3	frame-shift	pMsF	strong						
+12308	21:45499514	sub(C->A)	21:45499514:C:A	sM		TRAPPC10	synonymous	pFsM		strong:valid				yes	
+13864	21:45993754	del(15)	21:45993753:CCCTGCTGCGCCCCCA:C	sM		KRTAP10-4	no-frame-shift	pMsM		strong					
+13795	21:46595867	ins(T)	21:46595866:A:AT	sF		ADARB1	frame-shift	pFsF		strong:valid					
+12317	21:47407363	sub(G->A)	21:47407363:G:A	sF		COL6A1	intron	pMsF		strong					
+11345	21:47557011	sub(G->A)	21:47557011:G:A	sM		FTCD	intron	pMsM		strong					
+14609	21:47641795	sub(G->A)	21:47641795:G:A	sF		LSS	nonsense	pMsF			strong:valid				
+11775	21:47687021	sub(C->T)	21:47687021:C:T	sF		MCM3AP	synonymous	pMsF		strong					
+13152	22:20024291	sub(A->T)	22:20024291:A:T	sF		TANGO2	5'UTR	pMsF	strong:valid			yes			
+13898	22:21087400	sub(T->C)	22:21087400:T:C	sM		PI4KA	intron	pMsM	strong						
+12748	22:21304053	sub(G->A)	22:21304053:G:A	sM		CRKL	missense	pMsM	strong:valid			yes			
+14241	22:21337368	sub(G->A)	22:21337368:G:A	sM	dad	LZTR1	missense	pFsM	strong						
+12907	22:21341819	ins(T)	22:21341818:G:GT	sF		LZTR1	frame-shift	pMsF	strong:valid						
+14192	22:21350343	sub(G->A)	22:21350343:G:A	sF		LZTR1	missense	pFsF	strong						
+14064	22:21385337	sub(G->A)	22:21385337:G:A	sF		SLC7A4	synonymous	pFsF			not called:valid				
+14015	22:22453440	sub(C->T)	22:22453440:C:T	sM			intergenic	pMsM	strong						
+13571	22:22712627	sub(C->T)	22:22712627:C:T	sM	dad		intergenic	pMsM			strong				
+13859	22:23029469	sub(C->T)	22:23029469:C:T	sF	dad		intergenic	pMsF	strong						
+14221	22:23029757	sub(A->G)	22:23029757:A:G	sM			intergenic	pFsM	strong						
+13153	22:23115079	sub(G->A)	22:23115079:G:A	sM			intergenic	pMsM	strong			yes			
+12690	22:24491884	sub(G->T)	22:24491884:G:T	sM	dad	CABIN1	intron	pMsM		strong					
+14185	22:24982234	sub(T->C)	22:24982234:T:C	sM		FAM211B	missense	pMsM	strong						
+13551	22:24984275	sub(G->A)	22:24984275:G:A	sF		FAM211B	missense	pMsF	strong						
+14195	22:24985843	del(1)	22:24985842:TG:T	sM		FAM211B	frame-shift	pMsM	not called:valid						
+14450	22:25714369	ins(TCCCACCCTC)	22:25714368:G:GTCCCACCCTC	pMsM	mom	IGLL3P	non-coding-intron	pMsM		strong					
+11855	22:28293829	sub(A->G)	22:28293829:A:G	sF		PITPNB	synonymous	pMsF	strong						
+14591	22:28395403	sub(A->G)	22:28395403:A:G	sF		TTC28	intron	pMsF			strong				
+13975	22:29879475	sub(T->C)	22:29879475:T:C	sM		NEFH	missense	pMsM		strong:valid					
+11544	22:29884893	sub(C->G)	22:29884893:C:G	sM	mom	NEFH	missense	pMsM			strong:valid				
+12705	22:30683128	del(1)	22:30683127:CA:C	sM		GATSL3	intron	pMsM	strong:valid			yes			
+13039	22:30688449	del(15)	22:30688448:AGGGGCTGAGTCCTTG:A	sM		TBC1D10A	no-frame-shift	pMsM	strong:valid			yes			
+11413	22:32804767	sub(T->A)	22:32804767:T:A	sM		RTCB	missense	pMsM		strong					
+13966	22:36054722	sub(C->T)	22:36054722:C:T	sF		APOL6	synonymous	pMsF		strong:valid					
+11578	22:36587662	sub(C->T)	22:36587662:C:T	sM		APOL4	missense	pMsM	strong						
+11024	22:36715636	sub(C->T)	22:36715636:C:T	sF		MYH9	missense	pMsF	strong						
+12460	22:37328933	sub(C->T)	22:37328933:C:T	sM		CSF2RB	missense	pMsM	strong			yes			
+11030	22:37699352	sub(C->T)	22:37699352:C:T	sF		CYTH4	missense	pMsF		strong:valid					
+14089	22:37770205	sub(T->C)	22:37770205:T:C	sF	dad	ELFN2	missense	pFsF	strong						
+13497	22:39448270	sub(C->T)	22:39448270:C:T	sM		APOBEC3F	synonymous	pMsM		strong:valid				yes	
+12032	22:39636902	sub(T->A)	22:39636902:T:A	sF		PDGFB	5'UTR	pMsF	strong						
+12032	22:39636903	sub(C->G)	22:39636903:C:G	sF		PDGFB	5'UTR	pMsF	strong						
+13831	22:39770383	sub(G->C)	22:39770383:G:C	sF		SYNGR1	missense	pMsF	strong						
+11337	22:39918091	sub(A->C)	22:39918091:A:C	sF		ATF4	missense	pMsF	strong						
+13203	22:40757513	sub(A->T)	22:40757513:A:T	sF		ADSL	missense	pMsF		strong:valid					
+14515	22:41231637	sub(G->C)	22:41231637:G:C	sF		ST13	missense	pMsF			not called:valid				
+12153	22:41573317	sub(A->C)	22:41573317:A:C	sF		EP300	missense	pMsF			weak:valid		yes		
+12297	22:41735891	sub(C->T)	22:41735891:C:T	sM		ZC3H7B	synonymous	pMsM		strong:valid				yes	
+14108	22:42149925	del(5)	22:42149924:CTTCTA:C	sF		MEI1	intron	pMsF		strong					
+12120	22:42294709	sub(C->G)	22:42294709:C:G	sF		SREBF2	missense	pMsF		not called:valid				yes	
+12976	22:43464527	sub(G->A)	22:43464527:G:A	sM		TTLL1	missense	pMsM	strong			yes			
+11011	22:44372025	sub(C->T)	22:44372025:C:T	sM		SAMM50	nonsense	pMsM			strong:valid				
+14206	22:45595741	sub(A->G)	22:45595741:A:G	sF		KIAA0930	intron	pFsF	strong						
+12494	22:46832173	sub(C->G)	22:46832173:C:G	sF		CELSR1	missense	pMsF	strong						
+12673	22:47068805	sub(G->A)	22:47068805:G:A	sM		GRAMD4	missense	pMsM	strong						
+12424	22:50555726	sub(G->T)	22:50555726:G:T	sF		MOV10L1	missense	pMsF	strong			yes			
+11040	22:50633461	sub(G->A)	22:50633461:G:A	sF		TRABD	missense	pMsF			not called:valid				
+12123	X:209850	sub(G->A)	X:209850:G:A	pFsF		PLCXD1	missense	pFsF		strong					
+11152	X:1321275	sub(C->T)	X:1321275:C:T	sF		CRLF2	nonsense	pMsF		strong:valid					
+14136	X:1506249	sub(G->A)	X:1506249:G:A	sF		SLC25A6	missense	pMsF	strong						
+12861	X:3573241	sub(T->A)	X:3573241:T:A	sF		PRKX	missense	pMsF	strong			yes			
+13586	X:5821174	sub(G->A)	X:5821174:G:A	sF		NLGN4X	synonymous	pMsF	strong			yes			
+14403	X:12725046	sub(T->G)	X:12725046:T:G	sF		FRMPD4	intron	pMsF		strong					
+11905	X:12828150	sub(G->A)	X:12828150:G:A	sF		PRPS2	missense	pMsF		not called:valid				yes	
+13072	X:15612963	sub(C->T)	X:15612963:C:T	sF		ACE2	intron	pFsF	strong			yes			
+13135	X:16672582	sub(G->T)	X:16672582:G:T	pMsM		S100G	nonsense	pMsM	strong:valid			yes			
+13890	X:16847829	sub(A->T)	X:16847829:A:T	sF		TXLNG	missense	pFsF			strong:valid				
+13942	X:18912457	sub(G->A)	X:18912457:G:A	sF		PHKA2	synonymous	pMsF	strong						
+11855	X:18925137	sub(C->G)	X:18925137:C:G	sF		PHKA2	missense	pMsF	strong						
+12786	X:18926137	sub(C->T)	X:18926137:C:T	sM		PHKA2	missense	pMsM	strong						
+13371	X:19947974	sub(G->A)	X:19947974:G:A	sF		CXorf23	missense	pMsF			strong:valid				
+13893	X:38019428	sub(T->C)	X:38019428:T:C	sF		SRPX	missense	pMsF		strong					
+13910	X:38420766	ins(GCC)	X:38420765:T:TGCC	sF		TSPAN7	5'UTR	pMsF	not called	strong	strong				
+12498	X:41586832	sub(A->C)	X:41586832:A:C	sF		GPR82	missense	pMsF	strong:valid			yes			
+14375	X:47100661	sub(C->T)	X:47100661:C:T	sF		USP11	intron	pMsF			strong				
+12123	X:48054199	sub(T->C)	X:48054199:T:C	sF		SSX5	missense	pFsF		strong:valid					
+11003	X:48374469	sub(C->T)	X:48374469:C:T	sF		PORCN	missense	pMsF		strong					
+13330	X:48399823	sub(T->C)	X:48399823:T:C	sF		TBC1D25	synonymous	pMsF	strong:valid			yes			
+14618	X:49032285	sub(G->A)	X:49032285:G:A	sF	dad	PRICKLE3	missense	pMsF			strong:valid				
+11106	X:49034380	sub(C->T)	X:49034380:C:T	sM		PRICKLE3	missense	pMsM			not called:valid				
+13499	X:53223460	sub(T->A)	X:53223460:T:A	sF		KDM5C	missense	pMsF	strong			yes			
+13916	X:54037669	sub(G->A)	X:54037669:G:A	sF		PHF8	missense	pMsF	strong:valid	strong:valid	strong:valid				
+14566	X:54949846	sub(C->T)	X:54949846:C:T	sF		TRO	missense	pMsF			not called:valid				
+11872	X:54978349	sub(G->A)	X:54978349:G:A	sF		PFKFB1	missense	pFsF			strong				
+13465	X:55028697	sub(C->G)	X:55028697:C:G	sF		APEX2	missense	pMsF	strong			yes			
+13021	X:55757913	sub(A->G)	X:55757913:A:G	sF		RRAGB	missense	pMsF	strong			yes			
+11450	X:66943674	sub(C->T)	X:66943674:C:T	sF		AR	synonymous	pMsF			strong:valid				
+13048	X:67943847	sub(G->A)	X:67943847:G:A	sF		STARD8	synonymous	pFsF			not called:valid		yes		
+11169	X:69421748	sub(C->T)	X:69421748:C:T	sF		DGAT2L6	missense	pMsF			strong:valid				
+12358	X:69521842	sub(G->A)	X:69521842:G:A	sM		KIF4A	synonymous	pFsM			strong:valid		yes		
+12373	X:70389790	sub(G->A)	X:70389790:G:A	sF		NLGN3	missense	pMsF			strong:valid				
+13870	X:70776554	sub(C->T)	X:70776554:C:T	sF		OGT	missense	pFsF		strong					
+11568	X:72223743	del(1)	X:72223742:CG:C	sF		PABPC1L2B	frame-shift	pFsF			strong				
+11568	X:72298961	del(1)	X:72298960:AC:A	sF		PABPC1L2A	frame-shift	pFsF			strong				
+14022	X:73964160	sub(G->C)	X:73964160:G:C	sF		KIAA2022	missense	pMsF	strong						
+12972	X:76891432	del(2)	X:76891431:GAT:G	sF	dad	ATRX	frame-shift	pMsF	strong:valid			yes			
+12994	X:100081664	sub(T->A)	X:100081664:T:A	sM		CSTF2	synonymous	pMsM		strong:valid					
+11490	X:100612656	sub(C->T)	X:100612656:C:T	sF		BTK	intron	pMsF		not called:valid					
+11401	X:101092582	sub(C->T)	X:101092582:C:T	sF		NXF5	missense	pMsF	strong						
+11437	X:101095482	sub(A->G)	X:101095482:A:G	sM		NXF5	synonymous	pMsM		strong					
+13506	X:102755250	sub(G->A)	X:102755250:G:A	sF		RAB40A	synonymous	pMsF	strong			yes			
+12969	X:103495591	sub(A->G)	X:103495591:A:G	sM		ESX1	intron	pMsM	strong			yes			
+14606	X:105190409	sub(A->G)	X:105190409:A:G	sF		NRK	missense	pMsF			strong:valid				
+11651	X:107018422	sub(C->A)	X:107018422:C:A	sF		TSC22D3	synonymous	pMsF		not called:valid					
+14082	X:107413877	sub(A->G)	X:107413877:A:G	sF		COL4A6	missense	pMsF	strong						
+14404	X:109560949	sub(T->C)	X:109560949:T:C	sF		AMMECR1	synonymous	pMsF	strong						
+12153	X:110654033	sub(G->A)	X:110654033:G:A	sF		DCX	missense	pMsF			strong:valid		yes		
+13148	X:114541251	sub(T->C)	X:114541251:T:C	sF		LUZP4	missense	pMsF	strong			yes			
+12375	X:119513369	sub(C->T)	X:119513369:C:T	sF		ATP1B4	synonymous	pMsF		strong:valid				yes	
+13855	X:122801088	sub(T->C)	X:122801088:T:C	sF		THOC2	synonymous	pMsF		strong:valid					
+12123	X:123654474	sub(C->T)	X:123654474:C:T	sF		TENM1	missense	pFsF		strong:valid					
+14536	X:125685718	sub(C->T)	X:125685718:C:T	sF		DCAF12L1	missense	pMsF			not called:valid				
+12385	X:128894535	sub(C->T)	X:128894535:C:T	sF		XPNPEP2	synonymous	pMsF			strong:valid				
+14684	X:129281743	sub(C->T)	X:129281743:C:T	sF		AIFM1	missense	pMsF	strong						
+13952	X:129457102	sub(T->C)	X:129457102:T:C	sM			intergenic	pMsM	strong						
+13226	X:129519145	sub(C->T)	X:129519145:C:T	sF		GPR119	missense	pMsF		strong					
+13533	X:129804161	sub(G->A)	X:129804161:G:A	sM		ENOX2	missense	pMsM			not called:valid		yes		
+13499	X:130408069	sub(C->A)	X:130408069:C:A	sF		IGSF1	missense	pMsF	strong			yes			
+13555	X:131212608	sub(G->A)	X:131212608:G:A	sF	mom	FRMD7	synonymous	pFsF	strong						
+14336	X:134167161	sub(G->A)	X:134167161:G:A	sF		FAM127A	3'UTR	pFsF			strong				
+12211	X:135426634	sub(G->A)	X:135426634:G:A	sF		GPR112	missense	pFsF	strong						
+14575	X:140994381	sub(C->G)	X:140994381:C:G	pMsM		MAGEC1	missense	pMsM			strong				
+12731	X:144905900	sub(G->A)	X:144905900:G:A	sF		SLITRK2	missense	pMsF		strong:valid					
+13133	X:148582585	sub(G->T)	X:148582585:G:T	sF	dad	IDS	intron	pMsF	strong			yes			
+14279	X:152085704	sub(A->G)	X:152085704:A:G	sM		ZNF185	missense	pMsM	strong						
+13870	X:153129770	sub(G->A)	X:153129770:G:A	sF		L1CAM	intron	pFsF		strong					
+14048	X:153184737	sub(G->A)	X:153184737:G:A	sM		ARHGAP4	missense	pMsM	strong						
+12715	X:153588164	sub(C->T)	X:153588164:C:T	sF		FLNA	synonymous	pMsF	strong						
+13035	X:153689643	sub(G->A)	X:153689643:G:A	sF		PLXNA3	missense	pFsF	strong			yes			
