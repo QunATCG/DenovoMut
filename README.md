@@ -5,6 +5,7 @@
 - **ExpressionFile**: Single cell expression data (female fetal germ cell, follicle, maturation oocyte and early embryo).
 - **GOTerms**: GO terms.
 - **ProteinStructure**: Protein structure predicted by AlphaFold2.
+- **PublicControlDenovoGenes**：Puclic *de novo* mutation genes.
 - **ScriptForPlot**: Scripts for plot.
 - **sangerSequencing**: Raw sanger sequencing data.
 
