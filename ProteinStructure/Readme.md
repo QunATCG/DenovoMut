@@ -1,4 +1,4 @@
-you can open it with PyMOL software.
+you can open it (*.pse, *.pdb) with PyMOL software.
 
 Open-Source PyMOL software can be accessed by https://github.com/schrodinger/pymol-open-source
 
