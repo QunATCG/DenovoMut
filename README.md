@@ -17,7 +17,11 @@ Data are available on reasonable request. The main data relevant to the study ar
 liqun95@163.com or 20111510021@fudan.edu.cn
 
 ## Citation
-Li, Q., Zhao, L., Zeng, Y. et al. Large-scale analysis of de novo mutations identifies risk genes for female infertility characterized by oocyte and early embryo defects. Genome Biol 24, 68 (2023). https://doi.org/10.1186/s13059-023-02894-0
+Li, Q., Zhao, L., Zeng, Y. et al. Large-scale analysis of *de novo* mutations identifies risk genes for female infertility characterized by oocyte and early embryo defects. Genome Biol 24, 68 (2023). https://doi.org/10.1186/s13059-023-02894-0
+        
+        
+        
+        
         
         
         
