@@ -1,7 +1,7 @@
 final mean exp files can be downloaded from https://github.com/QunATCG/DenovoMut/tree/main/ExpressionFile <br>
 single cell data (FGC.rds) can download from https://zenodo.org/record/6523440/files/FGC.rds?download=1
 
-**This part of the analysis refers to these papers:**
+**References:**
 - (1) Li L, Dong J, Yan L, Yong J, Liu X, Hu Y, Fan X, Wu X, Guo H, Wang X, et al: **Single-Cell RNA-Seq Analysis Maps Development of Human Germline Cells and Gonadal Niche Interactions.** *Cell Stem Cell* 2017, 20:858-873.e854.
 - (2) Zhang Y, Yan Z, Qin Q, Nisenblat V, Chang HM, Yu Y, Wang T, Lu C, Yang M, Yang S, et al: **Transcriptome Landscape of Human Folliculogenesis Reveals Oocyte and Granulosa Cell Interactions.** *Mol Cell* 2018, 72:1021-1034.e1024.
 - (3) Xue Z, Huang K, Cai C, Cai L, Jiang CY, Feng Y, Liu Z, Zeng Q, Cheng L, Sun YE, et al: **Genetic programs in human and mouse early embryos revealed by single-cell RNA sequencing.** *Nature* 2013, 500:593-597.
